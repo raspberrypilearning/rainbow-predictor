@@ -13,5 +13,9 @@ interests: ''
 technologies: sense-hat
 site_areas: codeclub, sense-hat
 steps:
+- title: 'Introduction: '
+- title: Drawing a rainbow
+- title: Reading the sensor data
+- title: Predicting a rainbow
 - title: 'Challenge: More Weather'
 

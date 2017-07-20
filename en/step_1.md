@@ -1,28 +1,25 @@
---- challenge ---
-## Challenge: More Weather
+## Introduction: 
 
-Can you display a sun image when the temperature is above 20 and the humidity is below 80%. 
+In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix. 
 
-Tip: Use `elif` to check for other kinds of weather. For each kind of weather you'll need to include a condition to check for a kind of weather and then code to set the display on the Sense HAT.
+You will be writing code in the Python programming language, which you may have learnt in the [Python module](../../python/).
 
-![screenshot](images/rainbow-elif.png)
+<div class="trinket">
+<iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+<img src="images/rainbow-final.png">
+</div>
 
-Tip: You can create a simple sun by setting all the pixels to yellow with `clear()`. Or you can try creating a pixel image like you did with the rainbow. 
+In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
 
-![screenshot](images/rainbow-sun.png)
+![screenshot](images/rainbow-sliders.png) 
 
-How about a snow image if the humidity is above 80% and the temperature is below zero.
-
-Tip: Set red, green and blue to the maximum of 255 to create white. 
-
-![screenshot](images/rainbow-snow.png)
-
+You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).  
 
 
+### Additional information for club leaders
 
---- /challenge ---### Additional information for club leaders
-
-If you need to print this project, please use the [Printer friendly version](./print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/rainbow-predictor/print).
 
 
 --- collapse ---
