@@ -19,7 +19,7 @@ You'll get a rainbow if the temperature is over 20 degrees C and the humidity is
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/rainbow-predictor/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
 
 --- collapse ---
