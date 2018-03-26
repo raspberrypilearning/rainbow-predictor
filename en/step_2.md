@@ -16,7 +16,7 @@ To set the colour of an individual LED we need to say how much red, green and bl
     
     Make sure you use a capital letter `R`. 
        
-+ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Make sure you use a capital letter `O` not a number zero. Use `sense.clear(O)` this time to test the new colour. 
++ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets. 
 
     ![screenshot](images/rainbow-orange.png)
 
