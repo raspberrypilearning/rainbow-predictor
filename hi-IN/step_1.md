@@ -78,6 +78,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 * [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
 * [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
-* [rainbow-finished/rainbow.py](resources/rainbow-finished-rainbow.py)
+* [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
