@@ -1,0 +1,29 @@
+---
+hero_image: images / rainbow-predictor.png
+theme: vermell
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, disseny-0, programació-1, phys-comp-0, fabricació-0, comunitat-0
+title: Rainbow Predictor
+description: Display a rainbow when the conditions are met.
+original_url: https://codeclubprojects.org/en-GB/sense-hat/rainbow-predictor
+interests: el temps
+technologies: sense-hat
+site_areas: projectes
+hardware: sense-hat
+software: ''
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: 'Introducció: '
+  - 
+    title: Drawing a rainbow
+  - 
+    title: Reading the sensor data
+  - 
+    title: Predicting a rainbow
+  - 
+    title: 'Challenge: More Weather'
