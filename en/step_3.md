@@ -4,12 +4,9 @@ The Sense HAT has a range of sensors that provide real world data on a Raspberry
 
 The humidity sensor reports the amount of moisture in the air. Humidity is high when it rains. 
 
-
-
 + Let's read from the humidity sensor and print out the result. Add the highlighted code to the bottom of your script.
 
     ![screenshot](images/rainbow-humid.png)
-
 
 + Test your program by moving the humidity slider to different values. 
 

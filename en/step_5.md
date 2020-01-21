@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: More Weather
 
 Can you display a sun image when the temperature is above 20 and the humidity is below 80%. 
@@ -16,8 +17,5 @@ How about a snow image if the humidity is above 80% and the temperature is below
 Tip: Set red, green and blue to the maximum of 255 to create white. 
 
 ![screenshot](images/rainbow-snow.png)
-
-
-
 
 --- /challenge ---
