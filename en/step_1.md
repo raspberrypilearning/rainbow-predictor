@@ -63,15 +63,13 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 ## Challenges
 + More Weather - display different images under different weather conditions. 
 
-
-
 --- /collapse ---
-
 
 --- collapse ---
 ---
 title: Project materials
 ---
+
 ## Project resources
 * [.zip file containing all project resources](resources/rainbow-project-resources.zip)
 * [Starter project](http://jumpto.cc/rainbow-go)

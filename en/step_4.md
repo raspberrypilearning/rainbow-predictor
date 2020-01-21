@@ -2,8 +2,6 @@
 
 Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon.) If it's warm and the humidity is high then it's worth checking to see if there's a rainbow. 
 
-
-
 + Now let's only show the rainbow if the conditions are right. Change your code to look like this:
 
     ![screenshot](images/rainbow-check.png)
