@@ -1,4 +1,4 @@
-## Úvod:
+## Introduction:
 
 In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
 
@@ -13,52 +13,52 @@ In the Trinket emulator you can move the sliders to change the temperature and h
 
 You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
 
-### Další informace pro vedoucí klubů
+### Additional information for club leaders
 
-Potřebujete-li tento projekt vytisknout, použijte [verzi pro tisk ](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print) {: target = "_ prázdný.
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
 ## \--- collapse \---
 
-## title: Poznámky vedoucího klubu
+## title: Club leader notes
 
-## Úvod:
+## Introduction:
 
 In this project, children will learn how to use the Sense HAT sensors to detect the weather, and display a rainbow using the LED matrix when it's warm and humid.
 
-## Online zdroje
+## Online Resources
 
-**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. Projekt obsahuje následující trinkety:
+**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
 * ['Rainbow Predictor' Starter Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
 
-K dispozici je také trinket obsahující dokončený projekt:
+There is also a trinket containing the completed project:
 
 * [‘Rainbow Predictor’ Finished -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
 
-## Offline zdroje
+## Offline Resources
 
-This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. Ke zdrojům projektu se dostanete kliknutím na odkaz "materiály pro projekt". Tento odkaz obsahuje sekci "zdroje projektu", se zdroji, které děti budou potřebovat k dokončení projektu offline. Ujistěte se, že každé dítě má přístup ke kopii těchto zdrojů. Tato sekce obsahuje následující soubory:
+This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 * rainbow/rainbow.py
 
-V sekci "zdroje dobrovolníků" také můžete najít dokončenou verzi tohoto projektu, která obsahuje:
+You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
 
 * rainbow-finished/rainbow.py
 
-(Všechny výše zmíněné zdroje jsou také stažitelné jako `.zip` soubory.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Vzdělávací cíle
+## Learning Objectives
 
 * Physical computing - sensors;
 * Boolean AND; 
 * RGB Colours;
 * Sense HAT display;
 
-Tento projekt zahrnuje prvky z následujících částí výukových osnov [ Raspberry Pi Digitální bastlení ](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Vyřešení problému kombinováním programovacích konstruktů.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Výzvy
+## Challenges
 
 * More Weather - display different images under different weather conditions. 
 
@@ -66,18 +66,18 @@ Tento projekt zahrnuje prvky z následujících částí výukových osnov [ Ras
 
 ## \--- collapse \---
 
-## title: Materiály projektu
+## title: Project materials
 
-## Zdroje projektu
+## Project resources
 
-* [.zip soubor se všemi zdroji projektu](resources/rainbow-project-resources.zip)
+* [.zip file containing all project resources](resources/rainbow-project-resources.zip)
 * [Starter project](http://jumpto.cc/rainbow-go)
 * [Offline starter Python file](resources/rainbow-rainbow.py)
 
-## Zdroje pro vedoucího klubu
+## Club leader resources
 
-* [.zip soubor se všemi zdroji dokončeného projektu](resources/rainbow-volunteer-resources.zip)
-* [online trinket dokončeného projektu](https://trinket.io/python/eaea4cb76c)
+* [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
