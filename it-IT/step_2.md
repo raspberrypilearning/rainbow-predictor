@@ -22,7 +22,7 @@ To set the colour of an individual LED we need to say how much red, green and bl
     
     You can test your colours using `sense.clear()`.
     
-    ![schermata](images/rainbow-colours.png)
+    ![screenshot](images/rainbow-colours.png)
 
 + Add a variable `X` for setting pixels to off (no red, green or blue):
     
@@ -30,4 +30,4 @@ To set the colour of an individual LED we need to say how much red, green and bl
 
 + Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
     
-    ![schermata](images/rainbow-rainbow.png)
+    ![screenshot](images/rainbow-rainbow.png)
