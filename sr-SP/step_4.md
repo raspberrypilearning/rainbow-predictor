@@ -4,13 +4,13 @@ Rainbows happen when the sun shines through water droplets at the right angle (u
 
 + Now let's only show the rainbow if the conditions are right. Change your code to look like this:
     
-    ![слика екрана](images/rainbow-check.png)
+    ![screenshot](images/rainbow-check.png)
     
     You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
 
 + Try changing the values on the slider until you see the rainbow.
     
-    ![слика екрана](images/rainbow-trigger.png)
+    ![screenshot](images/rainbow-trigger.png)
     
     Remember that the values reported won't be exactly the same as those shown on the sliders.
 
