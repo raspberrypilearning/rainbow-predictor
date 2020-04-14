@@ -1,4 +1,4 @@
-## Introdução:
+## Introduction:
 
 In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
 
@@ -9,19 +9,19 @@ In this project you will use the temperature and humidity sensors on the Sense H
 
 In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
 
-![captura de ecrã](images/rainbow-sliders.png)
+![screenshot](images/rainbow-sliders.png)
 
 You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
 
-### Informações adicionais para os líderes do clube
+### Additional information for club leaders
 
-Se precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
 ## \--- collapse \---
 
-## title: Notas de líder de clube
+## title: Club leader notes
 
-## Introdução:
+## Introduction:
 
 In this project, children will learn how to use the Sense HAT sensors to detect the weather, and display a rainbow using the LED matrix when it's warm and humid.
 
@@ -47,18 +47,18 @@ You can also find a completed version of this project in the 'Volunteer Resource
 
 (All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Objetivos de Aprendizagem
+## Learning Objectives
 
 * Physical computing - sensors;
 * Boolean AND; 
 * RGB Colours;
 * Sense HAT display;
 
-Este projeto abrange elementos das seguintes vertentes do [ Curriculo Raspberry Pi Digital Making ](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Combinar construções de programação para resolver um problema.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Desafios
+## Challenges
 
 * More Weather - display different images under different weather conditions. 
 
@@ -66,7 +66,7 @@ Este projeto abrange elementos das seguintes vertentes do [ Curriculo Raspberry 
 
 ## \--- collapse \---
 
-## title: Materiais do projeto
+## title: Project materials
 
 ## Project resources
 
@@ -74,7 +74,7 @@ Este projeto abrange elementos das seguintes vertentes do [ Curriculo Raspberry 
 * [Starter project](http://jumpto.cc/rainbow-go)
 * [Offline starter Python file](resources/rainbow-rainbow.py)
 
-## Recursos do líder de clube
+## Club leader resources
 
 * [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
 * [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
