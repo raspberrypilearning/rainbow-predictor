@@ -10,7 +10,7 @@ Rainbows happen when the sun shines through water droplets at the right angle (u
 
 + Try changing the values on the slider until you see the rainbow.
     
-    ![скриншот](images/rainbow-trigger.png)
+    ![screenshot](images/rainbow-trigger.png)
     
     Remember that the values reported won't be exactly the same as those shown on the sliders.
 
