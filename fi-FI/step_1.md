@@ -1,4 +1,4 @@
-## Esittely:
+## Introduction:
 
 In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
 
@@ -9,19 +9,19 @@ In this project you will use the temperature and humidity sensors on the Sense H
 
 In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
 
-![ruutukaappaus](images/rainbow-sliders.png)
+![screenshot](images/rainbow-sliders.png)
 
 You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
 
-### Lisätietoja klubin vetäjille
+### Additional information for club leaders
 
-Jos haluat tulostaa tämän projektin, käytä [Tulostettava versio](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
 ## \--- collapse \---
 
-## title: Opettajille
+## title: Club leader notes
 
-## Esittely:
+## Introduction:
 
 In this project, children will learn how to use the Sense HAT sensors to detect the weather, and display a rainbow using the LED matrix when it's warm and humid.
 
@@ -54,11 +54,11 @@ You can also find a completed version of this project in the 'Volunteer Resource
 * RGB Colours;
 * Sense HAT display;
 
-Tämä projekti kattaa osia [Raspberry Pi Digital Making -opetussuunnitelman](http://rpf.io/curriculum) seuraavista osioista:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Haasteet
+## Challenges
 
 * More Weather - display different images under different weather conditions. 
 
@@ -66,7 +66,7 @@ Tämä projekti kattaa osia [Raspberry Pi Digital Making -opetussuunnitelman](ht
 
 ## \--- collapse \---
 
-## otsikko: Projektiaineistot
+## title: Project materials
 
 ## Project resources
 
@@ -74,7 +74,7 @@ Tämä projekti kattaa osia [Raspberry Pi Digital Making -opetussuunnitelman](ht
 * [Starter project](http://jumpto.cc/rainbow-go)
 * [Offline starter Python file](resources/rainbow-rainbow.py)
 
-## Opettajien aineistot
+## Club leader resources
 
 * [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
 * [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
