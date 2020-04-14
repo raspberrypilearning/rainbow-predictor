@@ -1,4 +1,4 @@
-## Introduksjon:
+## Introduction:
 
 In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
 
@@ -9,19 +9,19 @@ In this project you will use the temperature and humidity sensors on the Sense H
 
 In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
 
-![skjermbilde](images/rainbow-sliders.png)
+![screenshot](images/rainbow-sliders.png)
 
 You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
 
-### Tilleggsinformasjon for klubbledere
+### Additional information for club leaders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
-## \--- kollaps \---
+## \--- collapse \---
 
 ## title: Club leader notes
 
-## Introduksjon:
+## Introduction:
 
 In this project, children will learn how to use the Sense HAT sensors to detect the weather, and display a rainbow using the LED matrix when it's warm and humid.
 
@@ -62,9 +62,9 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 * More Weather - display different images under different weather conditions. 
 
-\--- / kollaps \---
+\--- /collapse \---
 
-## \--- kollaps \---
+## \--- collapse \---
 
 ## title: Project materials
 
@@ -80,4 +80,4 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
-\--- / kollaps \---
+\--- /collapse \---
