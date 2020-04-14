@@ -4,7 +4,7 @@ Rainbows happen when the sun shines through water droplets at the right angle (u
 
 + Now let's only show the rainbow if the conditions are right. Change your code to look like this:
     
-    ![captura de ecrã](images/rainbow-check.png)
+    ![screenshot](images/rainbow-check.png)
     
     You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
 
