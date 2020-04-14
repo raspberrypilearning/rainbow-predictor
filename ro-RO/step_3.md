@@ -6,10 +6,10 @@ The humidity sensor reports the amount of moisture in the air. Humidity is high 
 
 + Let's read from the humidity sensor and print out the result. Add the highlighted code to the bottom of your script.
     
-    ![captură de ecran](images/rainbow-humid.png)
+    ![screenshot](images/rainbow-humid.png)
 
 + Test your program by moving the humidity slider to different values.
     
-    ![captură de ecran](images/rainbow-slider.png)
+    ![screenshot](images/rainbow-slider.png)
     
     Notice that the value you get back from the humidity sensor isn't exactly the same as the value on the slider. This is because the sensors aren't perfectly accurate.
