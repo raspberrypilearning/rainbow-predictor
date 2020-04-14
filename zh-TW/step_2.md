@@ -10,24 +10,24 @@ To set the colour of an individual LED we need to say how much red, green and bl
 
 + Add the highlighted code to set up a variable for the colour Red and then turn all the pixels red using `sense.clear(R)`:
     
-    ![螢幕截圖](images/rainbow-red.png)
+    ![screenshot](images/rainbow-red.png)
     
     Make sure you use a capital letter `R`.
 
 + Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
     
-    ![截圖](images/rainbow-orange.png)
+    ![screenshot](images/rainbow-orange.png)
 
 + Now add variables `Y`, `G`, `B`, `I`, `V` so that you have the seven colours of the rainbow. You can look up RGB colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
     
     You can test your colours using `sense.clear()`.
     
-    ![截圖](images/rainbow-colours.png)
+    ![screenshot](images/rainbow-colours.png)
 
 + Add a variable `X` for setting pixels to off (no red, green or blue):
     
-    ![截圖](images/rainbow-off.png)
+    ![screenshot](images/rainbow-off.png)
 
 + Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
     
-    ![截圖](images/rainbow-rainbow.png)
+    ![screenshot](images/rainbow-rainbow.png)
