@@ -1,4 +1,4 @@
-\--- kihívás \---
+\--- challenge \---
 
 ## Challenge: More Weather
 
@@ -18,4 +18,4 @@ Tip: Set red, green and blue to the maximum of 255 to create white.
 
 ![screenshot](images/rainbow-snow.png)
 
-\--- / challenge \---
+\--- /challenge \---
