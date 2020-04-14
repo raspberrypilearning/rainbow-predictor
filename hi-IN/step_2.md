@@ -1,33 +1,33 @@
-## इंद्रधनुष बनाना
+## Drawing a rainbow
 
-आइए पहले Sense HAT पर LED मैट्रिक्स का उपयोग करके इंद्रधनुष बनाएँ। इसमें लाल, नारंगी, पीला, हरा, नीला, इंडिगो और वायलेट रंग हैं।
+First let's draw a rainbow using the LED Matrix on the Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
 
-किसी अलग LED का रंग सेट करने के लिए हमें यह बताना होगा कि यह 0 से 255 तक कितना लाल, हरा और नीला होना चाहिए।
+To set the colour of an individual LED we need to say how much red, green and blue it should have from 0 to 255.
 
-+ इंद्रधनुष पूर्वानुमान संकेतक Trinket को खोलें: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>।
++ Open the Rainbow Predictor Starter Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
     
-    **आपके लिए Sense HAT को सेट अप करने का कोड शामिल किया गया है।**
+    **The code to set up the Sense HAT has been included for you.**
 
-+ लाल रंग के लिए वेरिएबल सेट करने के लिए हाइलाइट किए गए कोड को जोड़ें और फिर `sense.clear(R)` का उपयोग करके सभी पिक्सेल को लाल करें:
++ Add the highlighted code to set up a variable for the colour Red and then turn all the pixels red using `sense.clear(R)`:
     
-    ![स्क्रीनशॉट](images/rainbow-red.png)
+    ![screenshot](images/rainbow-red.png)
     
-    सुनिश्चित करें कि आप बड़े अक्षर `R` का उपयोग करते हैं।
+    Make sure you use a capital letter `R`.
 
-+ अगला रंग नारंगी है। नारंगी रंग में लाल रंग हरे रंग के साथ मिश्रित होता है। आप संख्याओं को तब तक समायोजित करते रह सकते हैं जब तक आपको अपनी पसंद का नारंगी रंग न मिल जाए। नए रंग का परीक्षण करने के लिए इस बार `sense.clear(O)` का उपयोग करें, यह सुनिश्चित करें कि आप कोष्ठक में बड़े अक्षर `O` का उपयोग करते हैं।
++ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
     
-    ![स्क्रीनशॉट](images/rainbow-orange.png)
+    ![screenshot](images/rainbow-orange.png)
 
-+ अब वेरिएबल `Y`, `G`, `B`, `I`, `V` जोड़ें ताकि आपके पास इंद्रधनुष के सात रंग हों। आप <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a> पर RGB रंग देख सकते हैं।
++ Now add variables `Y`, `G`, `B`, `I`, `V` so that you have the seven colours of the rainbow. You can look up RGB colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
     
-    आप `sense.clear()` का उपयोग करके अपने रंगों का परीक्षण कर सकते हैं।
+    You can test your colours using `sense.clear()`.
     
-    ![स्क्रीनशॉट](images/rainbow-colours.png)
+    ![screenshot](images/rainbow-colours.png)
 
-+ पिक्सेल बंद करने के लिए वेरिएबल `X` जोड़ें (कोई लाल, हरा या नीला नहीं):
++ Add a variable `X` for setting pixels to off (no red, green or blue):
     
-    ![स्क्रीनशॉट](images/rainbow-off.png)
+    ![screenshot](images/rainbow-off.png)
 
-+ अब इंद्रधनुष बनाने का समय आ गया है। आपको एक सूची तैयार करनी होगी जिसमें प्रत्येक पिक्सेल का रंग होगा और फिर रंगों की सूची के साथ इसका नाम `set_pixels` रखना होगा। टाइपिंग को बचाने के लिए आप अपने प्रोजेक्ट में इंद्रधनुष को `snippets.py` से कॉपी कर सकते हैं।
++ Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
     
-    ![स्क्रीनशॉट](images/rainbow-rainbow.png)
+    ![screenshot](images/rainbow-rainbow.png)
