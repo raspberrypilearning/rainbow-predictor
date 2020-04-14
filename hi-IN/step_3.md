@@ -1,15 +1,15 @@
-## सेंसर डेटा पढ़ना
+## Reading the sensor data
 
-Sense HAT में कई सेंसर होते हैं जो Raspberry Pi कंप्यूटर पर वास्तविक दुनिया का डेटा प्रदान करते हैं। Trinket में Sense HAT एमुलेटर से आप अपने वेब ब्राउज़र में Sense HAT के लिए प्रोजेक्ट लिख सकते हैं और उनका परीक्षण कर सकते हैं।
+The Sense HAT has a range of sensors that provide real world data on a Raspberry Pi computer. The Sense HAT Emulator in Trinket allows you write and test projects for the Sense HAT in your web browser.
 
-आर्द्रता सेंसर हवा में नमी की मात्रा सूचित करता है। बारिश होने पर आर्द्रता अधिक होती है।
+The humidity sensor reports the amount of moisture in the air. Humidity is high when it rains.
 
-+ आइए हम आर्द्रता सेंसर से पढ़ें और परिणाम का प्रिंट आउट लें। अपनी स्क्रिप्ट के नीचे हाइलाइट किया गया कोड जोड़ें।
++ Let's read from the humidity sensor and print out the result. Add the highlighted code to the bottom of your script.
     
-    ![स्क्रीनशॉट](images/rainbow-humid.png)
+    ![screenshot](images/rainbow-humid.png)
 
-+ आर्द्रता स्लाइडर को विभिन्न मानों पर ले जाकर अपने प्रोग्राम का परीक्षण करें।
++ Test your program by moving the humidity slider to different values.
     
-    ![स्क्रीनशॉट](images/rainbow-slider.png)
+    ![screenshot](images/rainbow-slider.png)
     
-    ध्यान दें कि आर्द्रता सेंसर से आपको जो मान वापस मिलता है, वह स्लाइडर पर दिए गए मान के बराबर नहीं होता है। ऐसा इसलिए है क्योंकि सेंसर पूरी तरह से सही नहीं होते हैं।
+    Notice that the value you get back from the humidity sensor isn't exactly the same as the value on the slider. This is because the sensors aren't perfectly accurate.
