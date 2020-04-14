@@ -1,4 +1,4 @@
-## Introduction :
+## Introduction:
 
 In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
 
@@ -13,52 +13,52 @@ In the Trinket emulator you can move the sliders to change the temperature and h
 
 You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
 
-### Informations complémentaires pour les responsables de club
+### Additional information for club leaders
 
-Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
 ## \--- collapse \---
 
-## title: Notes pour le responsable de club
+## title: Club leader notes
 
-## Introduction :
+## Introduction:
 
 In this project, children will learn how to use the Sense HAT sensors to detect the weather, and display a rainbow using the LED matrix when it's warm and humid.
 
-## Ressources en-ligne
+## Online Resources
 
-**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. Ce projet contient les Trinkets suivants :
+**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
 * ['Rainbow Predictor' Starter Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
 
-Il existe aussi ce trinket qui contient le projet completé:
+There is also a trinket containing the completed project:
 
 * [‘Rainbow Predictor’ Finished -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
 
-## Ressources hors-ligne
+## Offline Resources
 
-This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. Vous pouvez accéder aux ressources du projet en cliquant sur le lien "Matériaux du projet". Ce lien contient une section "Ressources du projet" qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
+This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 * rainbow/rainbow.py
 
-Vous pouvez aussi trouver une version complétée du projet dans la section "Ressources du bénévole" qui contient :
+You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
 
 * rainbow-finished/rainbow.py
 
-(Toutes les ressources ci-dessus peuvent aussi être téléchargées dans les fichiers`.zip` projet et bénévole)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Objectifs d'apprentissage
+## Learning Objectives
 
 * Physical computing - sensors;
 * Boolean AND; 
 * RGB Colours;
 * Sense HAT display;
 
-Ce projet couvre les éléments suivants du [Programme de Créativité Numérique de Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Combine des constructions de programmation pour résoudre un problème.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Défis
+## Challenges
 
 * More Weather - display different images under different weather conditions. 
 
@@ -66,18 +66,18 @@ Ce projet couvre les éléments suivants du [Programme de Créativité Numériqu
 
 ## \--- collapse \---
 
-## title: Matériel pour projet
+## title: Project materials
 
-## Ressources du projet
+## Project resources
 
-* [Fichier .zip contenant toutes les ressources du projet](resources/rainbow-project-resources.zip)
+* [.zip file containing all project resources](resources/rainbow-project-resources.zip)
 * [Starter project](http://jumpto.cc/rainbow-go)
 * [Offline starter Python file](resources/rainbow-rainbow.py)
 
-## Ressources pour le responsable de club
+## Club leader resources
 
-* [Fichier .zip contenant toutes les ressources du projet](resources/rainbow-volunteer-resources.zip)
-* [Trinket Python en-ligne vierge](https://trinket.io/python/eaea4cb76c)
+* [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
