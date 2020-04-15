@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## توقع قوس قزح
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon.) If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+تظهر أقواس قزح عندما تشرق الشمس من خلال رذاذ الماء في الزاوية الصحيحة (عادة في فترة ما بعد الظهر). إذا كان الجو دافئ والرطوبة عالية، فمن الجدير بنا الانتباه حولنا لمعرفة إذا ما كان هناك قوس قزح.
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ دعنا الآن نظهر قوس قزح فقط إذا كانت الشروط مناسبة. غيير الكود الخاص بك بحيث يبدو مثل هذا:
     
-    ![screenshot](images/rainbow-check.png)
+    ![لقطة الشاشة](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    وجود قوس قزح غير مؤكد عند استيفاء هذه الشروط، ولكن الأمر يستحق نظرة.
 
-+ Try changing the values on the slider until you see the rainbow.
++ حاول تغيير القيم الموجودة في شريط تغيير القيم حتى ترى قوس قزح.
     
-    ![screenshot](images/rainbow-trigger.png)
+    ![لقطة الشاشة](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    تذكر أن القيم التي تم استخراجها لن تكون تمامًا مثل تلك المعروضة على أشرطة تغيير القيم.
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ العتبة ** هي العدد الذي يشير إلى تغيير مهم. عندما تكون الحرارة 20 درجة مئوية ونسبة الرطوبة 80٪ هذه هي عتبات للكشف عن قوس قزح.
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    حاول تغيير العتبات ثم تحريك أشرطة تغيير القيم لاظهار قوس قزح.
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    إذا كنت تجري المشروع باستخدام Sense HAT حقيقي، فيمكنك اختبار الكود الخاص بك عن طريق تعيين العتبات على قيم منخفضة.
