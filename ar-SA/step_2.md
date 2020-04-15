@@ -1,33 +1,33 @@
-## Drawing a rainbow
+## رسم قوس قزح
 
-First let's draw a rainbow using the LED Matrix on the Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
+لنرسم أولاً قوس قزح بإستخدام مصفوفة ضوئية LED في Sense HAT. الألوان هي الأحمر والبرتقالي والأصفر والأخضر والأزرق والنيلي والبنفسجي.
 
-To set the colour of an individual LED we need to say how much red, green and blue it should have from 0 to 255.
+لتحديد لون LED فردي، نحتاج إلى تحديد مقدار اللون الأحمر والأخضر والأزرق الذي يجب أن يكون عليه من 0 إلى 255.
 
-+ Open the Rainbow Predictor Starter Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
++ افتح ملف Rainbow Predictor Starter: <a href="http://jumpto.cc/rainbow-go" target="_blank"> jumpto.cc/rainbow-go </a>.
     
-    **The code to set up the Sense HAT has been included for you.**
+    **تم إعداد كود Sense HAT لك.**
 
-+ Add the highlighted code to set up a variable for the colour Red and then turn all the pixels red using `sense.clear(R)`:
++ قم بإضافة الكود المظلل لإعداد متغير للون الأحمر ثم قم بتحويل جميع وحدات البكسل إلى اللون الأحمر باستخدام `sens.clear(R)`:
     
-    ![screenshot](images/rainbow-red.png)
+    ![لقطة الشاشة](images/rainbow-red.png)
     
-    Make sure you use a capital letter `R`.
+    تأكد من إستخدام حرف ` R ` الكبير.
 
-+ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
++ اللون البرتقالي هو التالي. اللون البرتقالي هو مزيج بين اللونين الأحمر والأخضر. يمكنك تغيير الأرقام حتى تحصل على اللون البرتقالي الذي يعجبك. استخدم ` sens.clear(O) ` هذه المرة لاختبار اللون الجديد، مع التأكد من استخدام حرف ` O ` كبير بين قوسين.
     
-    ![screenshot](images/rainbow-orange.png)
+    ![لقطة الشاشة](images/rainbow-orange.png)
 
-+ Now add variables `Y`, `G`, `B`, `I`, `V` so that you have the seven colours of the rainbow. You can look up RGB colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
++ أضف الآن المتغيرات `Y`, `G`, `B`, `I`, `V` بحيث يكون لديك ألوان قوس قزح السبعة. يمكنك البحث على المزيد من الألوان في <a href="http://jumpto.cc/colours" target="_blank"> jumpto.cc/colours </a>
     
-    You can test your colours using `sense.clear()`.
+    يمكنك اختبار ألوانك باستخدام `sense.clear()`.
     
-    ![screenshot](images/rainbow-colours.png)
+    ![لقطة الشاشة](images/rainbow-colours.png)
 
-+ Add a variable `X` for setting pixels to off (no red, green or blue):
++ أضف متغير ` X ` لإيقاف تشغيل وحدات البكسل (بدون أحمر أو أخضر أو أزرق):
     
-    ![screenshot](images/rainbow-off.png)
+    ![لقطة الشاشة](images/rainbow-off.png)
 
-+ Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
++ حان الوقت الآن لرسم قوس قزح. تحتاج إلى إعداد قائمة تحتوي على لون كل بكسل ثم استدعاء ` set_pixels ` مع قائمة من الألوان. لتقليل الكتابة، يمكنك نسخ قوس قزح من ` snippetets.py ` في مشروعك.
     
-    ![screenshot](images/rainbow-rainbow.png)
+    ![لقطة الشاشة](images/rainbow-rainbow.png)
