@@ -2,6 +2,6 @@
 
 from sense_hat import SenseHat
 
-sense = SenseHat()
-sense.clear()
+()sense = SenseHat
+()sense.clear
 
