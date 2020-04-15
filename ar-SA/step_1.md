@@ -1,83 +1,83 @@
-## Introduction:
+## المقدمة:
 
-In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
+في هذا المشروع ، ستستخدم حساسي درجة الحرارة والرطوبة في مشروع Sense HAT للتنبؤ عندما تكون هناك فرصة جيدة لاكتشاف قوس قزح. عند تحقق الشروط المناسبة، سيعرض قوس قزح على المصفوفة الضوئية Sense HAT LED Matrix.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
-In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
+في محاكي Trinket، يمكنك تحريك أشرطة التمرير لتغيير درجة الحرارة ودرجة الرطوبة، وهي تبدو كما يلي:
 
-![screenshot](images/rainbow-sliders.png)
+![لقطة شاشة](images/rainbow-sliders.png)
 
-You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
+ستحصل على قوس قزح إذا كانت درجة الحرارة أعلى من 20 درجة مئوية ودرجة الرطوبة تزيد عن 80 في المائة. حاول التجربة للعثور على الأحوال الجوية لأشعة الشمس (أصفر) والثلج (أبيض).
 
-### Additional information for club leaders
+### معلومات إضافية لقادة النادي
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: ملاحظات قادة النادي
 
-## Introduction:
+## مقدمة:
 
-In this project, children will learn how to use the Sense HAT sensors to detect the weather, and display a rainbow using the LED matrix when it's warm and humid.
+في هذا المشروع، سيتعلم الأطفال كيفية استخدام حساساتSense HAT لاكتشاف حالة الطقس، وعرض قوس قزح باستخدام مصفوفة ضوئية LED Matrix عندما يكون الطقس دافئ ورطب.
 
-## Online Resources
+## الموارد المتوفرة على الإنترنت
 
-**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+** يستخدم هذا المشروع لغة Python 3. ** نوصي بإستخدام محاكي [trinket](https://trinket.io/) للكتابة بلغة الـ Python عبر الانترنت. يحتوي هذا المشروع على Trinket التالية:
 
-* ['Rainbow Predictor' Starter Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
+* [مشروع البداية ل "توقع قوس قزح" - jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
 
-There is also a trinket containing the completed project:
+والتالي أيضًا trinket يحتوي على المشروع المكتمل:
 
-* [‘Rainbow Predictor’ Finished -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
+* [مشروع الكامل ل "توقع قوس قزح" - trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
 
-## Offline Resources
+## الموارد المتوفرة دون اتصال بالإنترنت
 
-This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+يمكن أيضًا إكمال هذا المشروع بدون اتصال جهازك بالإنترنت [ ](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) على جهاز كمبيوتر Raspberry Pi به Sense HAT. يمكنك الوصول إلى موارد المشروع من خلال النقر فوق رابط "مواد المشروع" الخاص بهذا المشروع. يحتوي هذا الرابط على قسم "موارد المشروع"، الذي يتضمن الموارد التي يحتاج إليها الأطفال لإكمال هذا المشروع من دون اتصال أجهزتهم بالإنترنت. تأكد من أن كل متعلم بإمكانه الوصول إلى نسخة من هذه الموارد. يتضمن هذا القسم الملفات التالية:
 
 * rainbow/rainbow.py
 
-You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
+يمكنك أيضًا العثور على نسخة كاملة من هذا المشروع في قسم "موارد المتطوعين"، الذي يحتوي على:
 
 * rainbow-finished/rainbow.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(جميع الموارد المذكورة أعلاه قابلة للتنزيل أيضًا كملفات `.zip` للمشاريع والمتطوعين)
 
-## Learning Objectives
+## أهداف التعلم
 
-* Physical computing - sensors;
-* Boolean AND; 
-* RGB Colours;
-* Sense HAT display;
+* الحوسبة الملموسة - الحساسات؛
+* العمليات المنطقية AND؛ 
+* الألوان RGB؛
+* لوحة عرض Sense HAT؛
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [إنشاءات برمجية مدمجة لحل مشكلة.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## التحديات
 
-* More Weather - display different images under different weather conditions. 
+* حالة طقس أخرى - عرض صور مختلفة تحت ظروف الطقس المختلفة. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## مواد المشروع
 
-## Project resources
+## موارد المشروع
 
-* [.zip file containing all project resources](resources/rainbow-project-resources.zip)
-* [Starter project](http://jumpto.cc/rainbow-go)
-* [Offline starter Python file](resources/rainbow-rainbow.py)
+* [ملف مضغوط .zip يحتوي على جميع موارد المشروع.](resources/rainbow-project-resources.zip)
+* [بداية مشروع](http://jumpto.cc/rainbow-go)
+* [ملف Python بدون الاتصال بالانترنت](resources/rainbow-rainbow.py)
 
-## Club leader resources
+## موارد قادة النادي
 
-* [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
+* [ملف مضغوط .zip يحتوي على جميع موارد المشروع المكتملة.](resources/rainbow-volunteer-resources.zip)
+* [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
