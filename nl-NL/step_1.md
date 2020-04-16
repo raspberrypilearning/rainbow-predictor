@@ -1,21 +1,21 @@
 ## Inleiding:
 
-In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
+In dit project gebruik je de temperatuur- en vochtigheidssensoren op de Sense HAT om te voorspellen wanneer er een goede kans is om een regenboog te zien. Wanneer de juiste voorwaarden worden gedetecteerd, toon je een regenboog op de Sense HAT LED matrix.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
-In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
+In de Trinket-emulator kun je de schuifregelaars verplaatsen om de temperatuur en de vochtigheid te veranderen, ze zien er als volgt uit:
 
-![screenshot](images/rainbow-sliders.png)
+![schermafbeelding](images/rainbow-sliders.png)
 
-You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
+Je krijgt een regenboog als de temperatuur hoger is dan 20 graden Celsius en de luchtvochtigheid hoger is dan 80 procent. Probeer te experimenteren om de weersomstandigheden voor zonneschijn (geel) en sneeuw (wit) te vinden.
 
 ### Aanvullende informatie voor clubleiders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
 ## \--- collapse \---
 
@@ -23,21 +23,21 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## Inleiding:
 
-In this project, children will learn how to use the Sense HAT sensors to detect the weather, and display a rainbow using the LED matrix when it's warm and humid.
+In dit project leren kinderen hoe ze de Sense HAT-sensoren kunnen gebruiken om het weer te detecteren en hoe ze een regenboog kunnen weergeven met behulp van de LED-matrix als het warm en vochtig is.
 
 ## Online bronnen
 
-**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. Dit project bevat de volgende Trinkets:
+**Dit project maakt gebruik van Python 3.** We raden aan om [Trinket](https://trinket.io/) te gebruiken om Python online te schrijven. Dit project bevat de volgende Trinkets:
 
-* ['Rainbow Predictor' Starter Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
+* ['Regenboog Voorspeller' Start Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
 
 Er is ook een trinket met het voltooide project:
 
-* [‘Rainbow Predictor’ Finished -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
+* [‘Regenboog Voorspeller’ Voltooid -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
 
 ## Offline bronnen
 
-This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. Je kunt toegang krijgen tot de projectbronnen door op de koppeling 'Projectmaterialen' voor dit project te klikken. Deze link bevat een 'Projectbronnen'-sectie die bronnen bevat om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bestanden. Dit gedeelte bevat de volgende bestanden:
+Dit project kan ook [offline voltooid worden](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) op een Raspberry Pi-computer met een Sense HAT. Je kunt toegang krijgen tot de projectbronnen door op de koppeling 'Projectmaterialen' voor dit project te klikken. Deze link bevat een 'Projectbronnen'-sectie die bronnen bevat om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bestanden. Dit gedeelte bevat de volgende bestanden:
 
 * rainbow/rainbow.py
 
@@ -49,10 +49,10 @@ Je kunt ook een voltooide versie van dit project vinden in de sectie 'Vrijwillig
 
 ## Leerdoelen
 
-* Physical computing - sensors;
-* Boolean AND; 
-* RGB Colours;
-* Sense HAT display;
+* Fysiek computergebruik - sensoren;
+* Booleaans EN; 
+* RGB-kleuren;
+* Sense HAT-weergave;
 
 Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
@@ -60,7 +60,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## Uitdagingen
 
-* More Weather - display different images under different weather conditions. 
+* Meer weer - geef verschillende afbeeldingen weer onder verschillende weersomstandigheden. 
 
 \--- /collapse \---
 
@@ -71,13 +71,13 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 ## Projectbronnen
 
 * [.zip-bestand met alle projectbronnen](resources/rainbow-project-resources.zip)
-* [Starter project](http://jumpto.cc/rainbow-go)
-* [Offline starter Python file](resources/rainbow-rainbow.py)
+* [Startproject](http://jumpto.cc/rainbow-go)
+* [Offline start Python-bestand](resources/rainbow-rainbow.py)
 
-## Club leader resources
+## Clubleider bronnen
 
-* [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
+* [.zip-bestand met alle voltooide projectbronnen](resources/rainbow-volunteer-resources.zip)
+* [Online voltooid Trinket-project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
