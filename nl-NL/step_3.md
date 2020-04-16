@@ -1,15 +1,15 @@
-## Reading the sensor data
+## Uitlezen van de sensorgegevens
 
-The Sense HAT has a range of sensors that provide real world data on a Raspberry Pi computer. The Sense HAT Emulator in Trinket allows you write and test projects for the Sense HAT in your web browser.
+De Sense HAT heeft een reeks sensoren die gegevens uit de echte wereld leveren op een Raspberry Pi-computer. Met de Sense HAT Emulator in Trinket kun je projecten voor de Sense HAT in je webbrowser schrijven en testen.
 
-The humidity sensor reports the amount of moisture in the air. Humidity is high when it rains.
+De vochtigheidssensor geeft de hoeveelheid vocht in de lucht aan. De luchtvochtigheid is hoog als het regent.
 
-+ Let's read from the humidity sensor and print out the result. Add the highlighted code to the bottom of your script.
++ Laten we de vochtigheidssensor uitlezen en het resultaat afdrukken. Voeg de gemarkeerde code onder aan je script toe.
     
-    ![screenshot](images/rainbow-humid.png)
+    ![schermafbeelding](images/rainbow-humid.png)
 
-+ Test your program by moving the humidity slider to different values.
++ Test je programma door de luchtvochtigheidsschuifregelaar naar verschillende waarden te verplaatsen.
     
-    ![screenshot](images/rainbow-slider.png)
+    ![schermafbeelding](images/rainbow-slider.png)
     
-    Notice that the value you get back from the humidity sensor isn't exactly the same as the value on the slider. This is because the sensors aren't perfectly accurate.
+    Merk op dat de waarde die je terugkrijgt van de luchtvochtigheidssensor niet precies hetzelfde is als de waarde van de schuifregelaar. Dit komt omdat de sensoren niet perfect nauwkeurig zijn.
