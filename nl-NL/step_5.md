@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: More Weather
+## Uitdaging: meer weer
 
-Can you display a sun image when the temperature is above 20 and the humidity is below 80%.
+Kun je een afbeelding van de zon tonen als de temperatuur hoger is dan 20 en de luchtvochtigheid lager is dan 80%.
 
-Tip: Use `elif` to check for other kinds of weather. For each kind of weather you'll need to include a condition to check for a kind of weather and then code to set the display on the Sense HAT.
+Tip: gebruik `elif` om te controleren op andere soorten weer. Voor elk weertype moet je een voorwaarde opnemen om te controleren op een soort weer en vervolgens de code om de weergave op de Sense HAT in te stellen.
 
-![screenshot](images/rainbow-elif.png)
+![schermafbeelding](images/rainbow-elif.png)
 
-Tip: You can create a simple sun by setting all the pixels to yellow with `clear()`. Or you can try creating a pixel image like you did with the rainbow.
+Tip: je kunt een eenvoudige zon maken door alle pixels in te stellen op geel met `clear()`. Of je kunt proberen een pixelafbeelding te maken, zoals je hebt gedaan met de regenboog.
 
-![screenshot](images/rainbow-sun.png)
+![schermafbeelding](images/rainbow-sun.png)
 
-How about a snow image if the humidity is above 80% and the temperature is below zero.
+Wat dacht je van een afbeelding van sneeuw als de luchtvochtigheid boven de 80% is en de temperatuur onder nul.
 
-Tip: Set red, green and blue to the maximum of 255 to create white.
+Tip: Stel rood, groen en blauw in op het maximum van 255 om wit te maken.
 
-![screenshot](images/rainbow-snow.png)
+![schermafbeelding](images/rainbow-snow.png)
 
 \--- /challenge \---
