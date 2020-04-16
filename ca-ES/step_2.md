@@ -28,6 +28,6 @@ Per definir el color d’un LED individual, hem de dir quina quantitat de vermel
     
     ![captura de pantalla](images/rainbow-off.png)
 
-+ Ara toca dibuixar un arc de Sant Martí. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
++ Ara toca dibuixar un arc de Sant Martí. Has de configurar una llista que contingui el color de cada píxel i, a continuació, crida a `set_pixels` amb la llista de colors. Per estalviar-te teclejar pots copiar l'arc de Sant Martí de `snippets.py` al teu projecte.
     
     ![captura de pantalla](images/rainbow-rainbow.png)
