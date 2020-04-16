@@ -1,17 +1,17 @@
 ---
-hero_image: images/rainbow-predictor.png
-theme: red
+hero_image: images / rainbow-predictor.png
+theme: vermell
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+curriculum: 1, disseny-0, programació-1, phys-comp-0, fabricació-0, comunitat-0
 title: Predictor de l'arc de Sant Martí
 description: Mostra un arc de Sant Martí quan es compleixen les condicions.
 original_url: https://codeclubprojects.org/en-GB/sense-hat/rainbow-predictor
-interests: weather
+interests: el temps
 technologies: sense-hat
-site_areas: projects
+site_areas: projectes
 hardware: sense-hat
 software: ''
 version: 3
