@@ -1,33 +1,33 @@
-## Drawing a rainbow
+## Dibuixant un arc de Sant Martí
 
-First let's draw a rainbow using the LED Matrix on the Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
+Primer, dibuixa un arc de Sant Martí mitjançant la matriu de LEDS de la placa Sense HAT. Els colors són Vermell, Taronja, Groc, Verd, Blau, Indi i Violeta.
 
-To set the colour of an individual LED we need to say how much red, green and blue it should have from 0 to 255.
+Per definir el color d’un LED individual, hem de dir quina quantitat de vermell, verd i blau ha de tenir de 0 a 255.
 
-+ Open the Rainbow Predictor Starter Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
++ Obre el Trinket d'Inici del Predictor de l'Arc de Sant Martí: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
     
-    **The code to set up the Sense HAT has been included for you.**
+    **S'ha inclòs el codi per configurar la placa Sense HAT.**
 
-+ Add the highlighted code to set up a variable for the colour Red and then turn all the pixels red using `sense.clear(R)`:
++ Afegeix el codi ressaltat per configurar una variable pel color Vermell i, a continuació, converteix tots els píxels en vermell mitjançant `sense.clear(R)`:
     
-    ![screenshot](images/rainbow-red.png)
+    ![captura de pantalla](images/rainbow-red.png)
     
-    Make sure you use a capital letter `R`.
+    Assegura't que utilitzes la lletra majúscula `R`.
 
-+ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
++ El Taronja és el següent. El Taronja és una barreja de vermell amb verd. Pots ajustar els números fins a obtenir un taronja que t'agradi. Aquest cop, fes servir `sense.clear(O)` per provar el nou color, assegura't d’utilitzar la majúscula `O` en els parèntesis.
     
-    ![screenshot](images/rainbow-orange.png)
+    ![captura de pantalla](images/rainbow-orange.png)
 
-+ Now add variables `Y`, `G`, `B`, `I`, `V` so that you have the seven colours of the rainbow. You can look up RGB colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
++ Ara afegeix les variables `Y`, `G`, `B`, `I`, `V` de manera que tinguis els set colors de l'arc de Sant Martí. Pots buscar colors RGB a <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
     
-    You can test your colours using `sense.clear()`.
+    Pots provar els teus colors mitjançant `sense.clear()`.
     
-    ![screenshot](images/rainbow-colours.png)
+    ![captura de pantalla](images/rainbow-colours.png)
 
-+ Add a variable `X` for setting pixels to off (no red, green or blue):
++ Afegeix una variable `X` per a desactivar els píxels (sense vermell, verd o blau):
     
-    ![screenshot](images/rainbow-off.png)
+    ![captura de pantalla](images/rainbow-off.png)
 
-+ Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
++ Ara toca dibuixar un arc de Sant Martí. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
     
-    ![screenshot](images/rainbow-rainbow.png)
+    ![captura de pantalla](images/rainbow-rainbow.png)
