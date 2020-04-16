@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## Prevedere un arcobaleno
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon.) If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+Gli arcobaleni si verificano quando il sole splende attraverso le goccioline d'acqua con la giusta inclinazione (di solito nel pomeriggio). Se fa caldo e l'umidità è alta vale la pena verificare se c'è un arcobaleno.
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ Mostriamo l'arcobaleno solo se le condizioni sono corrette. Modifica il tuo codice come segue:
     
     ![screenshot](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    Non puoi essere sicuro che ci sia un arcobaleno quando queste condizioni sono soddisfatte, ma vale la pena dare un'occhiata.
 
-+ Try changing the values on the slider until you see the rainbow.
++ Prova a cambiare i valori sul cursore finché non vedi l'arcobaleno.
     
     ![screenshot](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    Ricorda che i valori riportati non saranno esattamente gli stessi mostrati sui cursori.
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ Una *soglia* è un numero che indica un cambiamento importante. 20 gradi C e l'80% di umidità sono soglie per il rivelatore arcobaleno.
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    Prova a modificare le soglie e poi muovi i cursori per attivare un arcobaleno.
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    Se stai lavorando con un vero Sense HAT, puoi testare il tuo codice impostando le soglie su valori bassi.
