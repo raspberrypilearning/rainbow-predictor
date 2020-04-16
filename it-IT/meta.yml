@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Rainbow Predictor
-description: Display a rainbow when the conditions are met.
+title: Predittore di arcobaleno
+description: Mostra un arcobaleno quando le condizioni sono soddisfatte.
 original_url: https://codeclubprojects.org/en-GB/sense-hat/rainbow-predictor
 interests: weather
 technologies: sense-hat
@@ -18,12 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 'Introduction: '
+    title: 'Introduzione: '
   - 
-    title: Drawing a rainbow
+    title: Disegnare un arcobaleno
   - 
-    title: Reading the sensor data
+    title: Leggere i dati dai sensori
   - 
-    title: Predicting a rainbow
+    title: Prevedere un arcobaleno
   - 
-    title: 'Challenge: More Weather'
+    title: 'Sfida: più condizioni meteo'
