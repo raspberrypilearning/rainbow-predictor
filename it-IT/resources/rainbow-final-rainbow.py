@@ -6,25 +6,25 @@ import time
 sense = SenseHat()
 sense.clear()
 
-R = [255, 0, 0]  # red
-O = [255, 165, 0]  # orange
-Y = [255, 255, 0] # yellow
-G = [0, 255, 0] # green
-B = [0, 55, 155] # blue
-I = [25, 0, 255] # indigo
-V = [255, 0, 255] # violet
-X = [0, 0, 0]  # off
+R = [255, 0, 0] # rosso
+A = [255, 165, 0] # arancione
+G = [255, 255, 0] # giallo
+V = [0, 255, 0] # verde
+B = [0, 55, 155] # blu
+I = [25, 0, 255] # indaco
+W = [255, 0, 255] # viola
+X = [0, 0, 0] # spento
 
 
-rainbow = [
+arcobaleno = [
 R, R, R, R, R, R, R, R,
-R, O, O, O, O, O, O, O,
-R, O, Y, Y, Y, Y, Y, Y,
-R, O, Y, G, G, G, G, G,
-R, O, Y, G, B, B, B, B,
-R, O, Y, G, B, I, I, I,
-R, O, Y, G, B, I, V, V,                                                                   
-R, O, Y, G, B, I, V, X
+R, A, A, A, A, A, A, A,
+R, A, G, G, G, G, G, G,
+R, A, G, V, V, V, V, V,
+R, A, G, V, B, B, B, B,
+R, A, G, V, B, I, I, I,
+R, A, G, V, B, I, W, W,                                                                   
+R, A, G, V, B, I, W, X
 ]
 
 while True:
@@ -32,11 +32,11 @@ while True:
   h = t.tm_hour
 
   if sense.humidity > 80 and sense.temp > 20:
-    sense.set_pixels(rainbow)
+    sense.set_pixels(arcobaleno)
   elif sense.humidity > 80 and sense.temp < 0 :
-    sense.clear([255, 255, 255]) # white snow
+    sense.clear([255, 255, 255]) # neve bianca
   elif sense.humidity <= 80 and sense.temp > 20 :
-    sense.clear([255, 255, 0]) # yellow sun
+    sense.clear([255, 255, 0]) # sole giallo
   else:
     sense.clear()
     
