@@ -1,4 +1,4 @@
-## Introduction:
+## Introducción:
 
 In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
 
