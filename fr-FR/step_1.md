@@ -29,7 +29,7 @@ Dans ce projet, les enfants apprendront à utiliser les capteurs Sense HAT pour 
 
 **Ce projet utilise Python 3.** Nous vous recommandons d'utiliser [Trinket](https://trinket.io/) pour écrire du code Python en ligne. Ce projet contient les Trinkets suivants :
 
-* [Trinket de démarrage « Prédicteur d'arc-en-ciel » -- trinket.io/python/b950e86a8e](http://https://trinket.io/python/b950e86a8e)
+* [Trinket de démarrage « Prédicteur d'arc-en-ciel » -- trinket.io/python/b950e86a8e](https://trinket.io/python/b950e86a8e)
 
 Il existe aussi ce trinket qui contient le projet terminé :
 
