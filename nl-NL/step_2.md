@@ -1,33 +1,33 @@
-## Drawing a rainbow
+## Een regenboog tekenen
 
-First let's draw a rainbow using the LED Matrix on the Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
+Laten we eerst een regenboog tekenen met de LED-matrix op de Sense HAT. De kleuren zijn rood, oranje, geel, groen, blauw, indigo en violet.
 
-To set the colour of an individual LED we need to say how much red, green and blue it should have from 0 to 255.
+Om de kleur van een individuele LED in te stellen, moeten we zeggen hoeveel rood, groen en blauw deze moet hebben van 0 tot 255.
 
-+ Open the Rainbow Predictor Starter Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
++ Open de Regenboog Voorspeller Start Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
     
-    **The code to set up the Sense HAT has been included for you.**
+    **De code voor het instellen van de Sense HAT is voor je meegeleverd.**
 
-+ Add the highlighted code to set up a variable for the colour Red and then turn all the pixels red using `sense.clear(R)`:
++ Voeg de gemarkeerde code toe om een variabele voor de kleur rood in te stellen en maak vervolgens alle pixels rood met `sense.clear(R)`:
     
-    ![screenshot](images/rainbow-red.png)
+    ![schermafbeelding](images/rainbow-red.png)
     
-    Make sure you use a capital letter `R`.
+    Zorg ervoor dat je een hoofdletter `R` gebruikt.
 
-+ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
++ Oranje is de volgende. Oranje is rood vermengd met groen. Je kunt de getallen aanpassen tot je een oranje krijgt die je leuk vindt. Gebruik deze keer `sense.clear(O)` om de nieuwe kleur te testen, zorg ervoor dat je een hoofdletter `O` tussen de haakjes gebruikt.
     
-    ![screenshot](images/rainbow-orange.png)
+    ![schermafbeelding](images/rainbow-orange.png)
 
-+ Now add variables `Y`, `G`, `B`, `I`, `V` so that you have the seven colours of the rainbow. You can look up RGB colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
++ Voeg nu variabelen `Y`, `G`, `B`, `I`, `V` toe, zodat je de zeven kleuren van de regenboog hebt. Je kunt RGB-kleuren opzoeken op <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
     
-    You can test your colours using `sense.clear()`.
+    Je kunt je kleuren testen met behulp van `sense.clear()`.
     
-    ![screenshot](images/rainbow-colours.png)
+    ![schermafbeelding](images/rainbow-colours.png)
 
-+ Add a variable `X` for setting pixels to off (no red, green or blue):
++ Voeg een variabele `X` toe voor het uitschakelen van pixels (geen rood, groen of blauw):
     
-    ![screenshot](images/rainbow-off.png)
+    ![schermafbeelding](images/rainbow-off.png)
 
-+ Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
++ Nu is het tijd om een regenboog te tekenen. Je moet een lijst opstellen met de kleur van elke pixel en vervolgens `set_pixels` aanroepen met de lijst met kleuren. Om typen te besparen, kun je de regenboog kopiëren van `snippets.py` in je project.
     
-    ![screenshot](images/rainbow-rainbow.png)
+    ![schermafbeelding](images/rainbow-rainbow.png)
