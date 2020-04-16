@@ -1,10 +1,10 @@
-## Reading the sensor data
+## Llegint les dades del sensor
 
-The Sense HAT has a range of sensors that provide real world data on a Raspberry Pi computer. The Sense HAT Emulator in Trinket allows you write and test projects for the Sense HAT in your web browser.
+La placa Sense HAT té una gamma de sensors que proporcionen dades del món real a un ordinador Raspberry Pi. L’emulador de Sense HAT a Trinket et permet escriure i provar projectes per a Sense HAT en el teu navegador web.
 
-The humidity sensor reports the amount of moisture in the air. Humidity is high when it rains.
+El sensor d’humitat informa de la quantitat d’humitat a l’aire. La humitat és alta quan plou.
 
-+ Let's read from the humidity sensor and print out the result. Add the highlighted code to the bottom of your script.
++ Anem a llegir del sensor d’humitat i mostrar el resultat. Add the highlighted code to the bottom of your script.
     
     ![screenshot](images/rainbow-humid.png)
 
