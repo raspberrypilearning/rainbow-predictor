@@ -14,7 +14,7 @@ Per impostare il colore di un singolo LED dobbiamo dire quanto rosso, verde e bl
     
     Assicurati di utilizzare una lettera maiuscola `R`.
 
-+ Il prossimo è l'arancione. L'arancione è rosso misto a verde. Puoi modificare i numeri finché non ottieni un arancione che ti piace. Usa `sense.clear(O)` questa volta per testare il nuovo colore, assicurandoti di utilizzare una lettera maiuscola `O` tra le parentesi.
++ Il prossimo è l'arancione. L'arancione è rosso misto a verde. Puoi modificare i numeri finché non ottieni un arancione che ti piace. Usa `sense.clear(A)` questa volta per testare il nuovo colore, assicurandoti di utilizzare una lettera maiuscola `A` tra le parentesi.
     
     ![screenshot](images/rainbow-orange.png)
 
