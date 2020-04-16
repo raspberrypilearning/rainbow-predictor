@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## Prédire un arc-en-ciel
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon.) If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+Les arcs-en-ciel se produisent lorsque le soleil brille à travers les gouttelettes d'eau au bon angle (généralement l'après-midi.) S'il fait chaud et que l'humidité est élevée, il vaut la peine de vérifier s'il y a un arc-en-ciel.
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ Maintenant, ne montrons l'arc-en-ciel que si les conditions sont correctes. Change ton code pour ressembler à ceci :
     
-    ![screenshot](images/rainbow-check.png)
+    ![capture d'écran](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    Tu ne peux pas être sûr qu'il y ait un arc-en-ciel quand ces conditions sont remplies, mais cela vaut la peine d'y jeter un coup d’œil.
 
-+ Try changing the values on the slider until you see the rainbow.
++ Essaie de changer les valeurs sur le curseur jusqu'à ce que tu vois l'arc-en-ciel.
     
-    ![screenshot](images/rainbow-trigger.png)
+    ![capture d'écran](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    Rappelle-toi que les valeurs rapportées ne seront pas exactement les mêmes que celles affichées sur les curseurs.
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ Un *seuil* est un nombre qui indique un changement important. 20 degrés Celsius et 80% d'humidité sont des seuils pour le détecteur d'arc-en-ciel.
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    Essaie de changer les seuils puis de déplacer les curseurs pour déclencher un arc-en-ciel.
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    Si tu travailles avec un Sense HAT physique, tu peux tester ton code en définissant les seuils à des valeurs faibles.
