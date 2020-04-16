@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## Predient un arc de Sant Martí
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon.) If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+L'arc de Sant Martí es produeix quan la llum del sol passa a través de gotes d'aigua a l'angle correcte (normalment a la tarda.) Si fa calor i la humitat és alta, val la pena comprovar si hi ha un arc de Sant Martí.
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ Ara només mostrem l’arc de Sant Martí si les condicions són correctes. Canvia el codi perquè sembli així:
     
-    ![screenshot](images/rainbow-check.png)
+    ![captura de pantalla](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    No pots estar segur que hi hagi un arc de Sant Martí quan es compleixin aquestes condicions, però val la pena intentar-ho.
 
-+ Try changing the values on the slider until you see the rainbow.
++ Prova de canviar els valors del control lliscant fins que vegis l'arc de Sant Martí.
     
-    ![screenshot](images/rainbow-trigger.png)
+    ![captura de pantalla](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    Recorda que els valors indicats no seran exactament els mateixos que els que es mostren en els control lliscants.
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ Un *llindar* és un nombre que indica un canvi important. 20 ºC i un 80% d’humitat són llindars per al detector de l’arc de Sant Martí.
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    Prova de canviar els llindars i, a continuació, mou els control lliscants per activar un arc de Sant Martí.
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    Si estàs treballant amb una placa física de Sense HAT, pots provar el teu codi establint els llindars a valors baixos.
