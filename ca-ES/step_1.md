@@ -70,14 +70,14 @@ Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabr
 
 ## Recursos del projecte
 
-* [.zip file containing all project resources](resources/rainbow-project-resources.zip)
-* [Starter project](http://jumpto.cc/rainbow-go)
-* [Offline starter Python file](resources/rainbow-rainbow.py)
+* [Fitxer .zip que conté tots els recursos del projecte](resources/rainbow-project-resources.zip)
+* [Projecte d’inici](http://jumpto.cc/rainbow-go)
+* [Fitxer Python d’inici fora de línia](resources/rainbow-rainbow.py)
 
-## Club leader resources
+## Recursos del líder del club
 
-* [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
+* [Fitxer .zip que conté tots els recursos del projecte complet](resources/rainbow-volunteer-resources.zip)
+* [Projecte Trinket complet en línia](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
