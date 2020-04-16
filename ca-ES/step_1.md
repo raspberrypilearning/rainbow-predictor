@@ -19,11 +19,11 @@ Si necessites imprimir aquest projecte, si us plau utilitza la [versió per a im
 
 ## \--- collapse \---
 
-## títol: Notes del líder del club
+## títol: Notes pel líder del club
 
 ## Introducció:
 
-In this project, children will learn how to use the Sense HAT sensors to detect the weather, and display a rainbow using the LED matrix when it's warm and humid.
+En aquest projecte, els nens aprendran a utilitzar els sensors de la placa Sense HAT per detectar el clima i mostraran un arc de Sant Martí utilitzant la matriu LED quan fa càlid i humit.
 
 ## Recursos en línia
 
@@ -37,38 +37,38 @@ També hi ha un trinket que conté el projecte acabat:
 
 ## Recursos fora de línia
 
-Aquest projecte també es pot [finalitzar fora de línia](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) en un equip Raspberry Pi amb una placa Sense HAT. Pots accedir als recursos del projecte fent clic a l’enllaç “Materials del projecte”. Aquest enllaç conté una secció "Recursos del projecte", que inclou recursos que els nens necessitaran per completar el projecte fora de línia. Assegureu-vos que cada nen tingui accés a una còpia d'aquests recursos. This section includes the following files:
+Aquest projecte també es pot [finalitzar fora de línia](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) en un equip Raspberry Pi amb una placa Sense HAT. Pots accedir als recursos del projecte fent clic a l’enllaç “Materials del projecte”. Aquest enllaç conté una secció "Recursos del projecte", que inclou recursos que els nens necessitaran per completar el projecte fora de línia. Assegureu-vos que cada nen tingui accés a una còpia d'aquests recursos. Aquesta secció inclou els fitxers següents:
 
 * rainbow/rainbow.py
 
-You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
+També pots trobar una versió acabada d'aquest projecte a la secció "Recursos de voluntaris", que conté:
 
 * rainbow-finished/rainbow.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Tots els recursos anteriors es poden descarregar com fitxers `.zip` de projectes i voluntaris.)
 
-## Learning Objectives
+## Objectius d'aprenentatge
 
-* Physical computing - sensors;
-* Boolean AND; 
-* RGB Colours;
-* Sense HAT display;
+* Informàtica física - sensors;
+* Operador booleà AND; 
+* Colors RGB;
+* Pantalla de la placa Sense HAT;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabricació Digital de Raspberry Pi](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combineu les formes de la programació per resoldre un problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Reptes
 
-* More Weather - display different images under different weather conditions. 
+* Més Temps - mostra imatges diferents en condicions meteorològiques diferents. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## títol: Materials del projecte
 
-## Project resources
+## Recursos del projecte
 
 * [.zip file containing all project resources](resources/rainbow-project-resources.zip)
 * [Starter project](http://jumpto.cc/rainbow-go)
