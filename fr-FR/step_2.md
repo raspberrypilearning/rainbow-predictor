@@ -1,33 +1,33 @@
-## Drawing a rainbow
+## Dessiner un arc-en-ciel
 
-First let's draw a rainbow using the LED Matrix on the Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
+Commençons par dessiner un arc-en-ciel en utilisant la matrice LED sur le Sense HAT. Les couleurs sont Rouge, Orange, Jaune, Vert, Bleu, Indigo et Mauve.
 
-To set the colour of an individual LED we need to say how much red, green and blue it should have from 0 to 255.
+Pour définir la couleur d'une LED individuelle, nous devons dire combien de rouge, vert et bleu elle doit avoir de 0 à 255.
 
-+ Open the Rainbow Predictor Starter Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
++ Ouvre le Trinket de démarrage « Prédicteur d'arc-en-ciel » : <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
     
-    **The code to set up the Sense HAT has been included for you.**
+    **Le code de configuration du Sense HAT a été inclus pour toi.**
 
-+ Add the highlighted code to set up a variable for the colour Red and then turn all the pixels red using `sense.clear(R)`:
++ Ajoute le code surligné pour configurer une variable pour la couleur rouge, puis tourne tous les pixels en rouge en utilisant `sense.clear(R)` :
     
-    ![screenshot](images/rainbow-red.png)
+    ![captures d'écran](images/rainbow-red.png)
     
-    Make sure you use a capital letter `R`.
+    Assure-toi d'utiliser une lettre majuscule `R`.
 
-+ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
++ L'orange est le suivant. L'orange est du rouge mélangé au vert. Tu peux ajuster les nombres jusqu'à ce que tu obtiennes un orange que tu aimes. Utilise `sense.clear(O)` cette fois pour tester la nouvelle couleur, assure-toi d'utiliser une lettre majuscule `O` entre parenthèses.
     
-    ![screenshot](images/rainbow-orange.png)
+    ![capture d'écran](images/rainbow-orange.png)
 
-+ Now add variables `Y`, `G`, `B`, `I`, `V` so that you have the seven colours of the rainbow. You can look up RGB colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
++ Maintenant, ajoute des variables `J`, `V`, `B`, `I`, `M` pour que tu aies les sept couleurs de l'arc-en-ciel. Tu peux consulter les couleurs RVB sur <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
     
-    You can test your colours using `sense.clear()`.
+    Tu peux tester tes couleurs en utilisant `sense.clear()`.
     
-    ![screenshot](images/rainbow-colours.png)
+    ![capture d'écran](images/rainbow-colours.png)
 
-+ Add a variable `X` for setting pixels to off (no red, green or blue):
++ Ajoute une variable `X` pour régler les pixels à éteint (sans rouge, vert ou bleu) :
     
-    ![screenshot](images/rainbow-off.png)
+    ![capture d'écran](images/rainbow-off.png)
 
-+ Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
++ Maintenant il est temps de dessiner un arc-en-ciel. Tu dois configurer une liste contenant la couleur de chaque pixel puis appeler `set_pixels` avec la liste des couleurs. Pour enregistrer la saisie, tu peux copier l'arc-en-ciel de `snippets.py` dans ton projet.
     
-    ![screenshot](images/rainbow-rainbow.png)
+    ![capture d'écran](images/rainbow-rainbow.png)
