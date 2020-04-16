@@ -32,11 +32,11 @@ while True:
   h = t.tm_hour
 
   if sense.humidity > 80 and sense.temp > 20:
-    sense.set_pixels(rainbow)
+    sense.set_pixels(arcsantmarti)
   elif sense.humidity > 80 and sense.temp < 0 :
-    sense.clear([255, 255, 255]) # white snow
+    sense.clear([255, 255, 255]) # neu blanca
   elif sense.humidity <= 80 and sense.temp > 20 :
-    sense.clear([255, 255, 0]) # yellow sun
+    sense.clear([255, 255, 0]) # sol groc
   else:
     sense.clear()
     
