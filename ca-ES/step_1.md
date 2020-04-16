@@ -1,43 +1,43 @@
-## Introduction:
+## Introducció:
 
-In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
+En aquest projecte faràs servir els sensors de temperatura i humitat de la placa Sense HAT per predir quan hi ha una bona possibilitat de què aparegui un arc de Sant Martí. Quan es detectin les condicions adequades, apareixerà un arc de Sant Martí a la matriu de leds del Sense HAT.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
-In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
+A l'emulador Trinket pots moure els control lliscants per canviar la temperatura i la humitat, així es veuen:
 
-![screenshot](images/rainbow-sliders.png)
+![captura de pantalla](images/rainbow-sliders.png)
 
-You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
+Obtindràs un arc de Sant Martí si la temperatura supera els 20 graus C i la humitat és superior al 80 per cent. Experimenta per trobar les condicions meteorològiques de sol (groc) i neu (blanc).
 
-### Additional information for club leaders
+### Informació addicional per als líders del club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
+Si necessites imprimir aquest projecte, si us plau utilitza la [versió per a imprimir](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## títol: Notes del líder del club
 
-## Introduction:
+## Introducció:
 
 In this project, children will learn how to use the Sense HAT sensors to detect the weather, and display a rainbow using the LED matrix when it's warm and humid.
 
-## Online Resources
+## Recursos en línia
 
-**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**Aquest projecte utilitza Python 3.** Et recomanem que facis servir [Trinket](https://trinket.io/) per escriure codi Python en línia. Aquest projecte conté els següents Trinkets:
 
-* ['Rainbow Predictor' Starter Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
+* [Trinket d'inici del predictor de l'arc de Sant Martí -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
 
-There is also a trinket containing the completed project:
+També hi ha un trinket que conté el projecte acabat:
 
-* [‘Rainbow Predictor’ Finished -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
+* [‘Predictor de l'arc de Sant Martí’ Acabat -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
 
-## Offline Resources
+## Recursos fora de línia
 
-This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Aquest projecte també es pot [finalitzar fora de línia](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) en un equip Raspberry Pi amb una placa Sense HAT. Pots accedir als recursos del projecte fent clic a l’enllaç “Materials del projecte”. Aquest enllaç conté una secció "Recursos del projecte", que inclou recursos que els nens necessitaran per completar el projecte fora de línia. Assegureu-vos que cada nen tingui accés a una còpia d'aquests recursos. This section includes the following files:
 
 * rainbow/rainbow.py
 
