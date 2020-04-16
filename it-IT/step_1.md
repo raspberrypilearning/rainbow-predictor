@@ -1,21 +1,21 @@
-## Introduction:
+## Introduzione:
 
-In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
+In questo progetto utilizzerai i sensori di temperatura e umidità sul Sense HAT per prevedere quando c'è una buona probabilità di avvistare un arcobaleno. Quando verranno rilevate le giuste condizioni, verrà visualizzato un arcobaleno sulla matrice LED del Sense HAT.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
-In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
+Nell'emulatore Trinket è possibile spostare i cursori per modificare la temperatura e l'umidità:
 
 ![screenshot](images/rainbow-sliders.png)
 
-You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
+Se la temperatura supera i 20 gradi Celsius e l'umidità supera l'80 per cento, verrà visualizzato un arcobaleno. Prova a sperimentare per trovare le condizioni meteorologiche per sole (giallo) e neve (bianco).
 
-### Additional information for club leaders
+### Ulteriori informazioni per gli organizzatori dei club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
 ## \--- collapse \---
 
