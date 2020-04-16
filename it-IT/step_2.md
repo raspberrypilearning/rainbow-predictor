@@ -1,33 +1,33 @@
-## Drawing a rainbow
+## Disegnare un arcobaleno
 
-First let's draw a rainbow using the LED Matrix on the Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
+Per prima cosa disegniamo un arcobaleno usando la matrice LED sul Sense HAT. I colori sono rosso, arancione, giallo, verde, blu, indaco e viola.
 
-To set the colour of an individual LED we need to say how much red, green and blue it should have from 0 to 255.
+Per impostare il colore di un singolo LED dobbiamo dire quanto rosso, verde e blu dovrebbe avere da 0 a 255.
 
-+ Open the Rainbow Predictor Starter Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
++ Apri il trinket di partenza: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
     
-    **The code to set up the Sense HAT has been included for you.**
+    **Il codice per inizializzare il Sense HAT è stato incluso per te.**
 
-+ Add the highlighted code to set up a variable for the colour Red and then turn all the pixels red using `sense.clear(R)`:
++ Aggiungi il codice evidenziato per impostare una variabile per il colore rosso e poi fai diventare rossi tutti i pixel usando `sense.clear(R)`:
     
     ![screenshot](images/rainbow-red.png)
     
-    Make sure you use a capital letter `R`.
+    Assicurati di utilizzare una lettera maiuscola `R`.
 
-+ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
++ Il prossimo è l'arancione. L'arancione è rosso misto a verde. Puoi modificare i numeri finché non ottieni un arancione che ti piace. Usa `sense.clear(O)` questa volta per testare il nuovo colore, assicurandoti di utilizzare una lettera maiuscola `O` tra le parentesi.
     
     ![screenshot](images/rainbow-orange.png)
 
-+ Now add variables `Y`, `G`, `B`, `I`, `V` so that you have the seven colours of the rainbow. You can look up RGB colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
++ Ora aggiungi le variabili `G`, `V`, `B`, `I`, `W` così da avere i 7 colori dell'arcobaleno. Puoi cercare i colori RGB su <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
     
-    You can test your colours using `sense.clear()`.
+    Puoi testare i tuoi colori usando `sense.clear()`.
     
     ![screenshot](images/rainbow-colours.png)
 
-+ Add a variable `X` for setting pixels to off (no red, green or blue):
++ Aggiungi una variabile `X` per spegnere i pixel (nessun rosso, verde o blu):
     
     ![screenshot](images/rainbow-off.png)
 
-+ Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
++ Adesso è il momento di disegnare un arcobaleno. Devi impostare una lista contenente il colore di ciascun pixel e poi chiamare `set_pixels` con l'elenco dei colori. Per scrivere meno puoi copiare l'arcobaleno da `snippets.py` nel tuo progetto.
     
     ![screenshot](images/rainbow-rainbow.png)
