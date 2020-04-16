@@ -62,7 +62,7 @@ Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabr
 
 * Més Temps - mostra imatges diferents en condicions meteorològiques diferents. 
 
-\--- /collapse \---
+\--- / collapse \---
 
 ## \--- collapse \---
 
@@ -80,4 +80,4 @@ Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabr
 * [Projecte Trinket complet en línia](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
-\--- /collapse \---
+\--- / collapse \---
