@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: More Weather
+## Wyzwanie: Więcej pogody
 
-Can you display a sun image when the temperature is above 20 and the humidity is below 80%.
+Czy możesz wyświetlić obraz słońca, gdy temperatura wynosi powyżej 20, a wilgotność jest poniżej 80%.
 
-Tip: Use `elif` to check for other kinds of weather. For each kind of weather you'll need to include a condition to check for a kind of weather and then code to set the display on the Sense HAT.
+Wskazówka: użyj `elif` aby sprawdzić inne rodzaje pogody. Dla każdego rodzaju pogody musisz uwzględnić warunek, aby sprawdzał rodzaj pogody, a następnie kod, aby ustawił wyświetlanie na Sense HAT.
 
-![screenshot](images/rainbow-elif.png)
+![zrzut ekranu](images/rainbow-elif.png)
 
-Tip: You can create a simple sun by setting all the pixels to yellow with `clear()`. Or you can try creating a pixel image like you did with the rainbow.
+Wskazówka: Możesz utworzyć proste słońce, ustawiając wszystkie piksele na żółte za pomocą `clear()`. Możesz też spróbować utworzyć pikselowy obraz, jak w przypadku tęczy.
 
-![screenshot](images/rainbow-sun.png)
+![zrzut ekranu](images/rainbow-sun.png)
 
-How about a snow image if the humidity is above 80% and the temperature is below zero.
+Może zrobisz też obraz śniegu gdy wilgotność jest powyżej 80% i temperatura jest poniżej zera.
 
-Tip: Set red, green and blue to the maximum of 255 to create white.
+Wskazówka: Ustaw czerwony, zielony i niebieski na maksymalnie 255, aby utworzyć biały.
 
-![screenshot](images/rainbow-snow.png)
+![zrzut ekranu](images/rainbow-snow.png)
 
 \--- /challenge \---
