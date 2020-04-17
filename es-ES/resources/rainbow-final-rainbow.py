@@ -12,31 +12,31 @@ Y = [255, 255, 0] # yellow
 V = [0, 255, 0] # Verde
 A = [0, 55, 155] # Azul
 AN = [25, 0, 255] # AÑil
-V = [255, 0, 255] # Violeta
+VI = [255, 0, 255] # VIoleta
 X = [0, 0, 0]  # Apagado
 
 
 arco_iris = [
 R, R, R, R, R, R, R, R,
-R, O, O, O, O, O, O, O,
-R, O, Y, Y, Y, Y, Y, Y,
-R, O, Y, G, G, G, G, G,
-R, O, Y, G, B, B, B, B,
-R, O, Y, G, B, I, I, I,
-R, O, Y, G, B, I, V, V,                                                                   
-R, O, Y, G, B, I, V, X
+R, N, N, N, N, N, N, N,
+R, N, AM, AM, AM, AM, AM, AM,
+R, N, AM, V, V, V, V, V,
+R, N, AM, V, A, A, A, A,
+R, N, AM, V, A, AN, AN, AN,
+R, N, AM, V, A, AN, VI, VI,                                                                   
+R, N, AM, V, A, AN, VI, X
 ]
 
 while True:
   t = time.localtime() 
   h = t.tm_hour
 
-  if sense.humidity > 80 and sense.temp > 20:
-    sense.set_pixels(rainbow)
-  elif sense.humidity > 80 and sense.temp < 0 :
-    sense.clear([255, 255, 255]) # white snow
-  elif sense.humidity <= 80 and sense.temp > 20 :
-    sense.clear([255, 255, 0]) # yellow sun
+  if sensor.humidity > 80 and sensor.temp > 20:
+    sensor.set_pixels(arco_iris)
+  elif sensor.humidity > 80 and sensor.temp < 0 :
+    sensor.clear([255, 255, 255]) # Nieve: blanco
+  elif sensor.humidity <= 80 and sensor.temp > 20 :
+    sensor.clear([255, 255, 0]) # Sol: amarillo
   else:
-    sense.clear()
+    sensor.clear()
     
