@@ -1,15 +1,15 @@
-## Reading the sensor data
+## Citirea datelor senzorilor
 
-The Sense HAT has a range of sensors that provide real world data on a Raspberry Pi computer. The Sense HAT Emulator in Trinket allows you write and test projects for the Sense HAT in your web browser.
+Sense HAT are o serie de senzori care furnizează date din lumea reală pe un calculator Raspberry Pi. Emulatorul Sense HAT din Trinket îți permite să scrii și să testezi proiecte pentru Sense HAT în browser-ul tău.
 
-The humidity sensor reports the amount of moisture in the air. Humidity is high when it rains.
+Senzorul umidității raportează cantitatea de umiditate din aer. Umiditatea este mare când plouă.
 
-+ Let's read from the humidity sensor and print out the result. Add the highlighted code to the bottom of your script.
++ Hai să citim de la senzorul de umiditate și să tipărim rezultatul. Adaugă codul evidențiat în partea de jos a script-ului tău.
     
-    ![screenshot](images/rainbow-humid.png)
+    ![captură de ecran](images/rainbow-humid.png)
 
-+ Test your program by moving the humidity slider to different values.
++ Testează-ți programul mutând glisorul umidității la valori diferite.
     
-    ![screenshot](images/rainbow-slider.png)
+    ![captură de ecran](images/rainbow-slider.png)
     
-    Notice that the value you get back from the humidity sensor isn't exactly the same as the value on the slider. This is because the sensors aren't perfectly accurate.
+    Observă faptul că valoarea pe care o obții înapoi de la senzorul de umiditate nu este identică cu valoarea de pe slider. Asta se întâmplă pentru că senzorii nu măsoară perfect.
