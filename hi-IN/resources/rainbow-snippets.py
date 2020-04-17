@@ -1,4 +1,4 @@
-rainbow = [
+इंद्रधनुष = [
 R, R, R, R, R, R, R, R,
 R, O, O, O, O, O, O, O,
 R, O, Y, Y, Y, Y, Y, Y,
