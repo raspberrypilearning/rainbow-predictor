@@ -3,40 +3,40 @@
 from sense_hat import SenseHat
 import time
 
-sense = SenseHat()
+sense = SenseHat ()
 sense.clear()
 
-R = [255, 0, 0]  # red
-O = [255, 165, 0]  # orange
-Y = [255, 255, 0] # yellow
-G = [0, 255, 0] # green
-B = [0, 55, 155] # blue
-I = [25, 0, 255] # indigo
-V = [255, 0, 255] # violet
-X = [0, 0, 0]  # off
+C = [255, 0, 0] # czerwony
+P = [255, 165, 0] # pomarańczowy
+Z = [255, 255, 0] # żółty
+G = [0, 255, 0] # zielony
+N = [0, 55, 155] # niebieski
+I = [25, 0, 255] # indygo
+F = [255, 0, 255] # fioletowy
+X = [0, 0, 0] # wyłączony
 
 
-rainbow = [
-R, R, R, R, R, R, R, R,
-R, O, O, O, O, O, O, O,
-R, O, Y, Y, Y, Y, Y, Y,
-R, O, Y, G, G, G, G, G,
-R, O, Y, G, B, B, B, B,
-R, O, Y, G, B, I, I, I,
-R, O, Y, G, B, I, V, V,                                                                   
-R, O, Y, G, B, I, V, X
+tecza = [
+C, C, C, C, C, C, C, C,
+C, P, P, P, P, P, P, P,
+C, P, Z, Z, Z, Z, Z, Z,
+C, P, Z, G, G, G, G, G,
+C, P, Z, G, N, N, N, N,
+C, P, Z, G, N, I, I, I,
+C, P, Z, G, N, I, F, F,                                                                   
+C, P, Z, G, N, I, F, X
 ]
 
 while True:
-  t = time.localtime() 
-  h = t.tm_hour
+  c = time.localtime () 
+  g = c.tm_hour
 
   if sense.humidity > 80 and sense.temp > 20:
-    sense.set_pixels(rainbow)
+    sense.set_pixels(tecza)
   elif sense.humidity > 80 and sense.temp < 0 :
-    sense.clear([255, 255, 255]) # white snow
+    sense.clear ([255, 255, 255]) # śnieg
   elif sense.humidity <= 80 and sense.temp > 20 :
-    sense.clear([255, 255, 0]) # yellow sun
+    sense.clear ([255, 255, 0]) # słońce
   else:
     sense.clear()
     
