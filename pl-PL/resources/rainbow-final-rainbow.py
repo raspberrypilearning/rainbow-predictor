@@ -9,7 +9,7 @@ sense.clear()
 C = [255, 0, 0] # czerwony
 P = [255, 165, 0] # pomarańczowy
 Z = [255, 255, 0] # żółty
-G = [0, 255, 0] # zielony
+G = [0, 255, 0] # zielony jako że litera "Z" jest zajęta używamy "G"(ang. Green - zielony)
 N = [0, 55, 155] # niebieski
 I = [25, 0, 255] # indygo
 F = [255, 0, 255] # fioletowy
