@@ -37,7 +37,7 @@
 
 ## Offline Πόροι
 
-Αυτό το έργο μπορεί επίσης [να ολοκληρωθεί εκτός σύνδεσης](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) σε υπολογιστή Raspberry Pi με Sense HAT. Μπορείς να αποκτήσεις πρόσβαση στους πόρους του έργου κάνοντας κλικ στο σύνδεσμο «Υλικό έργου» για το έργο αυτό. Αυτός ο σύνδεσμος περιέχει μια ενότητα "Πόροι έργου", η οποία περιλαμβάνει υλικό που τα παιδιά θα χρειαστούν για να ολοκληρώσουν αυτό το έργο εκτός σύνδεσης. Βεβαιώσου ότι κάθε παιδί έχει πρόσβαση σε ένα αντίγραφο αυτών των πόρων. This section includes the following files:
+Αυτό το έργο μπορεί επίσης [να ολοκληρωθεί εκτός σύνδεσης](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) σε υπολογιστή Raspberry Pi με Sense HAT. Μπορείς να αποκτήσεις πρόσβαση στους πόρους του έργου κάνοντας κλικ στο σύνδεσμο «Υλικό έργου» για το έργο αυτό. Αυτός ο σύνδεσμος περιέχει μια ενότητα "Πόροι έργου", η οποία περιλαμβάνει υλικό που τα παιδιά θα χρειαστούν για να ολοκληρώσουν αυτό το έργο εκτός σύνδεσης. Βεβαιώσου ότι κάθε παιδί έχει πρόσβαση σε ένα αντίγραφο αυτών των πόρων. Αυτή η ενότητα περιλαμβάνει τα ακόλουθα αρχεία:
 
 * rainbow/rainbow.py
 
@@ -74,10 +74,10 @@
 * [Αρχικό έργο](http://jumpto.cc/rainbow-go)
 * [Offline αρχικό αρχείο Python](resources/rainbow-rainbow.py)
 
-## Club leader resources
+## Πόροι συντονιστή ομάδας
 
-* [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/rainbow-volunteer-resources.zip)
+* [Online ολοκληρωμένο έργο στο Τrinket](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
