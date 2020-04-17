@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## Prezicerea unui curcubeu
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon.) If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+Curcubeiele au loc atunci când soarele strălucește prin picături de apă în unghiul drept (de obicei, după-amiaza). Dacă e cald şi umiditatea e mare, atunci merită să verifici dacă există un curcubeu.
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ Acum, hai să arătăm curcubeul doar dacă condițiile sunt potrivite. Schimbă-ți codul pentru a arăta astfel:
     
-    ![screenshot](images/rainbow-check.png)
+    ![captură de ecran](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    Nu poți fi sigur că există un curcubeu când aceste condiții sunt îndeplinite, dar merită să arunci o privire.
 
-+ Try changing the values on the slider until you see the rainbow.
++ Încearcă să schimbi valorile de pe slider până când vezi curcubeul.
     
-    ![screenshot](images/rainbow-trigger.png)
+    ![captură de ecran](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    Amintește-ți că valorile raportate nu vor fi exact aceleași cu cele afișate pe slidere.
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ Un *prag* este un număr care indică o schimbare importantă. Pragurile pentru detectorul de curcubeie sunt temperaturile de 20 de grade C și umiditate de 80%.
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    Încearcă să schimbi pragurile și apoi să muți glisoarele pentru a declanșa un curcubeu.
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    Dacă lucrezi cu un Sense HAT fizic, îți poți testa codul prin stabilirea pragurilor la valori mici.
