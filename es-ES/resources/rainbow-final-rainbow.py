@@ -3,20 +3,20 @@
 from sense_hat import SenseHat
 import time
 
-sense = SenseHat()
-sense.clear()
+sensor = SenseHat()
+sensor.clear()
 
-R = [255, 0, 0]  # red
-O = [255, 165, 0]  # orange
+R = [255, 0, 0]  # Rojo
+N = [255, 165, 0]  # Naranja
 Y = [255, 255, 0] # yellow
-G = [0, 255, 0] # green
-B = [0, 55, 155] # blue
-I = [25, 0, 255] # indigo
-V = [255, 0, 255] # violet
-X = [0, 0, 0]  # off
+V = [0, 255, 0] # Verde
+A = [0, 55, 155] # Azul
+AN = [25, 0, 255] # AÑil
+V = [255, 0, 255] # Violeta
+X = [0, 0, 0]  # Apagado
 
 
-rainbow = [
+arco_iris = [
 R, R, R, R, R, R, R, R,
 R, O, O, O, O, O, O, O,
 R, O, Y, Y, Y, Y, Y, Y,
