@@ -66,7 +66,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Materiali projekta
+## title: Project materials
 
 ## Project resources
 
