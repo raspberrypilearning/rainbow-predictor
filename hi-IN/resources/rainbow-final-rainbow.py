@@ -16,7 +16,7 @@ V = [255, 0, 255] # violet (वायलेट)
 X = [0, 0, 0]  # off (ऑफ)
 
 
-इंद्रधनुष = [
+rainbow = [
 R, R, R, R, R, R, R, R,
 R, O, O, O, O, O, O, O,
 R, O, Y, Y, Y, Y, Y, Y,
@@ -32,7 +32,7 @@ while True:
   h = t.tm_hour
 
   if sense.humidity > 80 and sense.temp > 20:
-    sense.set_pixels(इंद्रधनुष)
+    sense.set_pixels(rainbow)
   elif sense.humidity > 80 and sense.temp < 0 :
     sense.clear([255, 255, 255]) # white snow
   elif sense.humidity <= 80 and sense.temp > 20 :
