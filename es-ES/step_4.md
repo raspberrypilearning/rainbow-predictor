@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## Prediciendo un arco iris
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon.) If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+Los arco iris ocurren cuando el sol brilla a través de las gotas de agua en el ángulo correcto (generalmente por la tarde). Si hace calor y la humedad es alta, entonces vale la pena comprobar si se dan las condiciones para un arco iris.
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ Ahora solamente mostremos el arco iris si las condiciones son correctas. Cambia tu código para que se parezca a este:
     
-    ![screenshot](images/rainbow-check.png)
+    ![captura de pantalla](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    No puedes estar seguro de que haya un arco iris cuando se cumplen estas condiciones, pero vale la pena echar un vistazo.
 
-+ Try changing the values on the slider until you see the rainbow.
++ Intenta cambiar los valores del deslizador hasta que veas el arco iris.
     
-    ![screenshot](images/rainbow-trigger.png)
+    ![captura de pantalla](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    Recuerda que los valores leídos por el programa no serán exactamente los mismos que los mostrados en los deslizadores.
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ Un *umbral* es un número que indica un cambio importante. 20 grados centígrados y un 80% de humedad son los umbrales para el detector de arco iris.
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    Trata de cambiar los umbrales y luego mover los deslizadores para activar un arco iris.
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    Si estás trabajando con un HAT Sense real entonces puedes probar tu código estableciendo los umbrales a valores bajos.
