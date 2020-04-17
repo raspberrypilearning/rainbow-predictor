@@ -1,83 +1,83 @@
-## Introduction:
+## Introducere:
 
-In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
+În acest proiect, vei folosi senzorii de temperatură și umiditate de pe Sense HAT pentru a prezice când există o șansă bună de a depista curcubeul. Când condițiile corecte sunt detectate, vei afișa un curcubeu pe matricea Sense HAT.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
-In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
+În emulatorul Trinket, poți muta sliderele pentru a schimba temperatura și umiditatea. Ele arată astfel:
 
-![screenshot](images/rainbow-sliders.png)
+![captură de ecran](images/rainbow-sliders.png)
 
-You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
+Vei obține un curcubeu dacă temperatura este peste 20 de grade Celsius și umiditatea este peste 80 la sută. Încearcă să experimentezi pentru a găsi condițiile meteorologice pentru lumina soarelui (galben) și zăpadă (alb).
 
-### Additional information for club leaders
+### Informații suplimentare pentru conducătorii de club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
+Dacă vrei să printezi acest proiect, folosește [Versiunea printabilă](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
 ## \--- collapse \---
 
 ## title: Note pentru conducătorul clubului
 
-## Introduction:
+## Introducere:
 
-In this project, children will learn how to use the Sense HAT sensors to detect the weather, and display a rainbow using the LED matrix when it's warm and humid.
+În acest proiect, copiii vor învăța cum să folosească senzorii Sense HAT pentru a detecta vremea, și să afișeze un curcubeu folosind matricea LED când afară este o vreme caldă și umedă.
 
-## Online Resources
+## Resurse online
 
-**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. Proiectul conține următoarele Trinket-uri:
+**Acest proiect folosește Python 3.** Recomandăm folosirea unui [trinket](https://trinket.io/) pentru a scrie cod în Python online. Proiectul conține următoarele Trinket-uri:
 
-* ['Rainbow Predictor' Starter Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
+* [Tinket-ul de început pentru „Prezicător de curcubeie” -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
 
-There is also a trinket containing the completed project:
+Există, de asemenea, un trinket care conține proiectul final:
 
-* [‘Rainbow Predictor’ Finished -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
+* [„Prezicător de curcubeie” finalizat -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
 
-## Offline Resources
+## Resurse offline
 
-This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Acest proiect poate fi, de asemenea, [completat offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) pe un calculator Raspberry Pi cu Sense HAT. Poți accesa resursele proiectului dând click pe link-ul „Materiale pentru proiect”. Link-ul conține o secțiune „Resursele proiectului” care include resurse de care copiii vor avea nevoie pentru finalizarea proiectului offline. Asigură-te că fiecare copil are acces la câte o copie din aceste resurse. Secțiunea include următoarele fișiere:
 
 * rainbow/rainbow.py
 
-You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
+De asemenea, poți găsi proiectul finalizat în secțiunea „Resurse pentru voluntari”, care conține:
 
 * rainbow-finished/rainbow.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Toate resursele de mai sus se pot descărca ca fișiere `.zip` pentru proiect și pentru lideri de club.)
 
-## Learning Objectives
+## Obiectivele învățării
 
-* Physical computing - sensors;
-* Boolean AND; 
-* RGB Colours;
-* Sense HAT display;
+* Calculul fizic - senzori;
+* ȘI Boolean; 
+* Culori RGB;
+* Afișajul Sense HAT;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Acest proiect acoperă elemente din următoarele domenii din [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combinarea elementelor de programare pentru a rezolva o problemă.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Provocări
 
-* More Weather - display different images under different weather conditions. 
+* Mai multă vreme - afișează diferite imagini în alte condiții meteorologice. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiale pentru proiect
 
-## Project resources
+## Resursele proiectului
 
-* [.zip file containing all project resources](resources/rainbow-project-resources.zip)
-* [Starter project](http://jumpto.cc/rainbow-go)
-* [Offline starter Python file](resources/rainbow-rainbow.py)
+* [fișier .zip care conține toate resursele proiectului](resources/rainbow-project-resources.zip)
+* [Proiect de început](http://jumpto.cc/rainbow-go)
+* [Fișier offline Python, gol](resources/rainbow-rainbow.py)
 
-## Club leader resources
+## Resursele liderului de club
 
-* [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
+* [fișier .zip care conține toate resursele proiectului, completate](resources/rainbow-volunteer-resources.zip)
+* [Proiect Trinket online, completat](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
