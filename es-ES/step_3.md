@@ -1,15 +1,15 @@
-## Reading the sensor data
+## Leyendo los datos del sensor
 
-The Sense HAT has a range of sensors that provide real world data on a Raspberry Pi computer. The Sense HAT Emulator in Trinket allows you write and test projects for the Sense HAT in your web browser.
+El Sense HAT tiene una gama de sensores que proporcionan datos reales en una Raspberry Pi. El emulador Sense HAT en Trinket te permite escribir y probar proyectos para el Sense HAT en tu navegador web.
 
-The humidity sensor reports the amount of moisture in the air. Humidity is high when it rains.
+El sensor de humedad indica la cantidad de humedad en el aire. La humedad es alta cuando llueve.
 
-+ Let's read from the humidity sensor and print out the result. Add the highlighted code to the bottom of your script.
++ Leamos el sensor de humedad e imprimamos el resultado. Añade el código resaltado a la parte inferior de tu script.
     
-    ![screenshot](images/rainbow-humid.png)
+    ![captura de pantalla](images/rainbow-humid.png)
 
-+ Test your program by moving the humidity slider to different values.
++ Prueba tu programa moviendo el deslizador de humedad a diferentes valores.
     
-    ![screenshot](images/rainbow-slider.png)
+    ![captura de pantalla](images/rainbow-slider.png)
     
-    Notice that the value you get back from the humidity sensor isn't exactly the same as the value on the slider. This is because the sensors aren't perfectly accurate.
+    Ten en cuenta que el valor que obtienes del sensor de humedad no es exactamente el mismo que el valor del deslizador. Ésto se debe a que los sensores no son totalmente precisos.
