@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## इंद्रधनुष का पूर्वानुमान लगाना
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon.) If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+इंद्रधनुष तब बनता है जब सूरज समकोण पर पानी की बूंदों में से होकर चमकता है (आमतौर पर दोपहर में)| यदि मौसम गर्म हो और नमी अधिक हो तो आप देख सकते हैं कि क्या इंद्रधनुष बना हुआ है |
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ अब इंद्रधनुष को केवल तभी दिखाएँ जब स्थिति सही हो। अपना कोड इस तरह दिखने के लिए बदलें:
     
-    ![screenshot](images/rainbow-check.png)
+    ![स्क्रीनशॉट](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    इन शर्तों के पूरा होने पर भी आप निश्चित रूप से नहीं कह सकते कि इंद्रधनुष होगा ही लेकिन देखकर तसल्ली कर लेना ठीक होगा।
 
-+ Try changing the values on the slider until you see the rainbow.
++ स्लाइडर पर मानों को तब तक बदलने का प्रयास करते रहें जब तक इंद्रधनुष दिखाई न दे।
     
-    ![screenshot](images/rainbow-trigger.png)
+    ![स्क्रीनशॉट](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    याद रखें कि सूचित की गई संख्या ठीक वैसी नहीं होगी जैसी कि स्लाइडर्स पर दिखाई गई थी।
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ *threshold (सीमा) * (सीमा) एक ऐसी संख्या है जो एक महत्वपूर्ण बदलाव का संकेत देती है। इंद्रधनुष डिटेक्टर के लिए 20 डिग्री सेल्सियस और 80% नमी सीमा हैं।
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    सीमा बदलने की कोशिश करें और फिर इंद्रधनुष बनाने के लिए स्लाइडर्स को को बाएं या दाएं घुमाएं।
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    यदि आप भौतिक Sense HAT के साथ काम कर रहे हैं तो आप सीमा को कम मानों पर सेट करके अपने कोड का परीक्षण कर सकते हैं।
