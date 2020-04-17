@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: More Weather
+## Provocare: Mai multă vreme
 
-Can you display a sun image when the temperature is above 20 and the humidity is below 80%.
+Poți afișa o imagine de soare atunci când temperatura este mai mare de 20 și umiditatea este sub 80%?
 
-Tip: Use `elif` to check for other kinds of weather. For each kind of weather you'll need to include a condition to check for a kind of weather and then code to set the display on the Sense HAT.
+Sfat: Folosește `elif` pentru a verifica alte tipuri de vreme. Pentru fiecare tip de vreme trebuie să incluzi o condiție pentru a verifica un fel de vreme și apoi un cod pentru a seta afișarea pe Sense HAT.
 
-![screenshot](images/rainbow-elif.png)
+![captură de ecran](images/rainbow-elif.png)
 
-Tip: You can create a simple sun by setting all the pixels to yellow with `clear()`. Or you can try creating a pixel image like you did with the rainbow.
+Sfat: Poți crea un soare simplu setând toți pixelii la galben cu `clear()`. Sau poți încerca să creezi o imagine cu pixeli așa cum ai făcut-o cu curcubeul.
 
-![screenshot](images/rainbow-sun.png)
+![captură de ecran](images/rainbow-sun.png)
 
-How about a snow image if the humidity is above 80% and the temperature is below zero.
+Ce zici de o imagine cu zăpadă dacă umiditatea este mai mare de 80% și temperatura este sub zero?
 
-Tip: Set red, green and blue to the maximum of 255 to create white.
+Sfat: Setează roșu, verde și albastru la maxim 255 pentru a crea alb.
 
-![screenshot](images/rainbow-snow.png)
+![captură de ecran](images/rainbow-snow.png)
 
 \--- /challenge \---
