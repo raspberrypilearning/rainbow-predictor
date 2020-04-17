@@ -1,10 +1,10 @@
-rainbow = [
+arco_iris = [
 R, R, R, R, R, R, R, R,
-R, O, O, O, O, O, O, O,
-R, O, Y, Y, Y, Y, Y, Y,
-R, O, Y, G, G, G, G, G,
-R, O, Y, G, B, B, B, B,
-R, O, Y, G, B, I, I, I,
-R, O, Y, G, B, I, V, V,                                                                   
+R, N, N, N, N, N, N, N,
+R, N, AM, AM, AM, AM, AM, AM,
+R, N, AM, V, V, V, V, V,
+R, N, AM, V, A, A, A, A,
+R, N, AM, V, A, AN, AN, AN,
+R, N, AM, V, A, AN, VI, VI,                                                                   
 R, O, Y, G, B, I, V, X
-]
+R, N, AM, V, A, AN, VI, X
