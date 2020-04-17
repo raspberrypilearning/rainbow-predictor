@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: More Weather
+## Πρόκληση: Περισσότερα Καιρικά Φαινόμενα
 
-Can you display a sun image when the temperature is above 20 and the humidity is below 80%.
+Μπορείς να εμφανίσεις μια εικόνα ήλιου όταν η θερμοκρασία είναι πάνω από 20 και η υγρασία είναι κάτω από 80%.
 
-Tip: Use `elif` to check for other kinds of weather. For each kind of weather you'll need to include a condition to check for a kind of weather and then code to set the display on the Sense HAT.
+Συμβουλή: Χρησιμοποίησε `elif` για να ελέγξεις και για άλλες καιρικές καταστάσεις. Για κάθε καιρική κατάσταση θα χρειαστεί να συμπεριλάβεις μια συνθήκη να ελέγξεις και στη συνέχεια να προγραμματίσεις τι θα εμφανιστεί στην οθόνη στο Sense HAT.
 
-![screenshot](images/rainbow-elif.png)
+![στιγμιότυπο οθόνης](images/rainbow-elif.png)
 
-Tip: You can create a simple sun by setting all the pixels to yellow with `clear()`. Or you can try creating a pixel image like you did with the rainbow.
+Συμβουλή: Μπορείς να δημιουργήσεις έναν απλό ήλιο ορίζοντας όλα τα εικονοστοιχεία κίτρινα με την εντολή `clear()`. Ή μπορείς να δοκιμάσεις να δημιουργήσεις μια εικόνα εικονοστοιχείων όπως έκανες με το ουράνιο τόξο.
 
-![screenshot](images/rainbow-sun.png)
+![στιγμιότυπο οθόνης](images/rainbow-sun.png)
 
-How about a snow image if the humidity is above 80% and the temperature is below zero.
+Τι θα έλεγες για μια εικόνα χιονιού, εάν η υγρασία είναι πάνω από 80% και η θερμοκρασία είναι κάτω από το μηδέν.
 
-Tip: Set red, green and blue to the maximum of 255 to create white.
+Συμβουλή: Όρισε το κόκκινο, το πράσινο και το μπλε στη μέγιστη 255 για να δημιουργήσεις λευκό.
 
-![screenshot](images/rainbow-snow.png)
+![στιγμιότυπο οθόνης](images/rainbow-snow.png)
 
 \--- /challenge \---
