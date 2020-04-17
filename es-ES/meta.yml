@@ -1,15 +1,15 @@
 ---
 hero_image: images/rainbow-predictor.png
-theme: red
+theme: rojo
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Rainbow Predictor
-description: Display a rainbow when the conditions are met.
+title: Pronosticador de arco iris
+description: Muestra un arcoíris cuando se cumplan las condiciones.
 original_url: https://codeclubprojects.org/en-GB/sense-hat/rainbow-predictor
-interests: weather
+interests: wheather
 technologies: sense-hat
 site_areas: projects
 hardware: sense-hat
@@ -18,12 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 'Introduction: '
+    title: 'Introducción: '
   - 
-    title: Drawing a rainbow
+    title: Dibujando un arco iris
   - 
-    title: Reading the sensor data
+    title: Leyendo los datos del sensor
   - 
-    title: Predicting a rainbow
+    title: Prediciendo un arco iris
   - 
-    title: 'Challenge: More Weather'
+    title: 'Reto: Más climas'
