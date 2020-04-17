@@ -18,8 +18,9 @@ Obtindràs un arc de Sant Martí si la temperatura supera els 20 graus C i la hu
 Si necessites imprimir aquest projecte, si us plau utilitza la [versió per a imprimir](https://projects.raspberrypi.org/ca-ES/projects/rainbow-predictor/print).
 
 --- collapse ---
-
-## títol: Notes pel líder del club
+---
+title: Notes pel líder del club
+---
 
 ## Introducció:
 
