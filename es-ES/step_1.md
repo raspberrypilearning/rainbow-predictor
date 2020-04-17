@@ -7,31 +7,31 @@ En este proyecto, vas a utilizar los sensores de temperatura y humedad del Sense
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
-In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
+En el emulador de Trinket se pueden mover los deslizadores para cambiar la temperatura y la humedad, viéndose así:
 
 ![captura de pantalla](images/rainbow-sliders.png)
 
-You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
+Tendrás un arco iris si la temperatura supera los 20 grados centígrados y la humedad supera el 80 por ciento. Trata de experimentar para encontrar las condiciones meteorológicas para el sol (amarillo) y la nieve (blanco).
 
-### Additional information for club leaders
+### Información adicional para líderes de los clubes
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notas para líderes de los clubes
 
-## Introduction:
+## Introducción:
 
-In this project, children will learn how to use the Sense HAT sensors to detect the weather, and display a rainbow using the LED matrix when it's warm and humid.
+En este proyecto, los niños aprenderán cómo usar los sensores Sense HAT para detectar el clima y mostrar un arco iris usando la matriz LED cuando hace calor y humedad.
 
-## Online Resources
+## Recursos en línea
 
-**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**Este proyecto usa Python 3.** Recomendamos el uso de [Trinket](https://trinket.io/) para escribir Python en línea. Este proyecto contiene los siguientes Trinkets:
 
-* ['Rainbow Predictor' Starter Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
+* [Trinket inicial: 'Pronosticador de arco iris' -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
 
-There is also a trinket containing the completed project:
+También hay un Trinket que contiene el proyecto completo:
 
 * [‘Rainbow Predictor’ Finished -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
 
