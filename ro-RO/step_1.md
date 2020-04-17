@@ -19,7 +19,7 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Note pentru conducătorul clubului
 
 ## Introduction:
 
@@ -27,7 +27,7 @@ In this project, children will learn how to use the Sense HAT sensors to detect 
 
 ## Online Resources
 
-**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. Proiectul conține următoarele Trinket-uri:
 
 * ['Rainbow Predictor' Starter Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
 
