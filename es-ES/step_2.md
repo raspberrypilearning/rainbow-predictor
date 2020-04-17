@@ -2,32 +2,32 @@
 
 Primero vamos a dibujar un arco iris usando la matriz LED del Sense HAT. Los colores son rojo, naranja, amarillo, verde, azul, añil y violeta.
 
-To set the colour of an individual LED we need to say how much red, green and blue it should have from 0 to 255.
+Para establecer el color de un LED determinado, necesitamos decir qué cantidad de rojo, verde y azul debería tener de 0 a 255.
 
-+ Open the Rainbow Predictor Starter Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
++ Abre el Trinket inicial del Pronosticador de arco iris: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
     
-    **The code to set up the Sense HAT has been included for you.**
+    **El código para configurar Sense HAT se ha incluido para ti.**
 
-+ Add the highlighted code to set up a variable for the colour Red and then turn all the pixels red using `sense.clear(R)`:
++ Añade el código resaltado para configurar una variable para el color rojo y luego pon todos los píxeles en rojo usando `sensor.clear(R)`:
     
-    ![screenshot](images/rainbow-red.png)
+    ![captura de pantalla](images/rainbow-red.png)
     
-    Make sure you use a capital letter `R`.
+    Asegúrate de usar una letra mayúscula `R`.
 
-+ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
++ El naranja es el siguiente. El naranja es rojo mezclado con verde. Puedes ajustar los números hasta obtener una naranja que te guste. Utiliza `sensor.clear(N)` esta vez para probar el nuevo color, asegurándote de usar una letra `N` mayúscula entre los paréntesis.
     
-    ![screenshot](images/rainbow-orange.png)
+    ![captura de pantalla](images/rainbow-orange.png)
 
-+ Now add variables `Y`, `G`, `B`, `I`, `V` so that you have the seven colours of the rainbow. You can look up RGB colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
++ Ahora añade las variables `AM`, `V`, `A`, `AN`, `V` para que tengas los siete colores del arco iris. Puedes ver otros colores RGB (RVA (Rojo, Verde, Azul)) en <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
     
-    You can test your colours using `sense.clear()`.
+    Puedes probar tus colores usando `sensor.clear()`.
     
-    ![screenshot](images/rainbow-colours.png)
+    ![captura de pantalla](images/rainbow-colours.png)
 
-+ Add a variable `X` for setting pixels to off (no red, green or blue):
++ Añade una variable `X` para desactivar los píxeles (ni rojo, ni verde ni azul):
     
-    ![screenshot](images/rainbow-off.png)
+    ![captura de pantalla](images/rainbow-off.png)
 
-+ Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
++ Ahora es el momento de dibujar un arco iris. Necesitas configurar una lista que contenga el color de cada píxel y luego llamar a `set_pixels` con la lista de colores. Para ahorrarte tener que teclearlo entero, puedes copiar el arco iris de `snippets.py` en tu proyecto.
     
-    ![screenshot](images/rainbow-rainbow.png)
+    ![captura de pantalla](images/rainbow-rainbow.png)
