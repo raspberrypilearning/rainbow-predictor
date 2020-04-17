@@ -18,7 +18,7 @@ Para establecer el color de un LED determinado, necesitamos decir qué cantidad 
     
     ![captura de pantalla](images/rainbow-orange.png)
 
-+ Ahora añade las variables `AM`, `V`, `A`, `AN`, `V` para que tengas los siete colores del arco iris. Puedes ver otros colores RGB (RVA (Rojo, Verde, Azul)) en <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
++ Ahora añade las variables `AM`, `V`, `A`, `AN`, `VI` para que tengas los siete colores del arco iris. Puedes ver otros colores RGB (RVA (Rojo, Verde, Azul)) en <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
     
     Puedes probar tus colores usando `sensor.clear()`.
     
