@@ -1,33 +1,33 @@
-## Drawing a rainbow
+## Rysowanie tęczy
 
-First let's draw a rainbow using the LED Matrix on the Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
+Najpierw narysujmy tęczę za pomocą matrycy LED na Sense HAT. Kolory to czerwony, pomarańczowy, żółty, zielony, niebieski, indygo i fioletowy.
 
-To set the colour of an individual LED we need to say how much red, green and blue it should have from 0 to 255.
+Aby ustawić kolor pojedynczej diody LED, musimy powiedzieć, ile powinna ona mieć czerwonego, zielonego i niebieskiego od 0 do 255.
 
-+ Open the Rainbow Predictor Starter Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
++ Otwórz startowy Trinket Prognozy Tęczy: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
     
-    **The code to set up the Sense HAT has been included for you.**
+    **Kod służący do konfiguracji Sense HAT został już za Ciebie dołączony.**
 
-+ Add the highlighted code to set up a variable for the colour Red and then turn all the pixels red using `sense.clear(R)`:
++ Dodaj podświetlony kod, aby ustawić zmienną dla koloru Czerwonego, a następnie zmień wszystkie piksele na czerwono za pomocą ` sense.clear (C) `:
     
-    ![screenshot](images/rainbow-red.png)
+    ![zrzut ekranu](images/rainbow-red.png)
     
-    Make sure you use a capital letter `R`.
+    Upewnij się, że użyłeś dużej litery `C`.
 
-+ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
++ Pomarańczowy jest następny. Pomarańczowy to czerwony wymieszany z zielonym. Możesz zmieniać liczby, aż pojawi się pomarańczowy, który ci się spodoba. Użyj `sense.clear(P)` tym razem przetestuj nowy kolor, pamiętając o użyciu dużej litery `P` w nawiasach.
     
-    ![screenshot](images/rainbow-orange.png)
+    ![zrzut ekranu](images/rainbow-orange.png)
 
-+ Now add variables `Y`, `G`, `B`, `I`, `V` so that you have the seven colours of the rainbow. You can look up RGB colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
++ Teraz dodaj zmienne `Z`, `G`, `N`, `I`, `F` abyś miał siedem kolorów tęczy. Możesz znaleźć kolory RGB na <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
     
-    You can test your colours using `sense.clear()`.
+    Możesz przetestować swoje kolory za pomocą `sense.clear()`.
     
-    ![screenshot](images/rainbow-colours.png)
+    ![zrzut ekranu](images/rainbow-colours.png)
 
-+ Add a variable `X` for setting pixels to off (no red, green or blue):
++ Dodaj zmienną `X` w celu wyłączenia pikseli (brak czerwonego, zielonego lub niebieskiego):
     
-    ![screenshot](images/rainbow-off.png)
+    ![zrzut ekranu](images/rainbow-off.png)
 
-+ Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
++ Teraz jest czas, żeby narysować tęczę. Musisz utworzyć listę zawierającą kolor każdego piksela i później wywołać funkcje `set_pixels` z listą kolorów. Aby zapisać pisanie, możesz skopiować tęczę z `snippets.py` w twoim projekcie.
     
-    ![screenshot](images/rainbow-rainbow.png)
+    ![zrzut ekranu](images/rainbow-rainbow.png)
