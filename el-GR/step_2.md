@@ -16,18 +16,18 @@
 
 + Το επόμενο είναι το πορτοκαλί. Το πορτοκαλί είναι αναμεμειγμένο κόκκινο με πράσινο. Μπορείς να προσαρμόσεις τους αριθμούς έως ότου λάβεις ένα πορτοκαλί που σου αρέσει. Χρησιμοποίησε το `sense.clear(O)` αυτή τη φορά για να δοκιμάσεις το νέο χρώμα, φροντίζοντας να χρησιμοποιήσεις ένα κεφαλαίο `O` στην παρένθεση.
     
-    ![screenshot](images/rainbow-orange.png)
+    ![στιγμιότυπο οθόνης](images/rainbow-orange.png)
 
-+ Now add variables `Y`, `G`, `B`, `I`, `V` so that you have the seven colours of the rainbow. You can look up RGB colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
++ Τώρα πρόσθεσε τις μεταβλητές `Y`, `Ζ`, `Β`, `I`, `V` έτσι ώστε να έχεις τα επτά χρώματα του ουράνιου τόξου. Μπορείς να βρεις περισσότερα RGB χρώματα στο <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
     
-    You can test your colours using `sense.clear()`.
+    Μπορείς να δοκιμάσεις τα χρώματά σου χρησιμοποιώντας το `sense.clear()`.
     
-    ![screenshot](images/rainbow-colours.png)
+    ![στιγμιότυπο οθόνης](images/rainbow-colours.png)
 
-+ Add a variable `X` for setting pixels to off (no red, green or blue):
++ Πρόσθεσε μια μεταβλητή `X` για την απενεργοποίηση των pixel (να μην εμφανίζεται κόκκινο, πράσινο ή μπλε):
     
-    ![screenshot](images/rainbow-off.png)
+    ![στιγμιότυπο οθόνης](images/rainbow-off.png)
 
-+ Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
++ Τώρα ήρθε η ώρα να σχεδιάσεις ένα ουράνιο τόξο. Πρέπει να δημιουργήσεις μια λίστα που περιέχει το χρώμα κάθε εικονοστοιχείου και στη συνέχεια να καλέσεις το `set_pixels` με τη λίστα των χρωμάτων. Για να γλυτώσεις χρόνο από την πληκτρολόγηση, μπορείς να αντιγράψεις το ουράνιο τόξο από το `snippets.py` στο έργο σου.
     
-    ![screenshot](images/rainbow-rainbow.png)
+    ![στιγμιότυπο οθόνης](images/rainbow-rainbow.png)
