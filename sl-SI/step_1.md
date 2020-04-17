@@ -66,7 +66,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiali projekta
 
 ## Project resources
 
@@ -74,7 +74,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [Starter project](http://jumpto.cc/rainbow-go)
 * [Offline starter Python file](resources/rainbow-rainbow.py)
 
-## Club leader resources
+## Viri za vodje klubov
 
 * [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
 * [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
