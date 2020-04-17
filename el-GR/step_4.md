@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## Πρόβλεψη ουράνιου τόξου
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon.) If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+Τα ουράνια τόξα εμφανίζονται όταν ο ήλιος λάμπει μέσω σταγονιδίων νερού στη σωστή γωνία (συνήθως το απόγευμα.) Αν έχει ζέστη και η υγρασία είναι υψηλή, αξίζει να ελέγξεις αν υπάρχει ουράνιο τόξο.
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ Τώρα ας δείξουμε μόνο το ουράνιο τόξο, εάν οι συνθήκες είναι κατάλληλες. Διόρθωσε τον κώδικα έτσι ώστε να φαίνεται όπως παρακάτω:
     
-    ![screenshot](images/rainbow-check.png)
+    ![στιγμιότυπο οθόνης](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    Δεν μπορείς να είσαι σίγουρος ότι υπάρχει ένα ουράνιο τόξο όταν πληρούνται αυτές οι προϋποθέσεις, αλλά αξίζει να ρίξεις μια ματιά.
 
-+ Try changing the values on the slider until you see the rainbow.
++ Δοκίμασε την αλλαγή των τιμών στον ρυθμιστή μέχρι να δεις το ουράνιο τόξο.
     
-    ![screenshot](images/rainbow-trigger.png)
+    ![στιγμιότυπο οθόνης](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    Να θυμάσαι ότι οι τιμές που καταγράφονται δεν θα είναι ακριβώς ίδιες με αυτές που εμφανίζονται στους ρυθμιστές.
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ Το *όριο* είναι ένας αριθμός που δείχνει μια σημαντική αλλαγή. Οι 20 βαθμοί C και η 80% υγρασία είναι όρια για τον ανιχνευτή ουράνιου τόξου.
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    Δοκίμασε να αλλάξεις τα όρια και, στη συνέχεια, μετακίνησε τους ρυθμιστές για να ενεργοποιήσεις το ουράνιο τόξο.
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    Αν εργάζεσαι με ένα πραγματικό Sense HAT, τότε μπορείς να δοκιμάσεις τον κώδικά σου ορίζοντας τα όρια σε χαμηλές τιμές.
