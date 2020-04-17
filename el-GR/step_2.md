@@ -1,20 +1,20 @@
-## Drawing a rainbow
+## Σχεδίαση ουράνιου τόξου
 
-First let's draw a rainbow using the LED Matrix on the Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
+Αρχικά ας σχεδιάσουμε ένα ουράνιο τόξο χρησιμοποιώντας το LED Matrix στο Sense HAT. Τα χρώματα είναι κόκκινο, πορτοκαλί, κίτρινο, πράσινο, μπλε, λουλακί και βιολετί.
 
-To set the colour of an individual LED we need to say how much red, green and blue it should have from 0 to 255.
+Για να ρυθμίσουμε το χρώμα μιας μεμονωμένης λυχνίας LED πρέπει να πούμε πόσα κόκκινο, πράσινο και μπλε πρέπει να έχει σε μία κλίμακα από 0 έως 255.
 
-+ Open the Rainbow Predictor Starter Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
++ Άνοιξε το αρχικό Trinket Rainbow Predictor Starter: <a href="http://jumpto.cc/rainbow-go" target="_blank"> jumpto.cc/rainbow-go </a>.
     
-    **The code to set up the Sense HAT has been included for you.**
+    **Ο κώδικας για τη ρύθμιση του Sense HAT είναι ήδη συμπληρωμένος.**
 
-+ Add the highlighted code to set up a variable for the colour Red and then turn all the pixels red using `sense.clear(R)`:
++ Πρόσθεσε τον επισημασμένο κώδικα για να ορίσεις μια μεταβλητή για το χρώμα Κόκκινο και στη συνέχεια μετέτρεψε όλα τα εικονοστοιχεία σε κόκκινο χρησιμοποιώντας το `sense.clear(R)`:
     
-    ![screenshot](images/rainbow-red.png)
+    ![στιγμιότυπο οθόνης](images/rainbow-red.png)
     
-    Make sure you use a capital letter `R`.
+    Βεβαιώσου ότι χρησιμοποιείς κεφαλαίο γράμμα `R`.
 
-+ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
++ Το επόμενο είναι το πορτοκαλί. Το πορτοκαλί είναι αναμεμειγμένο κόκκινο με πράσινο. Μπορείς να προσαρμόσεις τους αριθμούς έως ότου λάβεις ένα πορτοκαλί που σου αρέσει. Χρησιμοποίησε το `sense.clear(O)` αυτή τη φορά για να δοκιμάσεις το νέο χρώμα, φροντίζοντας να χρησιμοποιήσεις ένα κεφαλαίο `O` στην παρένθεση.
     
     ![screenshot](images/rainbow-orange.png)
 
