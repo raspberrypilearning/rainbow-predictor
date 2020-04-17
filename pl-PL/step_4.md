@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## Przewidywanie tęczy
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon.) If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+Tęcze pojawiają się, gdy słońce świeci się przez kropelki wody odpowiednim kątem (zwykle po południu.) Jeśli jest ciepło i wilgotność jest wysoka, warto sprawdzić, czy jest tęcza.
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ Teraz pokażmy tęczę tylko wtedy, gdy warunki są odpowiednie. Zmień kod, aby wyglądał następująco:
     
-    ![screenshot](images/rainbow-check.png)
+    ![zrzut ekranu](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    Nie możesz być pewien, że tęcza pojawi się gdy warunki zostaną spełnione, ale warto sprawdzić.
 
-+ Try changing the values on the slider until you see the rainbow.
++ Spróbuj zmieniać wartości na suwaku, aż zobaczysz tęczę.
     
-    ![screenshot](images/rainbow-trigger.png)
+    ![zrzut ekranu](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    Pamiętaj, że odczytane wartości nie będą dokładnie takie same jak te pokazane na suwakach.
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ *Próg* to liczna wskazująca ważną zmianę. 20 stopni C i wilgotność 80% to progi dla detektora tęczy.
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    Spróbuj zmienić progi, a następnie przesuń suwaki, aby uruchomić tęczę.
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    Jeśli pracujesz z prawdziwym Sense HATem, możesz przetestować kod, ustawiając progi na niskie wartości.
