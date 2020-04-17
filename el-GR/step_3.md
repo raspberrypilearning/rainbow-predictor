@@ -1,15 +1,15 @@
-## Reading the sensor data
+## Ανάγνωση δεδομένων αισθητήρων
 
-The Sense HAT has a range of sensors that provide real world data on a Raspberry Pi computer. The Sense HAT Emulator in Trinket allows you write and test projects for the Sense HAT in your web browser.
+Το Sense HAT διαθέτει μια γκάμα αισθητήρων που παρέχουν πραγματικά δεδομένα σε έναν υπολογιστή Raspberry Pi. Ο εξομοιωτής Sense HAT στο Trinket σου επιτρέπει να γράφεις και να δοκιμάζεις έργα για το Sense HAT στο πρόγραμμα περιήγησης ιστού.
 
-The humidity sensor reports the amount of moisture in the air. Humidity is high when it rains.
+Ο αισθητήρας υγρασίας καταγράφει την ποσότητα υγρασίας στον αέρα. Η υγρασία είναι υψηλή όταν βρέχει.
 
-+ Let's read from the humidity sensor and print out the result. Add the highlighted code to the bottom of your script.
++ Ας διαβάσουμε (από) τον αισθητήρα υγρασίας κι ας εμφανίσουμε το αποτέλεσμα. Πρόσθεσε τον επισημασμένο κώδικα στο κάτω μέρος του προγράμματός σου.
     
-    ![screenshot](images/rainbow-humid.png)
+    ![στιγμιότυπο οθόνης](images/rainbow-humid.png)
 
-+ Test your program by moving the humidity slider to different values.
++ Δοκίμασε το πρόγραμμά σου μετακινώντας τον ρυθμιστή υγρασίας σε διαφορετικές τιμές.
     
-    ![screenshot](images/rainbow-slider.png)
+    ![στιγμιότυπο οθόνης](images/rainbow-slider.png)
     
-    Notice that the value you get back from the humidity sensor isn't exactly the same as the value on the slider. This is because the sensors aren't perfectly accurate.
+    Σημείωσε ότι η τιμή που λαμβάνεις από τον αισθητήρα υγρασίας δεν είναι ακριβώς η ίδια με την τιμή στον ρυθμιστή. Αυτό συμβαίνει επειδή οι αισθητήρες δεν είναι απόλυτα ακριβείς.
