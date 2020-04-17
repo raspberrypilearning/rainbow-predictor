@@ -1,10 +1,10 @@
-rainbow = [
-R, R, R, R, R, R, R, R,
-R, O, O, O, O, O, O, O,
-R, O, Y, Y, Y, Y, Y, Y,
-R, O, Y, G, G, G, G, G,
-R, O, Y, G, B, B, B, B,
-R, O, Y, G, B, I, I, I,
-R, O, Y, G, B, I, V, V,                                                                   
-R, O, Y, G, B, I, V, X
+tecza = [
+C, C, C, C, C, C, C, C,
+C, P, P, P, P, P, P, P,
+C, P, Z, Z, Z, Z, Z, Z,
+C, P, Z, G, G, G, G, G,
+C, P, Z, G, N, N, N, N,
+C, P, Z, G, N, I, I, I,
+C, P, Z, G, N, I, F, F,                                                                   
+C, P, Z, G, N, I, F, X
 ]
