@@ -1,33 +1,33 @@
-## Drawing a rainbow
+## Desenarea unui curcubeu
 
-First let's draw a rainbow using the LED Matrix on the Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
+Mai întâi, hai să desenăm un curcubeu folosind matricea LED-urilor de pe Sense HAT. Culorile sunt roșu, portocaliu, galben, verde, albastru, indigo și violet.
 
-To set the colour of an individual LED we need to say how much red, green and blue it should have from 0 to 255.
+Pentru a seta culoarea unui LED individual, trebuie să spunem cât de mult ar trebui să aibă roșu, verde și albastru, de la 0 la 255.
 
-+ Open the Rainbow Predictor Starter Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
++ Deschide Trinket-ul de început pentru „Prezicător de curcubeie”: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/curcubeu </a>.
     
-    **The code to set up the Sense HAT has been included for you.**
+    **Codul pentru configurarea Sense HAT a fost deja inclus pentru tine.**
 
-+ Add the highlighted code to set up a variable for the colour Red and then turn all the pixels red using `sense.clear(R)`:
++ Adaugă codul evidențiat pentru a configura o variabilă pentru culoarea roșie și apoi rotește toți pixelii roșii folosind `sense.clear(R)`:
     
-    ![screenshot](images/rainbow-red.png)
+    ![captură de ecran](images/rainbow-red.png)
     
-    Make sure you use a capital letter `R`.
+    Asigură-te că folosești majuscula (litera mare) `R`.
 
-+ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
++ Urmează portocaliul (oranj). Portocaliu este roșu amestecat cu verde. Poți ajusta numerele până când primești un portocaliu care îți place. Folosește `sense.clear(O)` de data aceasta pentru a testa noua culoare, asigurându-te că folosești o literă majusculă `O` între paranteze.
     
-    ![screenshot](images/rainbow-orange.png)
+    ![captură de ecran](images/rainbow-orange.png)
 
-+ Now add variables `Y`, `G`, `B`, `I`, `V` so that you have the seven colours of the rainbow. You can look up RGB colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
-    
-    You can test your colours using `sense.clear()`.
-    
-    ![screenshot](images/rainbow-colours.png)
++ Acum, adaugă variabile `G`, `V`, `A`, `I`, `M<0>, astfel încât să ai cele șapte culori ale curcubeului. Poți găsi o listă cu o mulțime de culori pe <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a></p>
 
-+ Add a variable `X` for setting pixels to off (no red, green or blue):
+<p>Îți poți testa culorile folosind <code>sense.clear()`.
     
-    ![screenshot](images/rainbow-off.png)
+    ![captură de ecran](images/rainbow-colours.png)
 
-+ Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
++ Adaugă o variabilă `X` pentru a dezactiva pixelii (fără roșu, verde sau albastru):
     
-    ![screenshot](images/rainbow-rainbow.png)
+    ![captură de ecran](images/rainbow-off.png)
+
++ Acum este timpul să desenăm un curcubeu. Trebuie să setezi o listă care să conțină culoarea fiecărui pixel și apoi să apelezi `set_pixels` cu lista de culori. Pentru a salva tasta poți copia curcubeul de la `snippets.py` în proiectul tău.
+    
+    ![captură de ecran](images/rainbow-rainbow.png)
