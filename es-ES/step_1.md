@@ -1,6 +1,6 @@
 ## Introducción:
 
-En este proyecto, vas a utilizar los sensores de temperatura y humedad del Sense HAT para predecir cuándo hay una buena posibilidad de ver un arco iris. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
+En este proyecto, vas a utilizar los sensores de temperatura y humedad del Sense HAT para predecir cuándo hay una buena posibilidad de ver un arco iris. Cuando se detecten las condiciones adecuadas, se mostrará un arco iris en la matriz LED del Sense HAT.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
@@ -9,7 +9,7 @@ En este proyecto, vas a utilizar los sensores de temperatura y humedad del Sense
 
 In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
 
-![screenshot](images/rainbow-sliders.png)
+![captura de pantalla](images/rainbow-sliders.png)
 
 You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
 
