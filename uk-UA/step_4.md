@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## Прогнозування веселки
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon.) If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+Веселки з’являються, коли сонце світить крізь малесенькі крапельки води під правильним кутом (зазвичай після обіду). Якщо навколо тепло та волого, то варто перевірити, чи немає десь веселки.
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ Тепер давай будемо показувати веселку, тільки коли умови правильні. Зміни свій код таким чином:
     
-    ![screenshot](images/rainbow-check.png)
+    ![знімок екрана](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    Ти не можеш бути повністю впевнений, що коли ці умови виконуватимуться, то обов’язково буде веселка, але перевірити варто.
 
-+ Try changing the values on the slider until you see the rainbow.
++ Спробуй змінювати положення повзунка, поки не побачиш веселку.
     
-    ![screenshot](images/rainbow-trigger.png)
+    ![знімок екрана](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    Пам’ятай, що отримані із датчиків значення не будуть точно такими ж, як на повзунках.
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ *Поріг* — це число, яке позначає якусь суттєву зміну. 20 градусів Цельсія та вологість 80% є пороговими значеннями для прогнозу веселки.
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    Спробуй змінити порогові значення, а потім рухати повзунки, щоб отримати веселку.
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    Якщо ти працюєш із справжнім Sense HAT, то ти можеш перевірити свій код, встановивши низькі порогові значення.
