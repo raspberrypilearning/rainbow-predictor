@@ -1,17 +1,17 @@
-## Introduction:
+## Introducción:
 
-In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
+En este proyecto, vas a utilizar los sensores de temperatura y humedad del Sense HAT para predecir cuando hay una buena posibilidad de ver un arcoíris. Cuando se detecten las condiciones adecuadas, se mostrará un arcoíris en la matriz LED del Sense HAT.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
-In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
+En el emulador de Trinket se pueden mover los deslizadores para cambiar la temperatura y la humedad, viéndose así:
 
 ![screenshot](images/rainbow-sliders.png)
 
-You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
+Tendrás un arcoíris si la temperatura supera los 20 grados Centígrados y la humedad supera el 80 por ciento. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
 
 ### Additional information for club leaders
 
