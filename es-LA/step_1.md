@@ -11,37 +11,37 @@ En el emulador de Trinket se pueden mover los deslizadores para cambiar la tempe
 
 ![screenshot](images/rainbow-sliders.png)
 
-Tendrás un arcoíris si la temperatura supera los 20 grados Centígrados y la humedad supera el 80 por ciento. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
+Tendrás un arcoíris si la temperatura supera los 20 grados Centígrados y la humedad supera el 80 por ciento. Trata de experimentar para encontrar las condiciones meteorológicas para el sol (amarillo) y la nieve (blanco).
 
-### Additional information for club leaders
+### Información adicional para los líderes del club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notas para el líder del club
 
-## Introduction:
+## Introducción:
 
-In this project, children will learn how to use the Sense HAT sensors to detect the weather, and display a rainbow using the LED matrix when it's warm and humid.
+En este proyecto, los niños aprenderán cómo usar los sensores Sense HAT para detectar el clima y mostrar un arcoíris usando la matriz LED cuando hace calor y hay humedad.
 
-## Online Resources
+## Recursos en línea
 
-**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**Este proyecto usa Python 3.** Recomendamos el uso de [Trinket](https://trinket.io/) para escribir Python en línea. Este proyecto contiene los Trinkets siguientes:
 
-* ['Rainbow Predictor' Starter Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
+* [Trinket inicial 'Predictor de Arcoíris' -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
 
-There is also a trinket containing the completed project:
+También hay un Trinket que contiene el proyecto completo:
 
-* [‘Rainbow Predictor’ Finished -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
+* [‘Predictor de Arcoíris’ Terminado -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
 
-## Offline Resources
+## Recursos sin conexión
 
-This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Este proyecto también se puede [completar sin conexión](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) en una computadora Raspberry Pi con un Sense HAT. Puedes acceder a los recursos del proyecto haciendo clic en el enlace «Materiales del proyecto» para este proyecto. Este enlace contiene una sección de «Recursos del proyecto», que incluye los recursos que los niños necesitarán para completar este proyecto sin conexión. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
 
 * rainbow/rainbow.py
 
-You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
+También se puede encontrar una versión completa de este proyecto en la sección 'Recursos para voluntarios', que contiene:
 
 * rainbow-finished/rainbow.py
 
