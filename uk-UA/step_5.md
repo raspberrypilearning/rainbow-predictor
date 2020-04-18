@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: More Weather
+## Завдання: більше погоди
 
-Can you display a sun image when the temperature is above 20 and the humidity is below 80%.
+Чи можеш ти показати зображення сонця, коли температура вища 20, а вологість нижча 80%?
 
-Tip: Use `elif` to check for other kinds of weather. For each kind of weather you'll need to include a condition to check for a kind of weather and then code to set the display on the Sense HAT.
+Порада: Використай `elif` для перевірки інших погодних умов. Для кожного типу погоди тобі потрібно буде додати умову для її перевірки, а потім запрограмувати відображення на Sense HAT.
 
-![screenshot](images/rainbow-elif.png)
+![знімок екрана](images/rainbow-elif.png)
 
-Tip: You can create a simple sun by setting all the pixels to yellow with `clear()`. Or you can try creating a pixel image like you did with the rainbow.
+Порада: Ти можеш створити просте сонце, встановивши всі пікселі в жовтий колір (yellow) за допомогою `clear()`. Або ти можеш створити піксельну картинку, як ти робив із веселкою.
 
-![screenshot](images/rainbow-sun.png)
+![знімок екрана](images/rainbow-sun.png)
 
-How about a snow image if the humidity is above 80% and the temperature is below zero.
+А як щодо відображення снігу, коли вологість перевищує 80%, а температура опускається нижче нуля?
 
-Tip: Set red, green and blue to the maximum of 255 to create white.
+Порада: Встанови максимальне значення 255 для червоного (red), зеленого (green) та голубого (blue), щоб створити білий.
 
-![screenshot](images/rainbow-snow.png)
+![знімок екрана](images/rainbow-snow.png)
 
 \--- /challenge \---
