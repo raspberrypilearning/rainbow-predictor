@@ -10,24 +10,24 @@ Para definir a cor de um LED individual, precisamos dizer quanto vermelho, verde
 
 + Adicione o código destacado para configurar uma variável para a cor Vermelho e depois torne todos os pixels vermelhos usando `sensor.clear(R)` (R = red = vermelho):
     
-    ![screenshot](images/rainbow-red.png)
+    ![captura de tela](images/rainbow-red.png)
     
     Certifique-se de usar a letra maiúscula `R`.
 
-+ A cor Laranja é a próxima. Laranja é vermelho misturado com verde. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
++ A cor Laranja é a próxima. Laranja é vermelho misturado com verde. Você pode ajustar os números até obter a tom de laranja que desejar. Use agora o `sensor.clear(O)` (O = orange = laranja) para testar a nova cor, certificando-se de usar a letra maiúscula `O` entre parênteses.
     
-    ![screenshot](images/rainbow-orange.png)
+    ![captura de tela](images/rainbow-orange.png)
 
-+ Now add variables `Y`, `G`, `B`, `I`, `V` so that you have the seven colours of the rainbow. You can look up RGB colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
++ Agora adicione variáveis `Y` (Y = yellow = amarelo), `G` (G = green = verde), `B` (B = blue = azul), `I` (I = indigo = índigo), `V` (V = violet = violeta) para que você tenha as sete cores do arco-íris. Você pode encontrar mais cores RGB em <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colors</a>
     
-    You can test your colours using `sense.clear()`.
+    Você pode testar suas cores usando `sensor.clear()`.
     
-    ![screenshot](images/rainbow-colours.png)
+    ![captura de tela](images/rainbow-colours.png)
 
-+ Add a variable `X` for setting pixels to off (no red, green or blue):
++ Adicione uma variável `X` para desativar os pixels (sem vermelho, verde ou azul):
     
-    ![screenshot](images/rainbow-off.png)
+    ![captura de tela](images/rainbow-off.png)
 
-+ Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
++ Agora é hora de desenhar um arco-íris. Você precisa configurar uma lista contendo a cor de cada pixel e usar `set_pixels` com a lista de cores. Para não precisar digitar, você pode copiar o arco-íris de `snippets.py` em seu projeto.
     
-    ![screenshot](images/rainbow-rainbow.png)
+    ![captura de tela](images/rainbow-rainbow.png)
