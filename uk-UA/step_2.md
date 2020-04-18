@@ -1,33 +1,33 @@
 ## Малювання веселки
 
-Спочатку давай намалюємо веселку за допомогою матриці світлодіодів Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
+Спочатку давай намалюємо веселку за допомогою матриці світлодіодів Sense HAT. Кольори такі: червоний (Red), оранжевий (Orange), жовтий (Yellow), зелений (Green), голубий (Blue), індіго (Indigo) та фіолетовий (Violet).
 
-To set the colour of an individual LED we need to say how much red, green and blue it should have from 0 to 255.
+Щоб задати колір кожного світлодіода, нам треба визначити, скільки червоного (Red), зеленого (Green) або голубого (Blue) він повинен містити від 0 до 255.
 
-+ Open the Rainbow Predictor Starter Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
++ Відкрий початковий проєкт "Прогноз веселки" у Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
     
-    **The code to set up the Sense HAT has been included for you.**
+    **Код для налаштування Sense HAT вже був підготовлений для тебе.**
 
-+ Add the highlighted code to set up a variable for the colour Red and then turn all the pixels red using `sense.clear(R)`:
++ Додай виділений код, щоб створити змінну для червоного (Red) кольору, а далі засвіти всі пікселі червоним за допомогою `sense.clear(R)`:
     
-    ![screenshot](images/rainbow-red.png)
+    ![знімок екрана](images/rainbow-red.png)
     
-    Make sure you use a capital letter `R`.
+    Переконайся, що ти використовуєш велику літеру `R`.
 
-+ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
++ Далі — оранжевий (Orange). Його можна отримати, змішавши червоний із зеленим. Ти можеш змінювати числа, поки не отримаєш такий відтінок оранжевого, який тобі подобається. Цього разу для перевірки нового кольору використовуй `sense.clear(O)`, переконавшись, що використовуєш велику літеру `O` в дужках.
     
-    ![screenshot](images/rainbow-orange.png)
+    ![знімок екрана](images/rainbow-orange.png)
 
-+ Now add variables `Y`, `G`, `B`, `I`, `V` so that you have the seven colours of the rainbow. You can look up RGB colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
++ Тепер додай змінні `Y`, `G`, `B`, `I`, `V`, щоб в тебе стало сім кольорів веселки. Ти можеш знайти кольори RGB тут: <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
     
-    You can test your colours using `sense.clear()`.
+    Ти можеш протестувати кольори за допомогою `sense.clear()`.
     
-    ![screenshot](images/rainbow-colours.png)
+    ![знімок екрана](images/rainbow-colours.png)
 
-+ Add a variable `X` for setting pixels to off (no red, green or blue):
++ Додай змінну `X` для вимкнення пікселів (без червоного, зеленого та голубого):
     
-    ![screenshot](images/rainbow-off.png)
+    ![знімок екрана](images/rainbow-off.png)
 
-+ Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
++ А тепер час намалювати веселку. Тобі необхідно задати список із кольорами всіх пікселів, а потім викликати `set_pixels` із цим списком кольорів. Щоб не вводити багато тексту, ти можеш скопіювати веселку із файлу `snippets.py` в своєму проєкті.
     
-    ![screenshot](images/rainbow-rainbow.png)
+    ![знімок екрана](images/rainbow-rainbow.png)
