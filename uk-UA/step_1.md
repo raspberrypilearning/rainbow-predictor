@@ -9,7 +9,7 @@
 
 В емуляторі Trinket ти можеш рухати повзунки для зміни температури та вологості, вони виглядають так:
 
-![screenshot](images/rainbow-sliders.png)
+![знімок екрана](images/rainbow-sliders.png)
 
 Ти отримаєш райдугу, коли температура перевищує 20 градусів Цельсія, а вологість перевищує 80 процентів. Спробуй поекспериментувати, щоб віднайти погодні умови для ясної сонячної погоди (жовтий) та снігу (білий).
 
@@ -37,47 +37,47 @@
 
 ## Офлайн ресурси
 
-Цей проєкт також можна [виконати офлайн](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) на комп’ютері Raspberry Pi з розширенням Sense HAT. Ви можете отримати доступ до ресурсів проєкту, натиснувши на посилання "Матеріали проєкту". Це посилання містить розділ "Ресурси проєкту", який включає в себе ресурси, необхідні дітям для реалізації цього проєкту в режимі офлайн. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Цей проєкт також можна [виконати офлайн](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) на комп’ютері Raspberry Pi з розширенням Sense HAT. Ви можете отримати доступ до ресурсів проєкту, натиснувши на посилання "Матеріали проєкту". Це посилання містить розділ "Ресурси проєкту", який включає в себе ресурси, необхідні дітям для реалізації цього проєкту в режимі офлайн. Переконайтеся, що кожна дитина має доступ до копій цих ресурсів. Цей розділ містить наступні файли:
 
 * rainbow/rainbow.py
 
-You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
+Також, ви можете знайти завершену версію цього проєкту в розділі "Ресурси керівника клубу", яка містить:
 
 * rainbow-finished/rainbow.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Всі вищезгадані ресурси доступні для завантаження як `.zip`-файли проєкту та керівника клубу.)
 
-## Learning Objectives
+## Цілі навчання
 
-* Physical computing - sensors;
-* Boolean AND; 
-* RGB Colours;
-* Sense HAT display;
+* Програмування пристроїв з датчиками;
+* Логічне І (AND); 
+* Кольори RGB;
+* Дисплей Sense HAT;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Застосування простих програмних конструкцій для вирішення проблем.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Завдання
 
-* More Weather - display different images under different weather conditions. 
+* Більше погоди — показати різні зображення за різних погодних умов. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Матеріали проєкту
 
-## Project resources
+## Ресурси проєкту
 
-* [.zip file containing all project resources](resources/rainbow-project-resources.zip)
-* [Starter project](http://jumpto.cc/rainbow-go)
-* [Offline starter Python file](resources/rainbow-rainbow.py)
+* [.zip-файл, що містить всі ресурси проєкту](resources/rainbow-project-resources.zip)
+* [Початковий проєкт](http://jumpto.cc/rainbow-go)
+* [Початковий Python-файл для роботи офлайн](resources/rainbow-rainbow.py)
 
-## Club leader resources
+## Ресурси керівника клубу
 
-* [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
+* [.zip-файл, що містить всі завершені проєктні ресурси](resources/rainbow-volunteer-resources.zip)
+* [Завершений онлайн проєкт Trinket](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
