@@ -9,7 +9,7 @@ En este proyecto, vas a utilizar los sensores de temperatura y humedad del Sense
 
 En el emulador de Trinket se pueden mover los deslizadores para cambiar la temperatura y la humedad, viéndose así:
 
-![screenshot](images/rainbow-sliders.png)
+![captura de pantalla](images/rainbow-sliders.png)
 
 Tendrás un arcoíris si la temperatura supera los 20 grados Centígrados y la humedad supera el 80 por ciento. Trata de experimentar para encontrar las condiciones meteorológicas para el sol (amarillo) y la nieve (blanco).
 
@@ -45,39 +45,39 @@ También se puede encontrar una versión completa de este proyecto en la secció
 
 * rainbow-finished/rainbow.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Todos los recursos anteriores también se pueden descargar como archivos `.zip` de proyectos y para voluntarios.)
 
-## Learning Objectives
+## Objetivos del Aprendizaje
 
-* Physical computing - sensors;
-* Boolean AND; 
-* RGB Colours;
-* Sense HAT display;
+* Computación física - sensores;
+* Booleano AND; 
+* Colores RGB;
+* Pantalla Sense HAT;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este proyecto trata elementos de los siguientes aspectos del [Currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combinar estructuras de programación para resolver un problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Desafíos
 
-* More Weather - display different images under different weather conditions. 
+* Más clima - mostrar diferentes imágenes bajo diferentes condiciones meteorológicas. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiales del proyecto
 
-## Project resources
+## Recursos del proyecto
 
-* [.zip file containing all project resources](resources/rainbow-project-resources.zip)
-* [Starter project](http://jumpto.cc/rainbow-go)
-* [Offline starter Python file](resources/rainbow-rainbow.py)
+* [Archivo .zip que contiene todos los recursos del proyecto](resources/rainbow-project-resources.zip)
+* [Proyecto inicial](http://jumpto.cc/rainbow-go)
+* [Archivo de Python inicial sin conexión](resources/rainbow-rainbow.py)
 
-## Club leader resources
+## Recursos para los líderes del club
 
-* [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
+* [Archivo .zip que contiene todos los recursos del proyecto terminado](resources/rainbow-volunteer-resources.zip)
+* [Proyecto Trinket completado en línea](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
