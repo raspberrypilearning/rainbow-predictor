@@ -1,4 +1,4 @@
-## Drawing a rainbow
+## Dibujando un arcoíris
 
 First let's draw a rainbow using the LED Matrix on the Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
 
