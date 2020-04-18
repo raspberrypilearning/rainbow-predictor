@@ -1,20 +1,20 @@
-## Drawing a rainbow
+## Desenhando um arco-íris
 
-First let's draw a rainbow using the LED Matrix on the Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
+Primeiro, vamos desenhar um arco-íris usando a Matriz de LEDs no Sense HAT. As cores são Vermelho (red = R), Laranja (orange = O), Amarelo (yellow = Y), Verde (green = G), Azul (blue = B), Índigo (indigo = I) e Violeta (violet = V).
 
-To set the colour of an individual LED we need to say how much red, green and blue it should have from 0 to 255.
+Para definir a cor de um LED individual, precisamos dizer quanto vermelho, verde e azul ele deve ter de 0 a 255.
 
-+ Open the Rainbow Predictor Starter Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
++ Abra o Trinket 'Previsor de Arco-íris' versão inicial: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
     
-    **The code to set up the Sense HAT has been included for you.**
+    **O código para configurar o Sense HAT foi incluído para você.**
 
-+ Add the highlighted code to set up a variable for the colour Red and then turn all the pixels red using `sense.clear(R)`:
++ Adicione o código destacado para configurar uma variável para a cor Vermelho e depois torne todos os pixels vermelhos usando `sensor.clear(R)` (R = red = vermelho):
     
     ![screenshot](images/rainbow-red.png)
     
-    Make sure you use a capital letter `R`.
+    Certifique-se de usar a letra maiúscula `R`.
 
-+ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
++ A cor Laranja é a próxima. Laranja é vermelho misturado com verde. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
     
     ![screenshot](images/rainbow-orange.png)
 
