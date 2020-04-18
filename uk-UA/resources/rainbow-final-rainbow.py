@@ -6,14 +6,14 @@ import time
 sense = SenseHat()
 sense.clear()
 
-R = [255, 0, 0]  # red
-O = [255, 165, 0]  # orange
-Y = [255, 255, 0] # yellow
-G = [0, 255, 0] # green
-B = [0, 55, 155] # blue
-I = [25, 0, 255] # indigo
-V = [255, 0, 255] # violet
-X = [0, 0, 0]  # off
+R = [255, 0, 0]  # червоний
+O = [255, 165, 0]  # оранжевий
+Y = [255, 255, 0] # жовтий
+G = [0, 255, 0] # зелений
+B = [0, 55, 155] # голубий
+I = [25, 0, 255] # індіго
+V = [255, 0, 255] # фіолетовий
+X = [0, 0, 0]  # вимкнути
 
 
 rainbow = [
@@ -34,9 +34,9 @@ while True:
   if sense.humidity > 80 and sense.temp > 20:
     sense.set_pixels(rainbow)
   elif sense.humidity > 80 and sense.temp < 0 :
-    sense.clear([255, 255, 255]) # white snow
+    sense.clear([255, 255, 255]) # білий сніг
   elif sense.humidity <= 80 and sense.temp > 20 :
-    sense.clear([255, 255, 0]) # yellow sun
+    sense.clear([255, 255, 0]) # жовте сонце
   else:
     sense.clear()
     
