@@ -1,6 +1,6 @@
-## Drawing a rainbow
+## Малювання веселки
 
-First let's draw a rainbow using the LED Matrix on the Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
+Спочатку давай намалюємо веселку за допомогою матриці світлодіодів Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
 
 To set the colour of an individual LED we need to say how much red, green and blue it should have from 0 to 255.
 
