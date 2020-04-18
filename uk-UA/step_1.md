@@ -1,43 +1,43 @@
-## Introduction:
+## Вступ:
 
-In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
+В цьому проєкті ти використаєш датчики температури та вологості Sense HAT для визначення моменту, коли є великі шанси побачити веселку. Коли спостерігаються підходящі умови, ти відобразиш райдугу на світлодіодній матриці дисплею Sense HAT.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
-In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
+В емуляторі Trinket ти можеш рухати повзунки для зміни температури та вологості, вони виглядають так:
 
 ![screenshot](images/rainbow-sliders.png)
 
-You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
+Ти отримаєш райдугу, коли температура перевищує 20 градусів Цельсія, а вологість перевищує 80 процентів. Спробуй поекспериментувати, щоб віднайти погодні умови для ясної сонячної погоди (жовтий) та снігу (білий).
 
-### Additional information for club leaders
+### Додаткова інформація для керівників гуртка
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Нотатки керівника гуртка
 
-## Introduction:
+## Вступ:
 
-In this project, children will learn how to use the Sense HAT sensors to detect the weather, and display a rainbow using the LED matrix when it's warm and humid.
+В цьому проєкті діти навчаться використовувати датчики Sense HAT для визначення погоди та відображати райдугу на світлодіодній матриці, коли тепло та волого.
 
-## Online Resources
+## Онлайн ресурси
 
-**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**Цей проєкт використовує Python 3.** Ми рекомендуємо використовувати [Trinket](https://trinket.io/), що дозволяє писати код Python в браузері. Цей проєкт містить наступні ресурси Trinket:
 
-* ['Rainbow Predictor' Starter Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
+* [Стартовий проєкт Trinket "Прогноз веселки" — jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
 
-There is also a trinket containing the completed project:
+Також існує завершений проєкт Trinket:
 
-* [‘Rainbow Predictor’ Finished -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
+* [Завершений "Прогноз веселки" — trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
 
-## Offline Resources
+## Офлайн ресурси
 
-This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Цей проєкт також можна [виконати офлайн](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) на комп’ютері Raspberry Pi з розширенням Sense HAT. Ви можете отримати доступ до ресурсів проєкту, натиснувши на посилання "Матеріали проєкту". Це посилання містить розділ "Ресурси проєкту", який включає в себе ресурси, необхідні дітям для реалізації цього проєкту в режимі офлайн. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 * rainbow/rainbow.py
 
