@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## Prevendo um arco-íris
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon.) If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+Os arco-íris acontecem quando o sol brilha através das gotas de água em um determinado ângulo (geralmente à tarde). Se estiver quente e a umidade estiver alta, vale a pena verificar se há um arco-íris.
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ Agora vamos fazer com que o arco-íris apareça apenas quando as condições estiverem corretas. Altere seu código para que fique assim:
     
-    ![screenshot](images/rainbow-check.png)
+    ![captura de tela](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    Você pode não ter certeza de que existe um arco-íris quando essas condições são atendidas, mas vale a pena dar uma olhada.
 
-+ Try changing the values on the slider until you see the rainbow.
++ Tente alterar os valores nos controles deslizantes até você ver o arco-íris.
     
-    ![screenshot](images/rainbow-trigger.png)
+    ![captura de tela](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    Lembre-se de que os valores indicados não serão exatamente iguais aos mostrados nos controles deslizantes.
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ Um *limiar* é um número que indica uma mudança importante. 20ºC e 80% de umidade são os limiares para o detector de arco-íris.
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    Tente alterar os limiares e então mova os controles deslizantes para acionar um arco-íris.
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    Se você estiver trabalhando com um Sense HAT físico, poderá testar seu código configurando os limiares para valores baixos.
