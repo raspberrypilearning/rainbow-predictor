@@ -37,30 +37,30 @@ Trinketエミュレータでは、以下のようにスライダーを動かし�
 
 ## オフライン・リソース
 
-このプロジェクトはSense HATをつけたRaspberry Piを使って[オフラインでも完了](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/)できます。 「プロジェクト資料」のリンクをクリックすると、このプロジェクトのリソースにアクセスできます。 This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+このプロジェクトはSense HATをつけたRaspberry Piを使って[オフラインでも完了](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/)できます。 「プロジェクト資料」のリンクをクリックすると、このプロジェクトのリソースにアクセスできます。 このリンクには「プロジェクト資料」のセクションがあり、子どもたちがこのプロジェクトをオフラインで完了するのに必要な資料が含まれています。 子どもたちがこれらの資料のコピーにアクセスできるか確認してください。 このセクションには以下のファイルを含みます：
 
 * rainbow/rainbow.py
 
-You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
+完成版プログラムは「ボランティア資料」からも入手可能で、以下が含まれています：
 
 * rainbow-finished/rainbow.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+（上記の全リソースはプロジェクト用およびボランティア用に`.zip` ファイルとしてダウンロードできます。）
 
-## Learning Objectives
+## 学習目標
 
-* Physical computing - sensors;
-* Boolean AND; 
-* RGB Colours;
-* Sense HAT display;
+* フィジカル・コンピューティング - センサー
+* 論理積 
+* RGBカラー
+* Sense HATディスプレイ
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+このプロジェクトは [Raspberry Piデジタル・メイキング・カリキュラム](http://rpf.io/curriculum)の中から、以下の内容をあつかいます：
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [プログラミング構造を組み合わせて問題を解決する。](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## チャレンジ
 
-* More Weather - display different images under different weather conditions. 
+* 天気の追加 - さまざまな気象条件でさまざまな画像を表示 
 
 \--- /collapse \---
 
@@ -68,16 +68,16 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## title: Project materials
 
-## Project resources
+## プロジェクト資料
 
-* [.zip file containing all project resources](resources/rainbow-project-resources.zip)
-* [Starter project](http://jumpto.cc/rainbow-go)
-* [Offline starter Python file](resources/rainbow-rainbow.py)
+* [全プロジェクト・リソースの入った.zipファイル](resources/rainbow-project-resources.zip)
+* [基本のプロジェクト](http://jumpto.cc/rainbow-go)
+* [オフラインの基本Pythonファイル](resources/rainbow-rainbow.py)
 
-## Club leader resources
+## クラブ・リーダー向け資料
 
-* [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
+* [全プロジェクトの完成版リソースの入った.zipファイル](resources/rainbow-volunteer-resources.zip)
+* [オンラインの完成版Trinketプロジェクト](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
