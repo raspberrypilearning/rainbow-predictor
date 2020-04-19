@@ -1,33 +1,33 @@
-## Drawing a rainbow
+## 虹（にじ）をえがく
 
-First let's draw a rainbow using the LED Matrix on the Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
+まず、Sense HATのLEDマトリックスを使って虹（にじ）をえがきます。 色は赤、橙（だいだい）、黄、緑、青、藍（あい）、紫（むらさき）です。
 
-To set the colour of an individual LED we need to say how much red, green and blue it should have from 0 to 255.
+それぞれのLEDの色を設定するには、赤、緑、青をどれくらいにするか、0から255までの値で指定する必要があります。
 
-+ Open the Rainbow Predictor Starter Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
++ 「虹（にじ）の予測」の基本Trinkerを開きます：<a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>
     
-    **The code to set up the Sense HAT has been included for you.**
+    **Sense HATを設定するためのコードが含まれています。**
 
-+ Add the highlighted code to set up a variable for the colour Red and then turn all the pixels red using `sense.clear(R)`:
++ 強調表示されたコードを追加して赤色の変数を設定し、`sense.clear(R)`を使ってすべてのピクセルを赤色にします。
     
-    ![screenshot](images/rainbow-red.png)
+    ![スクリーンショット](images/rainbow-red.png)
     
-    Make sure you use a capital letter `R`.
+    大文字の`R`を使ってください。
 
-+ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
++ 次は橙（だいだい）色です。 橙（だいだい）色は緑色をまぜた赤色です。 好みの橙（だいだい）色になるまで数値を調整します。 今度は`sense.clear(O)`を使って新しい色を試します。かっこの中は大文字の`O`（オー）を使ってください。
     
-    ![screenshot](images/rainbow-orange.png)
+    ![スクリーンショット](images/rainbow-orange.png)
 
-+ Now add variables `Y`, `G`, `B`, `I`, `V` so that you have the seven colours of the rainbow. You can look up RGB colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
++ ここで虹（にじ）の7つの色になるように変数`Y`、`G`、`B`、`I`，`V`を追加します。 RGBカラーは<a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>で調べられます。
     
-    You can test your colours using `sense.clear()`.
+    `sense.clear()`を使って色を試せます。
     
-    ![screenshot](images/rainbow-colours.png)
+    ![スクリーンショット](images/rainbow-colours.png)
 
-+ Add a variable `X` for setting pixels to off (no red, green or blue):
++ ピクセルをオフ（赤、緑、青がすべて0）にするための変数`X`を追加します。
     
-    ![screenshot](images/rainbow-off.png)
+    ![スクリーンショット](images/rainbow-off.png)
 
-+ Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
++ いよいよ虹（にじ）をえがくときが来ました。 それぞれのピクセルの色を含むリストを設定し、その色のリストを`set_pixels`に渡して呼び出す必要があります。 キーボード入力を減らすために、プロジェクトにある`snippets.py`から虹（にじ）をコピーできます。
     
-    ![screenshot](images/rainbow-rainbow.png)
+    ![スクリーンショット](images/rainbow-rainbow.png)
