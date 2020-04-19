@@ -6,10 +6,10 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Rainbow Predictor
-description: Display a rainbow when the conditions are met.
+title: 虹（にじ）の予測
+description: 条件が満たされたら虹（にじ）を表示する
 original_url: https://codeclubprojects.org/en-GB/sense-hat/rainbow-predictor
-interests: weather
+interests: 天気
 technologies: sense-hat
 site_areas: projects
 hardware: sense-hat
@@ -18,12 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 'Introduction: '
+    title: 'はじめに： '
   - 
-    title: Drawing a rainbow
+    title: 虹（にじ）をえがく
   - 
-    title: Reading the sensor data
+    title: センサーデータの読みこみ
   - 
-    title: Predicting a rainbow
+    title: 虹（にじ）の予測
   - 
-    title: 'Challenge: More Weather'
+    title: 'チャレンジ：天気の追加'
