@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: More Weather
+## チャレンジ：天気の追加
 
-Can you display a sun image when the temperature is above 20 and the humidity is below 80%.
+気温が20度より高くて、湿度が80%より低いときに太陽の画像を表示してみましょう。
 
-Tip: Use `elif` to check for other kinds of weather. For each kind of weather you'll need to include a condition to check for a kind of weather and then code to set the display on the Sense HAT.
+ヒント：他の天気を確認するには`elif`を使います。 追加するそれぞれの天気について、天気を確認する条件とSense HAT上に表示するコードを追加する必要があります。
 
-![screenshot](images/rainbow-elif.png)
+![スクリーンショット](images/rainbow-elif.png)
 
-Tip: You can create a simple sun by setting all the pixels to yellow with `clear()`. Or you can try creating a pixel image like you did with the rainbow.
+ヒント：`clear()`ですべてのピクセルを黄色に設定することでかんたんに太陽を作ることができます。 または、虹（にじ）でやったようにピクセル画像を作ってみることもできます。
 
-![screenshot](images/rainbow-sun.png)
+![スクリーンショット](images/rainbow-sun.png)
 
-How about a snow image if the humidity is above 80% and the temperature is below zero.
+湿度が80%より高く、気温が0度より低いときに雪の画像を表示してみましょう。
 
-Tip: Set red, green and blue to the maximum of 255 to create white.
+ヒント：白色にするには、赤色、緑色、青色を最大値255にします。
 
-![screenshot](images/rainbow-snow.png)
+![スクリーンショット](images/rainbow-snow.png)
 
 \--- /challenge \---
