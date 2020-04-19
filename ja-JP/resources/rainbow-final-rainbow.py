@@ -6,14 +6,14 @@ import time
 sense = SenseHat()
 sense.clear()
 
-R = [255, 0, 0]  # red
-O = [255, 165, 0]  # orange
-Y = [255, 255, 0] # yellow
-G = [0, 255, 0] # green
-B = [0, 55, 155] # blue
-I = [25, 0, 255] # indigo
-V = [255, 0, 255] # violet
-X = [0, 0, 0]  # off
+R = [255, 0, 0]  # 赤色
+O = [255, 165, 0]  # 橙（だいだい）色
+Y = [255, 255, 0] # 黄色
+G = [0, 255, 0] # 緑色
+B = [0, 55, 155] # 青色
+I = [25, 0, 255] # 藍（あい）色
+V = [255, 0, 255] # 紫（むらさき）色
+X = [0, 0, 0]  # オフ
 
 
 rainbow = [
@@ -34,9 +34,9 @@ while True:
   if sense.humidity > 80 and sense.temp > 20:
     sense.set_pixels(rainbow)
   elif sense.humidity > 80 and sense.temp < 0 :
-    sense.clear([255, 255, 255]) # white snow
+    sense.clear([255、255、255]) #白い雪
   elif sense.humidity <= 80 and sense.temp > 20 :
-    sense.clear([255, 255, 0]) # yellow sun
+    sense.clear([255、255、0]) #黄色い太陽
   else:
     sense.clear()
     
