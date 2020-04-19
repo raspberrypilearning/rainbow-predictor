@@ -66,7 +66,7 @@ Trinketエミュレータでは、以下のようにスライダーを動かし�
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: プロジェクト資料
 
 ## プロジェクト資料
 
