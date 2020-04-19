@@ -1,43 +1,43 @@
-## Introduction:
+## はじめに
 
-In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
+このプロジェクトでは、いつ虹（にじ）に出会えるかを予測するためにSense HAT上にある温度(おんど)センサーと湿度(しつど)センサーを使います。 適切な条件がそろったときにSense HAT LED Matrixに虹（にじ）を表示します。
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
-In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
+Trinketエミュレータでは、以下のようにスライダーを動かして温度と湿度を変更できます。
 
-![screenshot](images/rainbow-sliders.png)
+![スクリーンショット](images/rainbow-sliders.png)
 
-You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
+気温が20度を超えて、かつ、湿度が80パーセントを超えると虹（にじ）が出ます。 晴れ（黄色）や雪（白）になる気象条件を見つける実験をしてみてください。
 
-### Additional information for club leaders
+### クラブリーダーのための追加情報
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print)を使用してください。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: クラブリーダー用メモ
 
-## Introduction:
+## はじめに
 
-In this project, children will learn how to use the Sense HAT sensors to detect the weather, and display a rainbow using the LED matrix when it's warm and humid.
+このプロジェクトでは、子どもたちがSense HATセンサーの使って天気を検知し、あたたかくて湿度が高いときにLEDマトリックスを使って虹（にじ）を表示する方法を学びます。
 
-## Online Resources
+## オンライン・リソース
 
-**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**このプロジェクトではPython 3を使います。**オンライン上でPythonを書ける[Trinket](https://trinket.io/)を使うことをおすすめします。 このプロジェクトでは、以下のTrinketが用意されています：
 
-* ['Rainbow Predictor' Starter Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
+* [「虹（にじ）の予測」基本Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
 
-There is also a trinket containing the completed project:
+また、完成版プログラムが入力済みのtrinketも用意されています。
 
-* [‘Rainbow Predictor’ Finished -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
+* [「虹（にじ）の予測」完成 -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
 
-## Offline Resources
+## オフライン・リソース
 
-This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+このプロジェクトはSense HATをつけたRaspberry Piを使って[オフラインでも完了](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/)できます。 「プロジェクト資料」のリンクをクリックすると、このプロジェクトのリソースにアクセスできます。 This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 * rainbow/rainbow.py
 
