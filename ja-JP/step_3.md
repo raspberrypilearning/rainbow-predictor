@@ -10,6 +10,6 @@ Sense HATにはRaspberry Pi上で実環境データを提供するさまざま�
 
 + 湿度のスライダーを違う値に動かして、プログラムを試してみましょう。
     
-    ![screenshot](images/rainbow-slider.png)
+    ![スクリーンショット](images/rainbow-slider.png)
     
     湿度センサーから返される値は、スライダーの値と正確に一致しないことに注意してください。 なぜなら、センサーが完全に正確ではないからです。
