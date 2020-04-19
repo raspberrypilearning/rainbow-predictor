@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## 虹（にじ）の予測
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon.) If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+虹（にじ）は、太陽が水滴をいい角度から照らすと出ます（たいていは午後）。あたたかくて湿度が高いときに虹（にじ）が出るかどうか確かめることをおすすめします。
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ ここで、条件が正しいときに虹（にじ）が出るようにしましょう。 コードを以下のように変更します：
     
-    ![screenshot](images/rainbow-check.png)
+    ![スクリーンショット](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    これらの条件が満たされたときに虹が出るかどうかはわかりませんが、一見の価値はあります。
 
-+ Try changing the values on the slider until you see the rainbow.
++ 虹（にじ）が見えるまでスライダーの値を変えてみましょう。
     
-    ![screenshot](images/rainbow-trigger.png)
+    ![スクリーンショット](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    値がスライダーに表示される値と正確に同じではないことに注意しましょう。
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ *しきい値*というのは重要な変化点を指し示す値です。 虹（にじ）が出るしきい値は、温度が20度、湿度が80%です。
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    しきい値を変更して、虹（にじ）が出るようスライダーを動かしてみましょう。
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    実際のSense HATを使っているときは、しきい値を低い値に設定してコードを試しましょう。
