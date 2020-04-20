@@ -70,7 +70,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Projektressourcen
 
-* [.zip file containing all project resources](resources/rainbow-project-resources.zip)
+* [.zip-Datei mit allen Projektressourcen](resources/rainbow-project-resources.zip)
 * [Basisprojekt](http://jumpto.cc/rainbow-go)
 * [Offline Basis Python-Datei](resources/rainbow-rainbow.py)
 
