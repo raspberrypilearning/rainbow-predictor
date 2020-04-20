@@ -1,13 +1,13 @@
-## Introduction:
+## Einleitung:
 
-In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
+In diesem Projekt wirst du die Temperatur- und Feuchtigkeitssensoren des Sense Hat verwenden, um vorherzusagen, wann eine gute Chance besteht, einen Regenbogen zu entdecken. Wenn die richtigen Bedingungen erkannt wurden, wird auf der Sense HAT LED Matrix ein Regenbogen angezeigt.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
-In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
+Im Trinket-Emulator kannst du die Schieberegler bewegen, um Temperatur und Luftfeuchtigkeit zu ändern. Sie sehen folgendermaßen aus:
 
 ![screenshot](images/rainbow-sliders.png)
 
