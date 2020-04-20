@@ -1,4 +1,4 @@
-\--- desafío \---
+\--- challenge \---
 
 ## Reto: Más climas
 
