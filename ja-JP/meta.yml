@@ -1,0 +1,24 @@
+---
+hero_image: images/rainbow-predictor.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: 虹（にじ）の予測
+description: 条件が満たされたら虹（にじ）を表示する
+original_url: https://codeclubprojects.org/en-GB/sense-hat/rainbow-predictor
+interests: weather
+technologies: sense-hat
+site_areas: projects
+hardware: sense-hat
+software: ''
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: 'はじめに'
+  - title: 虹（にじ）をえがく
+  - title: センサーデータの読みこみ
+  - title: 虹（にじ）の予測
+  - title: 'チャレンジ：天気の追加'
