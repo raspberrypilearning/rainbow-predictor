@@ -16,6 +16,6 @@ Regenbogen entstehen, wenn die Sonne im richtigen Winkel (normalerweise nachmitt
 
 + Ein *Schwellenwert* ist eine Zahl, die eine wichtige Änderung anzeigt. 20 Grad Celsius und 80% Luftfeuchtigkeit sind Schwellenwerte für den Regenbogen-Detektor.
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    Versuche die Schwellwerte zu ändern und dann die Schieberegler zu verschieben, um einen Regenbogen auszulösen.
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    Wenn du mit einem echten Sense-HAT arbeitest, kannst du deinen Code testen, indem du die Schwellenwerte auf niedrige Werte setzt.
