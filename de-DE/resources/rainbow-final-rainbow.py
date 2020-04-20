@@ -38,5 +38,5 @@ while True:
   elif sense.humidity <= 80 and sense.temp > 20 :
     sense.clear([255, 255, 0]) # yellow sun
   else:
-    sense.clear()
+    Sensor.clear()
     
