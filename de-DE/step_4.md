@@ -1,20 +1,20 @@
-## Predicting a rainbow
+## Vorhersage eines Regenbogens
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon.) If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+Regenbogen entstehen, wenn die Sonne im richtigen Winkel (normalerweise nachmittags) durch Wassertropfen scheint. Wenn es warm ist und die Luftfeuchtigkeit hoch ist, lohnt es sich zu prüfen, ob es einen Regenbogen gibt.
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ Lasse nun nur den Regenbogen anzeigen, wenn die Bedingungen stimmen. Ändere deinen Code, damit er so aussieht:
     
-    ![screenshot](images/rainbow-check.png)
+    ![Screenshot](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    Du kannst nicht sicher sein, dass es einen Regenbogen gibt, wenn diese Bedingungen erfüllt sind, aber es lohnt sich einen Blick darauf zu werfen.
 
-+ Try changing the values on the slider until you see the rainbow.
++ Versuche, die Werte auf dem Schieberegler zu ändern, bis du den Regenbogen siehst.
     
     ![screenshot](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    Beachte, dass die gemeldeten Werte nicht genau die gleichen sein werden wie die auf den Schiebereglern.
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ Ein *Schwellenwert* ist eine Zahl, die eine wichtige Änderung anzeigt. 20 Grad Celsius und 80% Luftfeuchtigkeit sind Schwellenwerte für den Regenbogen-Detektor.
     
     Try changing the thresholds and then moving the sliders to trigger a rainbow.
     
