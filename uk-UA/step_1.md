@@ -15,7 +15,7 @@
 
 ### Додаткова інформація для керівників гуртка
 
-Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/uk-UA/projects/rainbow-predictor/print).
 
 --- collapse ---
 ---

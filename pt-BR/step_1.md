@@ -27,7 +27,7 @@ Neste projeto, as crianças aprenderão a usar os sensores do Sense HAT para det
 
 ## Recursos Online
 
-**Este projeto usa o Python 3. **Recomendamos usar o [Trinket](https://trinket.io/) para programar Python online. Este projeto contém os seguintes Trinkets:
+**Este projeto usa o Python 3.** Recomendamos usar o [Trinket](https://trinket.io/) para programar Python online. Este projeto contém os seguintes Trinkets:
 
 * [Trinket 'Previsor de Arco-íris' versão inicial - trinket.io/python/54270eee8d](https://trinket.io/python/54270eee8d)
 
