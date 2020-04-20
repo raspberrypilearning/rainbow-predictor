@@ -76,8 +76,8 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Ressourcen für Clubleiter
 
-* [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
+* [.zip-Datei mit allen fertig gestellten Projektressourcen](resources/rainbow-volunteer-resources.zip)
+* [Vollständiges Trinket-Projekt (online)](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
