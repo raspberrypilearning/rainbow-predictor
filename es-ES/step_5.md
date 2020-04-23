@@ -2,7 +2,7 @@
 
 ## Reto: Más climas
 
-¿Puedes mostrar una imagen del sol cuando la temperatura está por encima de 20 y la humedad está por debajo del 80%?
+Can you display a sun image when the temperature is above 20 and the humidity is below 80%?
 
 Consejo: Usa `elif` para comprobar otros tipos de clima. Por cada tipo de clima necesitarás incluir una condición para comprobar si se está dando y luego tendrás programar la visualización en el Sense HAT.
 
@@ -12,7 +12,7 @@ Consejo: Puedes crear un sol sencillo poniendo todos los píxeles en amarillo co
 
 ![captura de pantalla](images/rainbow-sun.png)
 
-¿Qué tal una imagen de nieve si la humedad es superior al 80% y la temperatura es inferior a cero?
+How about a snow image if the humidity is above 80% and the temperature is below zero?
 
 Consejo: Establece rojo, verde y azul a 255, el máximo, para crear blanco.
 
