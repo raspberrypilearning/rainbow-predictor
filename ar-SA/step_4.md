@@ -1,6 +1,6 @@
 ## توقع قوس قزح
 
-تظهر أقواس قزح عندما تشرق الشمس من خلال رذاذ الماء في الزاوية الصحيحة (عادة في فترة ما بعد الظهر). إذا كان الجو دافئ والرطوبة عالية، فمن الجدير بنا الانتباه حولنا لمعرفة إذا ما كان هناك قوس قزح.
+Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
 
 + دعنا الآن نظهر قوس قزح فقط إذا كانت الشروط مناسبة. غيير الكود الخاص بك بحيث يبدو مثل هذا:
     
