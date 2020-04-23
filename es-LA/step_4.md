@@ -1,6 +1,6 @@
 ## Prediciendo un arcoíris
 
-Los arcoíris ocurren cuando el sol brilla a través de las gotas de agua en el ángulo correcto (generalmente por la tarde). Si hace calor y la humedad es alta, entonces vale la pena comprobar si hay las condiciones para un arcoíris.
+Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
 
 + Ahora solamente mostremos el arcoíris si las condiciones son correctas. Cambia tu código para que se vea así:
     
