@@ -2,7 +2,7 @@
 
 ## Herausforderung: Mehr Wetter
 
-Kannst du ein Sonnenbild anzeigen, wenn die Temperatur über 20 und die Luftfeuchtigkeit unter 80 % liegt.
+Can you display a sun image when the temperature is above 20 and the humidity is below 80%?
 
 Tipp: Benutze `elif` um andere Wetterarten zu überprüfen. Für jede Art von Wetter musst du eine Bedingung einfügen, um auf eine Wetterart zu überprüfen und dann Code für die Anzeige auf dem Sense HAT erstellen.
 
@@ -12,7 +12,7 @@ Tipp: Du kannst mit `clear()` eine einfache Sonne erzeugen, indem du alle Pixel 
 
 ![Screenshot](images/rainbow-sun.png)
 
-Wie wäre es mit einem Schneebild, wenn die Luftfeuchtigkeit über 80% und die Temperatur unter Null liegt.
+How about a snow image if the humidity is above 80% and the temperature is below zero?
 
 Tipp: Setze Rot, Grün und Blau auf das Maximum von 255, um Weiß zu erzeugen.
 
