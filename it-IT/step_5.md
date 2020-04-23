@@ -2,7 +2,7 @@
 
 ## Sfida: più condizioni meteo
 
-Riesci a mostrare un'immagine del sole quando la temperatura è superiore a 20 gradi C e l'umidità è inferiore all'80 per cento?
+Can you display a sun image when the temperature is above 20 and the humidity is below 80%?
 
 Suggerimento: usa `elif` per controllare la presenza di altre condizioni meteo. Per ogni condizione meteo dovrei aggiungere una condizione specifica e il relativo codice per impostare lo schermo sul Sense HAT.
 
@@ -12,7 +12,7 @@ Suggerimento: Puoi creare un sole semplice impostando tutti i pixel in giallo co
 
 ![screenshot](images/rainbow-sun.png)
 
-Che ne dici di un'immagine di neve se l'umidità è superiore all'80% e la temperatura è inferiore a zero?
+How about a snow image if the humidity is above 80% and the temperature is below zero?
 
 Suggerimento: Imposta il rosso, il verde e il blu al valore massimo di 255 per creare il bianco.
 
