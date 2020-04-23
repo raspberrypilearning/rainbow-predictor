@@ -1,6 +1,6 @@
 ## Prevedere un arcobaleno
 
-Gli arcobaleni si verificano quando il sole splende attraverso le goccioline d'acqua con la giusta inclinazione (di solito nel pomeriggio). Se fa caldo e l'umidità è alta vale la pena verificare se c'è un arcobaleno.
+Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
 
 + Mostriamo l'arcobaleno solo se le condizioni sono corrette. Modifica il tuo codice come segue:
     
