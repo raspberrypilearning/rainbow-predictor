@@ -2,7 +2,7 @@
 
 ## Repte: Més Temps
 
-Pots mostrar la imatge d'un sol quan la temperatura sigui superior a 20 i la humitat per sota del 80%.
+Can you display a sun image when the temperature is above 20 and the humidity is below 80%?
 
 Consell: Utilitza `elif` per comprovar altres tipus de temps. Per a cada tipus de temps, hauràs d’incloure una condició per comprovar quin tipus és i el codi necessari per mostrar-lo a la pantalla de la placa Sense HAT.
 
@@ -12,7 +12,7 @@ Consell: Pots crear un sol senzill fixant tots els píxels a groc amb `clear()`.
 
 ![captura de pantalla](images/rainbow-sun.png)
 
-I què tal una imatge de neu si la humitat està per sobre del 80% i la temperatura és inferior a zero.
+How about a snow image if the humidity is above 80% and the temperature is below zero?
 
 Consell: Configura vermell, verd i blau al valor màxim (=255) per crear el blanc.
 
