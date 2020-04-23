@@ -1,6 +1,6 @@
 ## Prezicerea unui curcubeu
 
-Curcubeiele au loc atunci când soarele strălucește prin picături de apă în unghiul drept (de obicei, după-amiaza). Dacă e cald şi umiditatea e mare, atunci merită să verifici dacă există un curcubeu.
+Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
 
 + Acum, hai să arătăm curcubeul doar dacă condițiile sunt potrivite. Schimbă-ți codul pentru a arăta astfel:
     
