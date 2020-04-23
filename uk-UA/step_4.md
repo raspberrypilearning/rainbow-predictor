@@ -1,6 +1,6 @@
 ## Прогнозування веселки
 
-Веселки з’являються, коли сонце світить крізь малесенькі крапельки води під правильним кутом (зазвичай після обіду). Якщо навколо тепло та волого, то варто перевірити, чи немає десь веселки.
+Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
 
 + Тепер давай будемо показувати веселку, тільки коли умови правильні. Зміни свій код таким чином:
     
