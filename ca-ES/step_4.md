@@ -1,6 +1,6 @@
 ## Predient un arc de Sant Martí
 
-L'arc de Sant Martí es produeix quan la llum del sol passa a través de gotes d'aigua a l'angle correcte (normalment a la tarda.) Si fa calor i la humitat és alta, val la pena comprovar si hi ha un arc de Sant Martí.
+Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
 
 + Ara només mostrem l’arc de Sant Martí si les condicions són correctes. Canvia el codi perquè sembli així:
     
