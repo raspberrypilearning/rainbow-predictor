@@ -1,6 +1,6 @@
 ## Vorhersage eines Regenbogens
 
-Regenbogen entstehen, wenn die Sonne im richtigen Winkel (normalerweise nachmittags) durch Wassertropfen scheint. Wenn es warm ist und die Luftfeuchtigkeit hoch ist, lohnt es sich zu prüfen, ob es einen Regenbogen gibt.
+Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
 
 + Lasse nun nur den Regenbogen anzeigen, wenn die Bedingungen stimmen. Ändere deinen Code, damit er so aussieht:
     
