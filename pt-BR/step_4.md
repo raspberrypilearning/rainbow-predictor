@@ -1,6 +1,6 @@
 ## Prevendo um arco-íris
 
-Os arco-íris acontecem quando o sol brilha através das gotas de água em um determinado ângulo (geralmente à tarde). Se estiver quente e a umidade estiver alta, vale a pena verificar se há um arco-íris.
+Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
 
 + Agora vamos fazer com que o arco-íris apareça apenas quando as condições estiverem corretas. Altere seu código para que fique assim:
     
