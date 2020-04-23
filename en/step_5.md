@@ -2,7 +2,7 @@
 
 ## Challenge: More Weather
 
-Can you display a sun image when the temperature is above 20 and the humidity is below 80%. 
+Can you display a sun image when the temperature is above 20 and the humidity is below 80%? 
 
 Tip: Use `elif` to check for other kinds of weather. For each kind of weather you'll need to include a condition to check for a kind of weather and then code to set the display on the Sense HAT.
 
@@ -12,7 +12,7 @@ Tip: You can create a simple sun by setting all the pixels to yellow with `clear
 
 ![screenshot](images/rainbow-sun.png)
 
-How about a snow image if the humidity is above 80% and the temperature is below zero.
+How about a snow image if the humidity is above 80% and the temperature is below zero?
 
 Tip: Set red, green and blue to the maximum of 255 to create white. 
 
