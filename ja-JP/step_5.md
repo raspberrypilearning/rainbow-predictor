@@ -2,7 +2,7 @@
 
 ## チャレンジ：天気の追加
 
-気温が20度より高くて、湿度が80%より低いときに太陽の画像を表示してみましょう。
+Can you display a sun image when the temperature is above 20 and the humidity is below 80%?
 
 ヒント：他の天気を確認するには`elif`を使います。 追加するそれぞれの天気について、天気を確認する条件とSense HAT上に表示するコードを追加する必要があります。
 
@@ -12,7 +12,7 @@
 
 ![スクリーンショット](images/rainbow-sun.png)
 
-湿度が80%より高く、気温が0度より低いときに雪の画像を表示してみましょう。
+How about a snow image if the humidity is above 80% and the temperature is below zero?
 
 ヒント：白色にするには、赤色、緑色、青色を最大値255にします。
 
