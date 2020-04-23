@@ -1,6 +1,6 @@
 ## इंद्रधनुष का पूर्वानुमान लगाना
 
-इंद्रधनुष तब बनता है जब सूरज समकोण पर पानी की बूंदों में से होकर चमकता है (आमतौर पर दोपहर में)| यदि मौसम गर्म हो और नमी अधिक हो तो आप देख सकते हैं कि क्या इंद्रधनुष बना हुआ है |
+Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
 
 + अब इंद्रधनुष को केवल तभी दिखाएँ जब स्थिति सही हो। अपना कोड इस तरह दिखने के लिए बदलें:
     
