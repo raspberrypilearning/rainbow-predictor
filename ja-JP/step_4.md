@@ -1,6 +1,6 @@
 ## 虹（にじ）の予測
 
-虹（にじ）は、太陽が水滴をいい角度から照らすと出ます（たいていは午後）。あたたかくて湿度が高いときに虹（にじ）が出るかどうか確かめることをおすすめします。
+Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
 
 + ここで、条件が正しいときに虹（にじ）が出るようにしましょう。 コードを以下のように変更します：
     
