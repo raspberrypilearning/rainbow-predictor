@@ -70,14 +70,12 @@
 
 ## Ресурси проєкту
 
-* [.zip-файл, що містить всі ресурси проєкту](resources/rainbow-project-resources.zip)
-* [Початковий проєкт](http://jumpto.cc/rainbow-go)
-* [Початковий Python-файл для роботи офлайн](resources/rainbow-rainbow.py)
+* [Starter project](http://jumpto.cc/rainbow-go)
+* [Offline starter Python file](resources/rainbow-rainbow.py)
 
 ## Ресурси керівника клубу
 
-* [.zip-файл, що містить всі завершені проєктні ресурси](resources/rainbow-volunteer-resources.zip)
-* [Завершений онлайн проєкт Trinket](https://trinket.io/python/eaea4cb76c)
+* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
