@@ -70,14 +70,12 @@ Acest proiect acoperă elemente din următoarele domenii din [Raspberry Pi Digit
 
 ## Resursele proiectului
 
-* [fișier .zip care conține toate resursele proiectului](resources/rainbow-project-resources.zip)
-* [Proiect de început](http://jumpto.cc/rainbow-go)
-* [Fișier offline Python, gol](resources/rainbow-rainbow.py)
+* [Starter project](http://jumpto.cc/rainbow-go)
+* [Offline starter Python file](resources/rainbow-rainbow.py)
 
 ## Resursele liderului de club
 
-* [fișier .zip care conține toate resursele proiectului, completate](resources/rainbow-volunteer-resources.zip)
-* [Proiect Trinket online, completat](https://trinket.io/python/eaea4cb76c)
+* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
