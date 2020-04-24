@@ -70,14 +70,12 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Digital M
 
 ## Risorse del progetto
 
-* [File .zip con tutte le risorse del progetto](resources/rainbow-project-resources.zip)
-* [Progetto iniziale](http://jumpto.cc/rainbow-go)
-* [File Python iniziale offline](resources/rainbow-rainbow.py)
+* [Starter project](http://jumpto.cc/rainbow-go)
+* [Offline starter Python file](resources/rainbow-rainbow.py)
 
 ## Risorse per gli organizzatori del club
 
-* [File .zip con tutte le risorse del progetto completate](resources/rainbow-volunteer-resources.zip)
-* [Trinket online del progetto completo](https://trinket.io/python/eaea4cb76c)
+* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
