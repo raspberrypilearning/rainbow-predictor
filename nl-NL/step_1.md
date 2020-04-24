@@ -70,14 +70,12 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## Projectbronnen
 
-* [.zip-bestand met alle projectbronnen](resources/rainbow-project-resources.zip)
-* [Startproject](http://jumpto.cc/rainbow-go)
-* [Offline start Python-bestand](resources/rainbow-rainbow.py)
+* [Starter project](http://jumpto.cc/rainbow-go)
+* [Offline starter Python file](resources/rainbow-rainbow.py)
 
 ## Clubleider bronnen
 
-* [.zip-bestand met alle voltooide projectbronnen](resources/rainbow-volunteer-resources.zip)
-* [Online voltooid Trinket-project](https://trinket.io/python/eaea4cb76c)
+* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
