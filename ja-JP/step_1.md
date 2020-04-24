@@ -70,14 +70,12 @@ Trinketエミュレータでは、以下のようにスライダーを動かし�
 
 ## プロジェクト資料
 
-* [全プロジェクト・リソースの入った.zipファイル](resources/rainbow-project-resources.zip)
-* [基本のプロジェクト](http://jumpto.cc/rainbow-go)
-* [オフラインの基本Pythonファイル](resources/rainbow-rainbow.py)
+* [Starter project](http://jumpto.cc/rainbow-go)
+* [Offline starter Python file](resources/rainbow-rainbow.py)
 
 ## クラブ・リーダー向け資料
 
-* [全プロジェクトの完成版リソースの入った.zipファイル](resources/rainbow-volunteer-resources.zip)
-* [オンラインの完成版Trinketプロジェクト](https://trinket.io/python/eaea4cb76c)
+* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
