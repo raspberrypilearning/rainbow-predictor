@@ -70,14 +70,12 @@
 
 ## Πόροι έργου
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/rainbow-project-resources.zip)
-* [Αρχικό έργο](http://jumpto.cc/rainbow-go)
-* [Offline αρχικό αρχείο Python](resources/rainbow-rainbow.py)
+* [Starter project](http://jumpto.cc/rainbow-go)
+* [Offline starter Python file](resources/rainbow-rainbow.py)
 
 ## Πόροι συντονιστή ομάδας
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/rainbow-volunteer-resources.zip)
-* [Online ολοκληρωμένο έργο στο Τrinket](https://trinket.io/python/eaea4cb76c)
+* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
