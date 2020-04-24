@@ -70,14 +70,12 @@ Este proyecto trata elementos de los siguientes aspectos del [Currículo de crea
 
 ## Recursos del proyecto
 
-* [Archivo .zip que contiene todos los recursos del proyecto](resources/rainbow-project-resources.zip)
-* [Proyecto inicial](http://jumpto.cc/rainbow-go)
-* [Archivo de Python inicial sin conexión](resources/rainbow-rainbow.py)
+* [Starter project](http://jumpto.cc/rainbow-go)
+* [Offline starter Python file](resources/rainbow-rainbow.py)
 
 ## Recursos para los líderes del club
 
-* [Archivo .zip que contiene todos los recursos del proyecto terminado](resources/rainbow-volunteer-resources.zip)
-* [Proyecto Trinket completado en línea](https://trinket.io/python/eaea4cb76c)
+* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
