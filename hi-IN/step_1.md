@@ -70,14 +70,12 @@ Trinket एमुलेटर में आप तापमान और नम�
 
 ## प्रोजेक्ट संसाधन
 
-* [सभी प्रोजेक्ट संसाधनों वाली.zip फ़ाइल (file)](resources/rainbow-project-resources.zip)
-* [स्टार्टर प्रोजेक्ट (Starter project)](http://jumpto.cc/rainbow-go)
-* [ऑफ़लाइन स्टार्टर Python फ़ाइल](resources/rainbow-rainbow.py)
+* [Starter project](http://jumpto.cc/rainbow-go)
+* [Offline starter Python file](resources/rainbow-rainbow.py)
 
 ## क्लब लीडर संसाधन
 
-* [सभी प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](resources/rainbow-volunteer-resources.zip)
-* [ऑनलाइन पूर्ण Trinket प्रोजेक्ट](https://trinket.io/python/eaea4cb76c)
+* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
