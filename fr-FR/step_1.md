@@ -70,14 +70,12 @@ Ce projet couvre les éléments suivants du [Programme de Créativité Numériqu
 
 ## Ressources du projet
 
-* [Fichier .zip contenant toutes les ressources du projet](resources/rainbow-project-resources.zip)
-* [Projet de démarrage](http://jumpto.cc/rainbow-go)
-* [Fichier Python de démarrage hors-ligne](resources/rainbow-rainbow.py)
+* [Starter project](http://jumpto.cc/rainbow-go)
+* [Offline starter Python file](resources/rainbow-rainbow.py)
 
 ## Ressources pour le responsable de club
 
-* [Fichier .zip contenant toutes les ressources du projet terminé](resources/rainbow-volunteer-resources.zip)
-* [Trinket Python en ligne terminé](https://trinket.io/python/eaea4cb76c)
+* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
