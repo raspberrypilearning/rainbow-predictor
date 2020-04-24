@@ -70,14 +70,12 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Projektressourcen
 
-* [.zip-Datei mit allen Projektressourcen](resources/rainbow-project-resources.zip)
-* [Basisprojekt](http://jumpto.cc/rainbow-go)
-* [Offline Basis Python-Datei](resources/rainbow-rainbow.py)
+* [Starter project](http://jumpto.cc/rainbow-go)
+* [Offline starter Python file](resources/rainbow-rainbow.py)
 
 ## Ressourcen für Clubleiter
 
-* [.zip-Datei mit allen fertig gestellten Projektressourcen](resources/rainbow-volunteer-resources.zip)
-* [Vollständiges Trinket-Projekt (online)](https://trinket.io/python/eaea4cb76c)
+* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
