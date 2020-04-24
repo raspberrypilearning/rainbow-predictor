@@ -1,15 +1,15 @@
-## Ανάγνωση δεδομένων αισθητήρων
+## Die Sensordaten lesen
 
-Το Sense HAT διαθέτει μια γκάμα αισθητήρων που παρέχουν πραγματικά δεδομένα σε έναν υπολογιστή Raspberry Pi. Ο εξομοιωτής Sense HAT στο Trinket σου επιτρέπει να γράφεις και να δοκιμάζεις έργα για το Sense HAT στο πρόγραμμα περιήγησης ιστού.
+Das Sense HAT verfügt über eine Reihe von Sensoren, die reale Daten auf einem Raspberry Pi Computer zur Verfügung stellen. Mit dem Sense Hat Emulator in Trinket kannst du Projekte für das Sense Hat in deinem Webbrowser schreiben und testen.
 
-Ο αισθητήρας υγρασίας καταγράφει την ποσότητα υγρασίας στον αέρα. Η υγρασία είναι υψηλή όταν βρέχει.
+Der Feuchtigkeitssensor meldet die Feuchtigkeitsmenge in der Luft. Die Luftfeuchtigkeit ist hoch, wenn es regnet.
 
-+ Ας διαβάσουμε (από) τον αισθητήρα υγρασίας κι ας εμφανίσουμε το αποτέλεσμα. Πρόσθεσε τον επισημασμένο κώδικα στο κάτω μέρος του προγράμματός σου.
++ Lass uns diese vom Feuchtigkeitssensor auslesen lassen und das Ergebnis ausgeben. Füge den hervorgehobenen Code am Ende deines Skripts hinzu.
     
-    ![στιγμιότυπο οθόνης](images/rainbow-humid.png)
+    ![Screenshot](images/rainbow-humid.png)
 
-+ Δοκίμασε το πρόγραμμά σου μετακινώντας τον ρυθμιστή υγρασίας σε διαφορετικές τιμές.
++ Teste dein Programm, indem du den Feuchtigkeitsregler auf andere Werte verschiebst.
     
-    ![στιγμιότυπο οθόνης](images/rainbow-slider.png)
+    ![screenshot](images/rainbow-slider.png)
     
-    Σημείωσε ότι η τιμή που λαμβάνεις από τον αισθητήρα υγρασίας δεν είναι ακριβώς η ίδια με την τιμή στον ρυθμιστή. Αυτό συμβαίνει επειδή οι αισθητήρες δεν είναι απόλυτα ακριβείς.
+    Beachte, dass der Wert, den du vom Feuchtigkeitssensor zurückerhälst, nicht genau der gleiche Wert ist, wie der Wert auf dem Schieberegler. Das liegt daran, dass die Sensoren nicht ganz genau sind.
