@@ -70,13 +70,11 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Project resources
 
-* [.zip file containing all project resources](resources/rainbow-project-resources.zip)
 * [Starter project](http://jumpto.cc/rainbow-go)
 * [Offline starter Python file](resources/rainbow-rainbow.py)
 
 ## Viri za vodje klubov
 
-* [.zip file containing all completed project resources](resources/rainbow-volunteer-resources.zip)
 * [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
