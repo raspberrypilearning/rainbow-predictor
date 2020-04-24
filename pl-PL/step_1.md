@@ -70,14 +70,12 @@ Projekt ten obejmuje następujące elementy [Cyfrowego programu nauczania Raspbe
 
 ## Zasoby projektu
 
-* [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](resources/rainbow-project-resources.zip)
-* [Projekt początkowy](http://jumpto.cc/rainbow-go)
-* [Startowy plik w Pythonie - wersja offline](resources/rainbow-rainbow.py)
+* [Starter project](http://jumpto.cc/rainbow-go)
+* [Offline starter Python file](resources/rainbow-rainbow.py)
 
 ## Zasoby dla lidera klubu
 
-* [Plik .zip zawierający zasoby z ukończonym projektem](resources/rainbow-volunteer-resources.zip)
-* [Trinket zawierający ukończony projekt](https://trinket.io/python/eaea4cb76c)
+* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
