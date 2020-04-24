@@ -70,14 +70,12 @@
 
 ## موارد المشروع
 
-* [ملف مضغوط .zip يحتوي على جميع موارد المشروع.](resources/rainbow-project-resources.zip)
-* [بداية مشروع](http://jumpto.cc/rainbow-go)
-* [ملف Python بدون الاتصال بالانترنت](resources/rainbow-rainbow.py)
+* [Starter project](http://jumpto.cc/rainbow-go)
+* [Offline starter Python file](resources/rainbow-rainbow.py)
 
 ## موارد قادة النادي
 
-* [ملف مضغوط .zip يحتوي على جميع موارد المشروع المكتملة.](resources/rainbow-volunteer-resources.zip)
-* [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/python/eaea4cb76c)
+* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
