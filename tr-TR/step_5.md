@@ -1,21 +1,21 @@
-\--- challenge \---
+\--- meydan okuma \---
 
-## Challenge: More Weather
+## Meydan Okuma: Daha fazla hava durumu
 
-Can you display a sun image when the temperature is above 20 and the humidity is below 80%?
+Sıcaklığın 20 °C'nin üzerinde ve nemin %80'in altında olduğu durumda güneş görüntüsü gösterebilir misin?
 
-Tip: Use `elif` to check for other kinds of weather. For each kind of weather you'll need to include a condition to check for a kind of weather and then code to set the display on the Sense HAT.
+İpucu: `elif` koşul kipini diğer hava türlerini kontrol etmek kullanabilirsin. Her bir hava durumunu kontrol etmek için bir koşul eklemen ve ardından Sense HAT'ın ekranına görüntü çizdirmek için kod yazman gerekiyor.
 
-![screenshot](images/rainbow-elif.png)
+![ekran görüntüsü](images/rainbow-elif.png)
 
-Tip: You can create a simple sun by setting all the pixels to yellow with `clear()`. Or you can try creating a pixel image like you did with the rainbow.
+İpucu: `clear()` ile tüm pikselleri sarıya ayarlayarak basit bir güneş oluşturabilirsin. Ya da gökkuşağında yaptığın gibi bir piksel görüntüsü oluşturmayı deneyebilirsin.
 
-![screenshot](images/rainbow-sun.png)
+![ekran görüntüsü](images/rainbow-sun.png)
 
-How about a snow image if the humidity is above 80% and the temperature is below zero?
+Nemin %80'in üzerinde ve sıcaklığın 0 °C'nin altında olduğu hava durumda kar görüntüsü çizdirmeye ne dersin?
 
-Tip: Set red, green and blue to the maximum of 255 to create white.
+İpucu: Beyaz renk oluşturmak için kırmızı, yeşil ve maviyi maksimum 255'e ayarla.
 
-![screenshot](images/rainbow-snow.png)
+![ekran görüntüsü](images/rainbow-snow.png)
 
 \--- /challenge \---
