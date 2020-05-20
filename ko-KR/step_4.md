@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## 무지계 예측하기
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+무지개는 햇빛이 물방울을 통해 직각으로 비칠 때 생깁니다.(주로 오후에) 따뜻하고 습도가 높으면, 무지개가 있는지 확인하는 것이 좋습니다.
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ 조건이 맞다면 무지개만 보이도록 하겠습니다. 코드를 수정해 다음과 같이 만듭니다.
     
-    ![screenshot](images/rainbow-check.png)
+    ![스크린샷](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    이러한 조건이 충족 될 때 무지개가 있는지 확신 할 수는 없지만 살펴볼 가치가 있습니다.
 
-+ Try changing the values on the slider until you see the rainbow.
++ 무지개가 보일 때까지 슬라이더의 값을 변경하십시오.
     
-    ![screenshot](images/rainbow-trigger.png)
+    ![스크린샷](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    보고 된 값은 슬라이더에 표시된 값과 정확히 동일하지 않다는 것을 기억하세요.
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ *임계값* 은 중요한 변화를 나타내는 숫자입니다. 20°C 및 80% 습도는 무지개 감지기의 임계값 입니다.
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    임계값을 변경한 다음 슬라이더를 움직여 무지개를 만들어보세요.
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    실제 Sense Hat으로 작업하는 경우, 임계값을 낮은 값으로 설정하여 여러분의 코드를 테스트 할 수 있습니다.
