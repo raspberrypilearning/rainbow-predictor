@@ -1,15 +1,15 @@
-## Reading the sensor data
+## 讀取感測器的數據
 
-The Sense HAT has a range of sensors that provide real world data on a Raspberry Pi computer. The Sense HAT Emulator in Trinket allows you write and test projects for the Sense HAT in your web browser.
+Sense HAT具有一系列的感測器，可提供真實世界的數據給Raspberry Pi電腦。 Trinket中的Sense HAT 模擬器讓你可以在Web瀏覽器中編寫和測試Sense HAT的專案。
 
-The humidity sensor reports the amount of moisture in the air. Humidity is high when it rains.
+濕度感測器回報空氣中的水分含量。 當下雨時濕度很高。
 
-+ Let's read from the humidity sensor and print out the result. Add the highlighted code to the bottom of your script.
++ 讓我們從濕度感測器中讀取並印出結果。 將突出顯示的程式碼加入到你的腳本程式的底部。
     
-    ![screenshot](images/rainbow-humid.png)
+    ![截圖](images/rainbow-humid.png)
 
-+ Test your program by moving the humidity slider to different values.
++ 透過將濕度滑桿移動到其他值來測試你的程式。
     
-    ![screenshot](images/rainbow-slider.png)
+    ![螢幕截圖](images/rainbow-slider.png)
     
-    Notice that the value you get back from the humidity sensor isn't exactly the same as the value on the slider. This is because the sensors aren't perfectly accurate.
+    請注意，你從濕度感測器取得的值與滑桿上的值並不完全相同。 這是因為感測器並非完美的準確。
