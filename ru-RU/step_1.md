@@ -1,81 +1,81 @@
-## Introduction:
+## Введение:
 
-In this project you will use the temperature and humidity sensors on the Sense HAT to predict when there’s a good chance of spotting a rainbow. When the right conditions are detected you will display a rainbow on the Sense HAT LED Matrix.
+В этом проекте ты будешь использовать датчики температуры и влажности на Sense HAT для прогнозирования того, когда есть хороший шанс обнаружить радугу. Когда будут обнаружены правильные условия, ты отобразишь радугу на светодиодной матрице Sense HAT.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
-In the Trinket emulator you can move the sliders to change the temperature and humidity, they look like this:
+В эмуляторе Trinket ты можешь перемещать ползунки для изменения температуры и влажности, они выглядят так:
 
-![screenshot](images/rainbow-sliders.png)
+![снимок экрана](images/rainbow-sliders.png)
 
-You'll get a rainbow if the temperature is over 20 degrees C and the humidity is over 80 percent. Try experimenting to find the weather conditions for sunshine (yellow) and snow (white).
+Ты получишь радугу, если температура превысит 20 градусов Цельсия, а влажность превысит 80 процентов. Попробуй поэкспериментировать, чтобы найти погодные условия для солнечных лучей (желтый) и снега (белый).
 
-### Additional information for club leaders
+### Дополнительная информация для руководителей клуба
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
+Если вам нужно распечатать этот проект, пожалуйста, используйте [Версию для печати](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Заметки для руководителя клуба
 
-## Introduction:
+## Введение:
 
-In this project, children will learn how to use the Sense HAT sensors to detect the weather, and display a rainbow using the LED matrix when it's warm and humid.
+В рамках этого проекта дети научатся использовать сенсоры Sense HAT для определения погоды, и отображать радугу с помощью светодиодной матрицы, когда погода теплая и влажная.
 
-## Online Resources
+## Интернет-ресурсы
 
-**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**В этом проекте используется Python 3.** Мы рекомендуем использовать [Trinket](https://trinket.io/), чтобы программировать на Python онлайн. Эта часть состоит из следующих trinket-ов:
 
-* ['Rainbow Predictor' Starter Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
+* [Стартовый trinket «Радужный предсказатель» – jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
 
-There is also a trinket containing the completed project:
+Есть также trinket, содержащий завершенный проект:
 
-* [‘Rainbow Predictor’ Finished -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
+* [Завершенный «Радужный предсказатель» – trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
 
-## Offline Resources
+## Оффлайн ресурсы
 
-This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Этот проект также может быть [завершен в автономном режиме](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) на компьютере Raspberry Pi с Sense HAT. Вы можете получить доступ к ресурсам проекта, щёлкнув ссылку «Материалы проекта» для этого проекта. Эта ссылка содержит раздел «Ресурсы проекта», включающий ресурсы, которые понадобятся детям, чтобы завершить этот проект в режиме оффлайн (автономном режиме). Убедитесь, что у каждого ребёнка есть доступ к копии этих ресурсов. Этот раздел содержит следующие файлы:
 
 * rainbow/rainbow.py
 
-You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
+Вы также можете найти завершенную версию этого проекта в разделе «Ресурсы волонтеров», который содержит:
 
 * rainbow-finished/rainbow.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Все вышеперечисленные ресурсы также можно скачать как файлы `.zip` проекта и волонтера.)
 
-## Learning Objectives
+## Цели обучения
 
-* Physical computing - sensors;
-* Boolean AND; 
-* RGB Colours;
-* Sense HAT display;
+* Физические вычисления - датчики;
+* Логическое И (AND); 
+* RGB цвета;
+* Дисплей Sense HAT;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Этот проект основан на следующих модулях учебного плана [Raspberry Pi Digital Making](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Комбинирование программных конструкций для решения задачи.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Задания
 
-* More Weather - display different images under different weather conditions. 
+* Больше погоды - показывать различные изображения в разных погодных условиях. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Материалы проекта
 
-## Project resources
+## Ресурсы проекта
 
-* [Starter project](http://jumpto.cc/rainbow-go)
-* [Offline starter Python file](resources/rainbow-rainbow.py)
+* [Стартовый проект](http://jumpto.cc/rainbow-go)
+* [Python-файл для оффлайн старта](resources/rainbow-rainbow.py)
 
-## Club leader resources
+## Ресурсы для руководителя клуба
 
-* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
+* [Завершенный Trinket проект (онлайн)](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
