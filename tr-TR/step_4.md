@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## Gökkuşağının tahmin edilmesi
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+Gökkuşağı, güneş su damlacıklarından doğru açıyla parladığında meydana gelir (genellikle öğleden sonra). Havanın sıcak ve nemli olduğu durumlarda gökkuşağı görülebilir.
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ Şimdi gökkuşağını sadece gerekli koşullar sağlanıyorsa gösterelim. Bunun için kodunu aşağıdaki gibi olacak şekilde değiştirebilirsin:
     
-    ![screenshot](images/rainbow-check.png)
+    ![ekran görüntüsü](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    Bu koşullar sağlansa da gerçekten gökkuşağı oluştuğundan emin olamazsın, ama yine de bir göz atmaya değer!
 
-+ Try changing the values on the slider until you see the rainbow.
++ Gökkuşağını görene kadar kaydırıcıdaki değerleri değiştirmeyi dene.
     
-    ![screenshot](images/rainbow-trigger.png)
+    ![ekran alıntısı](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    Daha önce de belirtildiği gibi, okunan değerlerin kaydırıcılarda gösterilenle tam olarak aynı olmayacağını unutma.
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ *Eşik değeri* önemli bir değişikliğin için sınır değerdir. 20 °C sıcaklık ve %80 nem gökkuşağı dedektörü için eşik değerleridir.
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    Eşik değerlerini değiştirmeyi, ardından gökkuşağı oluşturmak için kaydırıcıları hareket ettirmeyi dene.
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    Eğer fiziksel ölçümler yapan bir Sense HAT ile çalışıyorsan, eşikleri değerlerini düşürerek kodunu test edebilirsin.
