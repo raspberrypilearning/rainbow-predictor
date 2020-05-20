@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## Предсказывание радуги
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+Радуга появляется, когда лучи солнца проходят через частицы воды под нужным углом (обычно в дневное время суток). Чаще всего радугу можно увидеть, когда тепло и уровень влажности высокий.
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ Теперь давай покажем радугу, только если условия правильные. Измени свой код, чтобы он выглядел так:
     
-    ![screenshot](images/rainbow-check.png)
+    ![снимок экрана](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    Ты не можешь быть уверен, что при соблюдении этих условий есть радуга, но стоит проверить.
 
-+ Try changing the values on the slider until you see the rainbow.
++ Попробуй изменить значения на слайдере, пока не увидишь радугу.
     
-    ![screenshot](images/rainbow-trigger.png)
+    ![снимок экрана](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    Помни, что полученные значения не будут точно такими же, как показанные на ползунках.
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ *Порог* – это число, которое указывает на важное изменение. 20 градусов Цельсия и 80% влажности являются пороговыми значениями для определения радуги.
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    Попробуй изменить пороги, а затем перемести ползунки, чтобы вызвать радугу.
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    Если ты работаешь с физическим Sense HAT, ты можешь протестировать свой код, установив для порогов низкие значения.
