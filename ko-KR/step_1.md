@@ -80,4 +80,4 @@ title: 프로젝트 자료
 * [완성된 온라인 Trinket 프로젝트](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
--- /collapse ---
+--- /collapse ---
