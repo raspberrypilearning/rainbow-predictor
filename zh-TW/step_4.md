@@ -1,21 +1,21 @@
-## Predicting a rainbow
+## 預測一道彩虹
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+當陽光以正確的角度穿過水滴時，容易形成彩虹（通常在下午）。 如果天氣溫暖且濕度很高，那很值得看看是否有彩虹。
 
-+ Now let's only show the rainbow if the conditions are right. Change your code to look like this:
++ 現在，讓我們僅在條件合適的情況下顯示彩虹。 修改你的程式碼，讓它看起來像這樣：
     
-    ![screenshot](images/rainbow-check.png)
+    ![截圖](images/rainbow-check.png)
     
-    You can't be sure there's a rainbow when these conditions are met, but it's worth a look.
+    當滿足這些條件時，你無法確定會出現彩虹，但這值得一試。
 
-+ Try changing the values on the slider until you see the rainbow.
++ 嘗試更改滑桿上的值，直到你看到彩虹。
     
-    ![screenshot](images/rainbow-trigger.png)
+    ![螢幕截圖](images/rainbow-trigger.png)
     
-    Remember that the values reported won't be exactly the same as those shown on the sliders.
+    請記住，感測器回報的值將不會與滑桿上顯示的值完全相同。
 
-+ A *threshold* is a number that indicates an important change. 20 degrees C and 80% humidity are thresholds for the rainbow detector.
++ *閾值*是一個表示重要變化的數字。 攝氏20度和80％的濕度是彩虹偵測器的閾值。
     
-    Try changing the thresholds and then moving the sliders to trigger a rainbow.
+    嘗試更改閾值，然後移動滑桿以觸發一道彩虹。
     
-    If you're working with a physical Sense HAT then you can test your code by setting the thresholds to low values.
+    如果你正在使用物理Sense HAT感測器，則可以透過將閾值設置為較低的值來測試程式碼。
