@@ -1,33 +1,33 @@
-## Drawing a rainbow
+## Gökkuşağının çizilmesi
 
-First let's draw a rainbow using the LED Matrix on the Sense HAT. The colours are Red, Orange, Yellow, Green, Blue, Indigo and Violet.
+Öncelikle Sense HAT üzerindeki LED Matrisi kullanarak bir gökkuşağı çizelim. Kullanacağımız renkler: kırmızı, turuncu, sarı, yeşil, mavi, lacivert ve mor.
 
-To set the colour of an individual LED we need to say how much red, green and blue it should have from 0 to 255.
+Bir LED'in rengini belirlemek için, o LED'in ne kadar kırmızı, yeşil ve mavi içermesi gerektiğini 0'la 255 arası bir sayıyla ifade etmek gerekiyor.
 
-+ Open the Rainbow Predictor Starter Trinket: <a href="http://jumpto.cc/rainbow-go" target="_blank">jumpto.cc/rainbow-go</a>.
++ Rainbow Predictor Starter Trinket'ini aç: <a href="http://jumpto.cc/rainbow-go" target="_blank"> jumpto.cc/rainbow-go </a>.
     
-    **The code to set up the Sense HAT has been included for you.**
+    **Sense HAT'ın kurulum kodu senin için eklendi.**
 
-+ Add the highlighted code to set up a variable for the colour Red and then turn all the pixels red using `sense.clear(R)`:
++ Kırmızı renge bir değişken atamak için vurgulanan kodu ekle ve `sense.clear (K) ` kod parçasını kullanarak tüm pikselleri kırmızıya çevir:
     
-    ![screenshot](images/rainbow-red.png)
+    ![ekran alıntısı](images/rainbow-red.png)
     
-    Make sure you use a capital letter `R`.
+    Büyük harf `K` harfini kullandığına emin ol.
 
-+ Orange is next. Orange is red mixed with green. You can adjust the numbers until you get an orange that you like. Use `sense.clear(O)` this time to test the new colour, making sure to use a capital letter `O` in the brackets.
++ Sırada turuncu var. Turuncu, kırmızı ve yeşilin karışımıdır. İstediğin tonda bir turuncu elde edene kadar sayıları değiştirebilirsin. Bu sefer `sense.clear(T)` kod parçasını kullanarak - büyük `T` ile - yeni rengini test et.
     
-    ![screenshot](images/rainbow-orange.png)
+    ![ekran görüntüsü](images/rainbow-orange.png)
 
-+ Now add variables `Y`, `G`, `B`, `I`, `V` so that you have the seven colours of the rainbow. You can look up RGB colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
++ Şimdi gökkuşağı geri kalan renkleri için `S`, `Y`, `MA`, `L`, `MO` değişkenlerini ekleyin. RGB renk modeliyle alakalı daha fazla bilgiyi <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a> adresinde bulabilirsin.
     
-    You can test your colours using `sense.clear()`.
+    Renklerini `sense.clear()` kullanarak test edebilirsin.
     
-    ![screenshot](images/rainbow-colours.png)
+    ![ekran görüntüsü](images/rainbow-colours.png)
 
-+ Add a variable `X` for setting pixels to off (no red, green or blue):
++ Pikselleri kapalı olarak ayarlayabilmek için `X` değişkenini ekle.
     
-    ![screenshot](images/rainbow-off.png)
+    ![ekran görüntüsü](images/rainbow-off.png)
 
-+ Now it's time to draw a rainbow. You need to set up a list containing the colour of each pixel and then call `set_pixels` with the list of colours. To save typing you can copy the rainbow from `snippets.py` in your project.
++ Şimdi gökkuşağı çizme zamanı. Her pikselin rengini içeren bir liste tanımlaman ve ardından ` set_pixels` fonksiyonunu bu liste ile çağırman gerekiyor. Zamandan tasarruf etmek için `snippets.py` dosyasındaki gökkuşağını kopyalayabilirsin.
     
-    ![screenshot](images/rainbow-rainbow.png)
+    ![ekran görüntüsü](images/rainbow-rainbow.png)
