@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: More Weather
+## 挑戰：更多天氣
 
-Can you display a sun image when the temperature is above 20 and the humidity is below 80%?
+你有辦法展示一個氣溫高於20度且濕度低於百分之80的太陽圖案嗎？
 
-Tip: Use `elif` to check for other kinds of weather. For each kind of weather you'll need to include a condition to check for a kind of weather and then code to set the display on the Sense HAT.
+提示：使用`elif`檢查其他類型的天氣。 針對每一種天氣，你都需要包含一個條件來檢查確認為該天氣，然後編寫程式碼來設定在Sense HAT的顯示器。
 
-![screenshot](images/rainbow-elif.png)
+![螢幕截圖](images/rainbow-elif.png)
 
-Tip: You can create a simple sun by setting all the pixels to yellow with `clear()`. Or you can try creating a pixel image like you did with the rainbow.
+提示：你可以透過使用`clear()`將所有像素設置為黃色來建立一個簡單的太陽。 或者，你可以嘗試像建立彩虹一樣來建立一個像素圖像。
 
-![screenshot](images/rainbow-sun.png)
+![螢幕截圖](images/rainbow-sun.png)
 
-How about a snow image if the humidity is above 80% and the temperature is below zero?
+那展示一個濕度大於百分之80且氣溫低於0度的下雪圖案呢？
 
-Tip: Set red, green and blue to the maximum of 255 to create white.
+提示：將紅色，綠色和藍色設置為最大值255，來創建白色。
 
-![screenshot](images/rainbow-snow.png)
+![螢幕截圖](images/rainbow-snow.png)
 
 \--- /challenge \---
