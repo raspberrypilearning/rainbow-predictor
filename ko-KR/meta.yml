@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Rainbow Predictor
-description: Display a rainbow when the conditions are met.
+title: 무지개 예측기
+description: 특정 조건이 충족되었을 때 무지개를 표시합니다.
 original_url: https://codeclubprojects.org/en-GB/sense-hat/rainbow-predictor
 interests: weather
 technologies: sense-hat
@@ -18,12 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 'Introduction: '
+    title: '들어가며: '
   - 
-    title: Drawing a rainbow
+    title: 무지개 그리기
   - 
-    title: Reading the sensor data
+    title: 센서 데이터 읽기
   - 
-    title: Predicting a rainbow
+    title: 무지계 예측하기
   - 
-    title: 'Challenge: More Weather'
+    title: '도전과제: 더 많은 날씨'
