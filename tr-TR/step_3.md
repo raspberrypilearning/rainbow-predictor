@@ -1,15 +1,15 @@
-## Reading the sensor data
+## Sensör verilerinin okunması
 
-The Sense HAT has a range of sensors that provide real world data on a Raspberry Pi computer. The Sense HAT Emulator in Trinket allows you write and test projects for the Sense HAT in your web browser.
+Sense HAT, Raspberry Pi bilgisayarına gerçek dünya verileri sağlayan bir dizi sensöre sahiptir. Trinket'teki Sense HAT Emulator, web tarayıcınızda Sense HAT için projeler yazmanıza ve onları test etmenize olanak tanır.
 
-The humidity sensor reports the amount of moisture in the air. Humidity is high when it rains.
+Nem sensörü havadaki nem miktarını ölçer. Nem ise yağmurlu havada yüksektir.
 
-+ Let's read from the humidity sensor and print out the result. Add the highlighted code to the bottom of your script.
++ Nem sensöründen gelen veriyi okuyalım ve sonucu yazdıralım. Bunun için vurgulanan kodu komut dosyasının altına ekleyebilirsin.
     
-    ![screenshot](images/rainbow-humid.png)
+    ![ekran görüntüsü](images/rainbow-humid.png)
 
-+ Test your program by moving the humidity slider to different values.
++ Nem kaydırıcısını farklı değerlere getirerek programını test edebilirsin.
     
-    ![screenshot](images/rainbow-slider.png)
+    ![ekran alıntısı](images/rainbow-slider.png)
     
-    Notice that the value you get back from the humidity sensor isn't exactly the same as the value on the slider. This is because the sensors aren't perfectly accurate.
+    Nem sensöründen okuduğun değerin, kaydırıcıdaki değerle tam olarak aynı olmadığına dikkat et. Bunun nedeni, sensörlerin tam olarak doğru olmamasıdır.
