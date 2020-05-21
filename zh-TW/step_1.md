@@ -70,12 +70,12 @@
 
 ## 專案資源
 
-* [Starter project](http://jumpto.cc/rainbow-go)
-* [Offline starter Python file](resources/rainbow-rainbow.py)
+* [初始專案](http://jumpto.cc/rainbow-go)
+* [離線的初始Python 檔案](resources/rainbow-rainbow.py)
 
 ## 教師資源
 
-* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
+* [線上完成的Trinket專案](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
