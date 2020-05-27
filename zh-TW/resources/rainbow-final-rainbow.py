@@ -34,9 +34,9 @@ while True:
   if sense.humidity > 80 and sense.temp > 20:
     sense.set_pixels(rainbow)
   elif sense.humidity > 80 and sense.temp < 0 :
-    sense.clear([255, 255, 255]) # white snow
+    sense.clear([255, 255, 255]) # 白色的雪
   elif sense.humidity <= 80 and sense.temp > 20 :
-    sense.clear([255, 255, 0]) # yellow sun
+    sense.clear([255, 255, 0]) # 黃色太陽
   else:
     sense.clear()
     
