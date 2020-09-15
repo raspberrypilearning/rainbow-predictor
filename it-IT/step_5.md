@@ -14,7 +14,7 @@ Suggerimento: Puoi creare un sole semplice impostando tutti i pixel in giallo co
 
 How about a snow image if the humidity is above 80% and the temperature is below zero?
 
-Suggerimento: Imposta il rosso, il verde e il blu al valore massimo di 255 per creare il bianco.
+Suggerimento: imposta il rosso, il verde e il blu al valore massimo di 255 per creare il bianco.
 
 ![screenshot](images/rainbow-snow.png)
 
