@@ -1,10 +1,10 @@
-rainbow = [
-R, R, R, R, R, R, R, R,
-R, O, O, O, O, O, O, O,
-R, O, Y, Y, Y, Y, Y, Y,
-R, O, Y, G, G, G, G, G,
-R, O, Y, G, B, B, B, B,
-R, O, Y, G, B, I, I, I,
-R, O, Y, G, B, I, V, V,                                                                   
-R, O, Y, G, B, I, V, X
+gokkusagi = [
+K, K, K, K, K, K, K, K,
+K, T, T, T, T, T, T, T,
+K, T, S, S, S, S, S, S,
+K, T, S, Y, Y, Y, Y, Y,
+K, T, S, Y, MA, MA, MA, MA,
+K, T, S, Y, MA, L, L, L,
+K, T, S, Y, MA, L, MO, MO,                                                                   
+K, T, S, Y, MA, L, MO, X
 ]
