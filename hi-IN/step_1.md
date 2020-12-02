@@ -55,7 +55,7 @@ title: क्लब लीडर नोट्स
 * RGB रंग;
 * Sense HAT डिस्प्ले;
 
-इस प्रोजेक्ट में [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्वों को शामिल किया गया है:
+इस प्रोजेक्ट में [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्वों को शामिल किया गया है:
 
 * [किसी समस्या को हल करने के लिए प्रोग्रामिंग संरचनाओं को जोड़ें।](https://www.raspberrypi.org/curriculum/programming/builder)
 

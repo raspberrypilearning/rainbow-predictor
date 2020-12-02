@@ -55,7 +55,7 @@ Prav tako lahko najdete dokončano različico tega projekta v razdelku 'Viri za 
 * RGB barve;
 * Sense HAT zaslon;
 
-Ta projekt zajema elemente iz [učnega načrta Raspberry Pi za digitalno ustvarjanje](http://rpf.io/curriculum):
+Ta projekt zajema elemente iz [učnega načrta Raspberry Pi za digitalno ustvarjanje](https://rpf.io/curriculum):
 
 * [Združevanje programskih konstrukt za reševanje problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
