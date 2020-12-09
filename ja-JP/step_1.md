@@ -54,7 +54,7 @@ title: クラブリーダー用メモ
 * RGBカラー
 * Sense HATディスプレイ
 
-このプロジェクトは [Raspberry Piデジタル・メイキング・カリキュラム](http://rpf.io/curriculum)の中から、以下の内容をあつかいます：
+このプロジェクトは [Raspberry Piデジタル・メイキング・カリキュラム](https://rpf.io/curriculum)の中から、以下の内容をあつかいます：
 
 * [プログラミング構造を組み合わせて問題を解決する。](https://www.raspberrypi.org/curriculum/programming/builder)
 

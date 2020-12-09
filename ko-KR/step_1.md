@@ -55,7 +55,7 @@ title: 교육자 노트
 * RGB 색상들;
 * Sense Hat 디스플레이;
 
-이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
+이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](https://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
 
 * [프로그래밍 구조를 결합하여 문제 해결하기](https://www.raspberrypi.org/curriculum/programming/builder)
 

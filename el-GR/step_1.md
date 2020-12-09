@@ -54,7 +54,7 @@ title: Σημειώσεις συντονιστή ομάδας
 * Χρώματα RGB
 * Οθόνη Sense Hat
 
-Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum):
+Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Making Curriculum ](https://rpf.io/curriculum):
 
 * [Συνδύασε δομές προγραμματισμού για να λύσεις ένα πρόβλημα.](https://www.raspberrypi.org/curriculum/programming/builder)
 

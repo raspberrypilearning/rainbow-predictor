@@ -55,7 +55,7 @@ title: ملاحظات قادة النادي
 * الألوان RGB؛
 * لوحة عرض Sense HAT؛
 
-يتناول هذا المشروع عناصر من المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من المناهج الرقمية الخاصة بـ [Raspberry Pi](https://rpf.io/curriculum):
 
 * [إنشاءات برمجية مدمجة لحل مشكلة.](https://www.raspberrypi.org/curriculum/programming/builder)
 
