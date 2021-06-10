@@ -54,7 +54,7 @@
 * Χρώματα RGB
 * Οθόνη Sense Hat
 
-Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Συνδύασε δομές προγραμματισμού για να λύσεις ένα πρόβλημα.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -70,12 +70,12 @@
 
 ## Πόροι έργου
 
-* [Starter project](http://jumpto.cc/rainbow-go)
-* [Offline starter Python file](resources/rainbow-rainbow.py)
+* [Αρχικό έργο](http://jumpto.cc/rainbow-go)
+* [Offline αρχικό αρχείο Python](resources/rainbow-rainbow.py)
 
 ## Πόροι συντονιστή ομάδας
 
-* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
+* [Online ολοκληρωμένο έργο Trinket](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
