@@ -54,7 +54,7 @@ Você também pode encontrar uma versão completa deste projeto na seção 'Recu
 * Cores RGB;
 * Display do Sense HAT;
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Combine construções de programação para resolver um problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
