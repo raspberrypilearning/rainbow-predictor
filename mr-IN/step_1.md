@@ -54,7 +54,7 @@ Trinket emulator मध्ये आपण स्लाइडरला ताप
 * RGB रंग;
 * Sense HAT प्रदर्शन;
 
-या प्रोजेक्ट मध्ये [ ​​Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) चे खालील घटक समाविष्ट आहेत:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [समस्या सोडवण्यासाठी प्रोग्रामिंग संकल्पना एकत्र करा.](https://www.raspberrypi.org/curriculum/programming/builder)
 
