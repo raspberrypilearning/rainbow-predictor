@@ -9,13 +9,13 @@
 
 Trinket emulator ನಲ್ಲಿ ನೀವು ತಾಪಮಾನ ಮತ್ತು ತೇವಾಂಶವನ್ನು ಬದಲಾಯಿಸಲು sliders ಗಳನ್ನು ಚಲಿಸಬಹುದು, ಅವು ಈ ರೀತಿ ಕಾಣುತ್ತವೆ:
 
-![ಸ್ಕ್ರೀನ್‍ಶಾಟ್(screenshot)](images/rainbow-sliders.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rainbow-sliders.png)
 
 ತಾಪಮಾನವು 20 ಡಿಗ್ರಿ ಸಿ ಮತ್ತು ಆರ್ದ್ರತೆಯು (humidity) 80 ಪ್ರತಿಶತಕ್ಕಿಂತ ಹೆಚ್ಚಿದ್ದರೆ ನೀವು ಕಾಮನಬಿಲ್ಲು ಪಡೆಯುತ್ತೀರಿ. ಬಿಸಿಲು (ಹಳದಿ) ಮತ್ತು ಹಿಮ (ಬಿಳಿ) ಗಾಗಿ ಹವಾಮಾನ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು ಪ್ರಯೋಗವನ್ನು ಪ್ರಯತ್ನಿಸಿ.
 
 ### ಕ್ಲಬ್ ಮುಖಂಡರಿಗೆ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ
 
-ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ ದಯವಿಟ್ಟು[Printer friendly version](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print)ಬಳಸಿ.
+ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿ](https://projects.raspberrypi.org/en/projects/rainbow-predictor/print).
 
 ## \--- collapse \---
 
@@ -29,15 +29,15 @@ Trinket emulator ನಲ್ಲಿ ನೀವು ತಾಪಮಾನ ಮತ್ತು
 
 **ಈ ಯೋಜನೆಯು Python 3 ಬಳಸುತ್ತದೆ.** ನೀವು Python ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಬರೆಯಲು [Trinket](https://trinket.io/) ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ. ಈ ಯೋಜನೆಯು ಈ ಕೆಳಗಿನ Trinkets ಒಳಗೊಂಡಿದೆ:
 
-* ['Rainbow Predictor' Starter Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
+* ['ರೇನ್ಬೋ ಪ್ರಿಡಿಕ್ಟರ್' Starter Trinket -- jumpto.cc/rainbow-go](http://jumpto.cc/rainbow-go)
 
 ಪೂರ್ಣವಾದ ಯೋಜನೆಯನ್ನು ಒಳಗೊಂಡಿರುವ trinket ಸಹ ಇದೆ:
 
-* [‘Rainbow Predictor’ Finished -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
+* ['ರೇನ್ಬೋ ಪ್ರಿಡಿಕ್ಟರ್' Finished -- trinket.io/python/eaea4cb76c](https://trinket.io/python/eaea4cb76c)
 
 ## ಆಫ್‌ಲೈನ್ Resources
 
-ಈ ಯೋಜನೆಯನ್ನು Sense HAT ಹೊಂದಿರುವ Raspberry Pi ಕಂಪ್ಯೂಟರ್ ನಲ್ಲಿ ಆಫ್ ಲೈನ್ ನಲ್ಲಿಯೂ [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) ಪೂರ್ಣಗೊಳಿಸಬಹುದು. ಈ ಯೋಜನೆಗಾಗಿ 'Project Materials' ಲಿಂಕ್ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ನೀವು project resources ಗಳನ್ನು ಪಡೆಯಬಹುದು. ಈ ಲಿಂಕ್ 'Project Resources' ವಿಭಾಗವನ್ನು ಒಳಗೊಂಡಿದೆ, ಇದರಲ್ಲಿ ಮಕ್ಕಳು ಈ project ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಪೂರ್ಣಗೊಳಿಸಲು ಬೇಕಾದ resources ಗಳು ಇವೆ. ಈ resources ಪ್ರತಿಕೃತಿ (Copy) ಪ್ರತಿ ಮಗುವಿಗೆ ಲಭ್ಯವಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಈ ವಿಭಾಗವು ಕೆಳಗಿನ ಫೈಲ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
+ಈ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು Sense HAT ಹೊಂದಿರುವ Raspberry Pi ಕಂಪ್ಯೂಟರ್ ನಲ್ಲಿ [ಆಫ್ ಲೈನ್ ನಲ್ಲಿಯೂ ಪೂರ್ಣಗೊಳಿಸಬಹುದು.](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/). ಈ ಯೋಜನೆಗಾಗಿ 'Project Materials' ಲಿಂಕ್ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ನೀವು project resources ಗಳನ್ನು ಪಡೆಯಬಹುದು. ಈ ಲಿಂಕ್ 'Project Resources' ವಿಭಾಗವನ್ನು ಒಳಗೊಂಡಿದೆ, ಇದರಲ್ಲಿ ಮಕ್ಕಳು ಈ project ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಪೂರ್ಣಗೊಳಿಸಲು ಬೇಕಾದ resources ಗಳು ಇವೆ. ಈ resources ಪ್ರತಿಕೃತಿ (Copy) ಪ್ರತಿ ಮಗುವಿಗೆ ಲಭ್ಯವಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಈ ವಿಭಾಗವು ಕೆಳಗಿನ ಫೈಲ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
 
 * rainbow/rainbow.py
 
@@ -54,7 +54,7 @@ Trinket emulator ನಲ್ಲಿ ನೀವು ತಾಪಮಾನ ಮತ್ತು
 * RGB Colours;
 * Sense HAT display;
 
-ಈ ಯೋಜನೆ[Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ಇದರ ಪಠ್ಯಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತದೆ:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲು ಪ್ರೋಗ್ರಾಮಿಂಗ್ ರಚನೆಗಳನ್ನು ಸಂಯೋಜಿಸಿ.](https://www.raspberrypi.org/curriculum/programming/builder)
 
