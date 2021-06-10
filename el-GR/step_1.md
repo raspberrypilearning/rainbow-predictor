@@ -21,6 +21,7 @@
 ---
 title: Σημειώσεις συντονιστή ομάδας
 ---
+
 ## Εισαγωγή:
 
 Σε αυτό το έργο, τα παιδιά θα μάθουν πώς να χρησιμοποιούν τους αισθητήρες Sense HAT για να ανιχνεύουν τον καιρό και να εμφανίζουν ένα ουράνιο τόξο χρησιμοποιώντας το LED Matrix όταν έχει ζέστη και υγρασία.
@@ -54,7 +55,7 @@ title: Σημειώσεις συντονιστή ομάδας
 * Χρώματα RGB
 * Οθόνη Sense Hat
 
-Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Making Curriculum ](https://rpf.io/curriculum):
+Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Συνδύασε δομές προγραμματισμού για να λύσεις ένα πρόβλημα.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -68,16 +69,15 @@ title: Σημειώσεις συντονιστή ομάδας
 ---
 title: Υλικό έργου
 ---
+
 ## Πόροι έργου
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/rainbow-project-resources.zip)
 * [Αρχικό έργο](http://jumpto.cc/rainbow-go)
 * [Offline αρχικό αρχείο Python](resources/rainbow-rainbow.py)
 
 ## Πόροι συντονιστή ομάδας
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/rainbow-volunteer-resources.zip)
-* [Online ολοκληρωμένο έργο στο Τrinket](https://trinket.io/python/5b2711b27a)
+* [Online ολοκληρωμένο έργο Trinket](https://trinket.io/python/5b2711b27a)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 --- /collapse ---
