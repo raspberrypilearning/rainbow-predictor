@@ -54,7 +54,7 @@ Trinketエミュレータでは、以下のようにスライダーを動かし�
 * RGBカラー
 * Sense HATディスプレイ
 
-このプロジェクトは [Raspberry Piデジタル・メイキング・カリキュラム](http://rpf.io/curriculum)の中から、以下の内容をあつかいます：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [プログラミング構造を組み合わせて問題を解決する。](https://www.raspberrypi.org/curriculum/programming/builder)
 
