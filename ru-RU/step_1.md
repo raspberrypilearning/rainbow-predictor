@@ -54,7 +54,7 @@
 * RGB цвета;
 * Дисплей Sense HAT;
 
-Этот проект основан на следующих модулях учебного плана [Raspberry Pi Digital Making](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Комбинирование программных конструкций для решения задачи.](https://www.raspberrypi.org/curriculum/programming/builder)
 
