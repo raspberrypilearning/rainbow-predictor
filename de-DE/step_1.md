@@ -54,7 +54,7 @@ Eine vollständige Version dieses Projekts findest du auch im Abschnitt "Ressour
 * RGB (Rot, Grün, Blau) Farben;
 * Sense HAT Display;
 
-Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Verschiedene Programmierkonstrukte kombinieren um ein Problem zu lösen.](https://www.raspberrypi.org/curriculum/programming/builder)
 
