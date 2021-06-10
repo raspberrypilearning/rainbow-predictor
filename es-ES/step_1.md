@@ -54,7 +54,7 @@ También se puede encontrar una versión completa de este proyecto en la secció
 * Colores RGB;
 * Pantalla Sense HAT;
 
-Este proyecto incluye elementos de los siguientes aspectos del [Curríulo de fabricación digital de Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Combinar estructuras de programación para resolver un problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
