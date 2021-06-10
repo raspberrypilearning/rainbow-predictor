@@ -1,6 +1,6 @@
 ## Πρόβλεψη ουράνιου τόξου
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+Τα ουράνια τόξα συμβαίνουν όταν ο ήλιος λάμπει μέσω σταγονιδίων νερού υπό σωστή γωνία (συνήθως το απόγευμα). Εάν κάνει ζέστη και η υγρασία είναι υψηλή τότε αξίζει να ελέγξετε αν υπάρχει ουράνιο τόξο.
 
 + Τώρα ας δείξουμε μόνο το ουράνιο τόξο, εάν οι συνθήκες είναι κατάλληλες. Διόρθωσε τον κώδικα έτσι ώστε να φαίνεται όπως παρακάτω:
     
