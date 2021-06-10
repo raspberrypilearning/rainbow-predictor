@@ -1,15 +1,15 @@
 ---
-hero_image: images/rainbow-predictor.png
+hero_image: images / rainbow-predictor.png
 theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Rainbow Predictor
-description: Display a rainbow when the conditions are met.
+curriculum: 1, tasarım-0, programlama-1, phys-comp-0, üretim-0, topluluk-0
+title: Gökkuşağı Tahmincisi
+description: Uygun koşullar gerçekleştiğinde gökkuşağının görüntülenmesi.
 original_url: https://codeclubprojects.org/en-GB/sense-hat/rainbow-predictor
-interests: weather
+interests: hava Durumu
 technologies: sense-hat
 site_areas: projects
 hardware: sense-hat
@@ -18,12 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 'Introduction: '
+    title: 'Giriş: '
   - 
-    title: Drawing a rainbow
+    title: Gökkuşağının çizilmesi
   - 
-    title: Reading the sensor data
+    title: Sensör verilerinin okunması
   - 
-    title: Predicting a rainbow
+    title: Gökkuşağının tahmin edilmesi
   - 
-    title: 'Challenge: More Weather'
+    title: 'Meydan Okuma: Daha fazla hava durumu'
