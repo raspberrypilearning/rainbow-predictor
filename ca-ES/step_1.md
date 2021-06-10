@@ -54,7 +54,7 @@ També pots trobar una versió acabada d'aquest projecte a la secció "Recursos 
 * Colors RGB;
 * Pantalla de la placa Sense HAT;
 
-Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabricació Digital de Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Combineu les formes de la programació per resoldre un problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
