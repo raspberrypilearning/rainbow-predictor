@@ -54,7 +54,7 @@
 * الألوان RGB؛
 * لوحة عرض Sense HAT؛
 
-يتناول هذا المشروع عناصر من المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [إنشاءات برمجية مدمجة لحل مشكلة.](https://www.raspberrypi.org/curriculum/programming/builder)
 
