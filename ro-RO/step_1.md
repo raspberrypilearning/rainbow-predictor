@@ -54,7 +54,7 @@ De asemenea, poți găsi proiectul finalizat în secțiunea „Resurse pentru vo
 * Culori RGB;
 * Afișajul Sense HAT;
 
-Acest proiect acoperă elemente din următoarele domenii din [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Combinarea elementelor de programare pentru a rezolva o problemă.](https://www.raspberrypi.org/curriculum/programming/builder)
 
