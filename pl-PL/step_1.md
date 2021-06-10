@@ -54,7 +54,7 @@ Ukończoną wersję tego projektu można również znaleźć w sekcji "Zasoby dl
 * Kolory RGB;
 * Wyświetlacz Sense HAT;
 
-Projekt ten obejmuje następujące elementy [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Połącz konstrukcje programistyczne, aby rozwiązać problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
