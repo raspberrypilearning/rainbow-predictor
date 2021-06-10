@@ -54,7 +54,7 @@
 * RGB顏色；
 * Sense HAT顯示器；
 
-本專案涵蓋 [Raspberry Pi數位創造課程](http://rpf.io/curriculum)的下列學習要素：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [結合程式設計結構來解決問題。](https://www.raspberrypi.org/curriculum/programming/builder)
 
