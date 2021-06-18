@@ -54,7 +54,7 @@ Je kunt ook een voltooide versie van dit project vinden in de sectie 'Vrijwillig
 * RGB-kleuren;
 * Sense HAT-weergave;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
+Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Combineer programmeerconstructies om een ​​probleem op te lossen.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -70,12 +70,12 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Projectbronnen
 
-* [Starter project](http://jumpto.cc/rainbow-go)
-* [Offline starter Python file](resources/rainbow-rainbow.py)
+* [Startproject](http://jumpto.cc/rainbow-go)
+* [Offline start Python-bestand](resources/rainbow-rainbow.py)
 
 ## Clubleider bronnen
 
-* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
+* [Online voltooid Trinket-project](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
