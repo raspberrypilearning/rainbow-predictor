@@ -1,4 +1,4 @@
-## Inleiding:
+## Inleiding
 
 In dit project gebruik je de temperatuur- en vochtigheidssensoren op de Sense HAT om te voorspellen wanneer er een goede kans is om een regenboog te zien. Wanneer de juiste voorwaarden worden gedetecteerd, toon je een regenboog op de Sense HAT LED matrix.
 
