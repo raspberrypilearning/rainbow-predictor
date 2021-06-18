@@ -1,6 +1,6 @@
 ## Een regenboog voorspellen
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+Regenbogen ontstaan wanneer de zon onder de juiste hoek door waterdruppeltjes schijnt (meestal 's middags). Als het warm is en de luchtvochtigheid hoog, dan is het de moeite waard om te kijken of er een regenboog is.
 
 + Laten we nu alleen de regenboog tonen als de omstandigheden kloppen. Verander je code zodat die er zo uit ziet:
     
