@@ -1,4 +1,4 @@
-## Inleiding:
+## Inleiding
 
 In dit project gebruik je de temperatuur- en vochtigheidssensoren op de Sense HAT om te voorspellen wanneer er een goede kans is om een regenboog te zien. Wanneer de juiste voorwaarden worden gedetecteerd, toon je een regenboog op de Sense HAT LED matrix.
 
@@ -21,6 +21,7 @@ Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](h
 ---
 title: Opmerkingen voor docenten
 ---
+
 ## Inleiding:
 
 In dit project leren kinderen hoe ze de Sense HAT-sensoren kunnen gebruiken om het weer te detecteren en hoe ze een regenboog kunnen weergeven met behulp van de LED-matrix als het warm en vochtig is.
@@ -68,15 +69,14 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 ---
 title: Projectmaterialen
 ---
+
 ## Projectbronnen
 
-* [.zip-bestand met alle projectbronnen](resources/rainbow-project-resources.zip)
 * [Startproject](http://jumpto.cc/rainbow-go)
 * [Offline start Python-bestand](resources/rainbow-rainbow.py)
 
 ## Clubleider bronnen
 
-* [.zip-bestand met alle voltooide projectbronnen](resources/rainbow-volunteer-resources.zip)
 * [Online voltooid Trinket-project](https://trinket.io/python/99114c47b1)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
