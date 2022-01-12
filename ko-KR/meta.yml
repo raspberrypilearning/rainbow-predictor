@@ -17,8 +17,10 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: '소개'
-  - title: 무지개 그리기
-  - title: 센서 데이터 읽기
-  - title: 무지계 예측하기
-  - title: '도전과제: 더 많은 날씨'
+- title: 소개
+  completion: engaged
+- title: 무지개 그리기
+- title: 센서 데이터 읽기
+- title: 무지계 예측하기
+  completion: internal
+- title: '도전과제: 더 많은 날씨'

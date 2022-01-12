@@ -17,8 +17,10 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 'Introduzione'
-  - title: Disegnare un arcobaleno
-  - title: Leggere i dati dai sensori
-  - title: Prevedere un arcobaleno
-  - title: 'Sfida: più condizioni meteo'
+- title: Introduzione
+  completion: engaged
+- title: Disegnare un arcobaleno
+- title: Leggere i dati dai sensori
+- title: Prevedere un arcobaleno
+  completion: internal
+- title: 'Sfida: più condizioni meteo'

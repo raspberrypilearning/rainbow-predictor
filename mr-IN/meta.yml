@@ -17,8 +17,10 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 'परिचय'
-  - title: इंद्रधनुष्य चे रखांकन
-  - title: सेन्सर डेटा वाचन
-  - title: इंद्रधनुष्य सुचवनारे
-  - title: 'आव्हान: अधिक हवामान'
+- title: परिचय
+  completion: engaged
+- title: इंद्रधनुष्य चे रखांकन
+- title: सेन्सर डेटा वाचन
+- title: इंद्रधनुष्य सुचवनारे
+  completion: internal
+- title: 'आव्हान: अधिक हवामान'

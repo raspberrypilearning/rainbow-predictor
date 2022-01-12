@@ -17,8 +17,10 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 'Wprowadzenie'
-  - title: Rysowanie tęczy
-  - title: Odczytywanie danych z czujnika
-  - title: Przewidywanie tęczy
-  - title: 'Wyzwanie: Więcej pogody'
+- title: Wprowadzenie
+  completion: engaged
+- title: Rysowanie tęczy
+- title: Odczytywanie danych z czujnika
+- title: Przewidywanie tęczy
+  completion: internal
+- title: 'Wyzwanie: Więcej pogody'

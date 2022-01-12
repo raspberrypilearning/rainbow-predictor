@@ -17,8 +17,10 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 'Introducción'
-  - title: Dibujando un arco iris
-  - title: Leyendo los datos del sensor
-  - title: Prediciendo un arco iris
-  - title: 'Reto: Más climas'
+- title: Introducción
+  completion: engaged
+- title: Dibujando un arco iris
+- title: Leyendo los datos del sensor
+- title: Prediciendo un arco iris
+  completion: internal
+- title: 'Reto: Más climas'

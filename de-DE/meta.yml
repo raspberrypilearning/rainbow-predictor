@@ -17,8 +17,10 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 'Einleitung'
-  - title: Einen Regenbogen zeichnen
-  - title: Lese die Sensordaten
-  - title: Vorhersage eines Regenbogens
-  - title: 'Herausforderung: Mehr Wetter'
+- title: Einleitung
+  completion: engaged
+- title: Einen Regenbogen zeichnen
+- title: Lese die Sensordaten
+- title: Vorhersage eines Regenbogens
+  completion: internal
+- title: 'Herausforderung: Mehr Wetter'

@@ -17,8 +17,10 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 'Введение'
-  - title: Рисование радуги
-  - title: Чтение данных датчика
-  - title: Предсказывание радуги
-  - title: 'Задание: Больше погоды'
+- title: Введение
+  completion: engaged
+- title: Рисование радуги
+- title: Чтение данных датчика
+- title: Предсказывание радуги
+  completion: internal
+- title: 'Задание: Больше погоды'
