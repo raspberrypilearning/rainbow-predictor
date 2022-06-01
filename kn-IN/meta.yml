@@ -17,8 +17,12 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 'ಪರಿಚಯ: '
-  - title: ಕಾಮನಬಿಲ್ಲು ಚಿತ್ರಿಸುವುದು
-  - title: ಸಂವೇದಕ[sensor] ಡೇಟಾವನ್ನು ಓದುವುದು
-  - title: ಕಾಮನಬಿಲ್ಲು ಮುನ್ಸೂಚನೆ
-  - title: 'ಸವಾಲು: ಹೆಚ್ಚು ಹವಾಮಾನ'
+- title: 'ಪರಿಚಯ: '
+- title: ಕಾಮನಬಿಲ್ಲು ಚಿತ್ರಿಸುವುದು
+- title: ಸಂವೇದಕ[sensor] ಡೇಟಾವನ್ನು ಓದುವುದು
+  completion:
+  - engaged
+- title: ಕಾಮನಬಿಲ್ಲು ಮುನ್ಸೂಚನೆ
+  completion:
+  - internal
+- title: 'ಸವಾಲು: ಹೆಚ್ಚು ಹವಾಮಾನ'

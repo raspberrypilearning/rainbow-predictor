@@ -17,8 +17,12 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 'Вступ'
-  - title: Малювання веселки
-  - title: Зчитування показників датчика
-  - title: Прогнозування веселки
-  - title: 'Завдання: більше погоди'
+- title: Вступ
+- title: Малювання веселки
+- title: Зчитування показників датчика
+  completion:
+  - engaged
+- title: Прогнозування веселки
+  completion:
+  - internal
+- title: 'Завдання: більше погоди'

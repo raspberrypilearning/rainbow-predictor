@@ -17,8 +17,12 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: '介紹'
-  - title: 劃一道彩虹
-  - title: 讀取感測器的數據
-  - title: 預測一道彩虹
-  - title: '挑戰：更多天氣'
+- title: 介紹
+- title: 劃一道彩虹
+- title: 讀取感測器的數據
+  completion:
+  - engaged
+- title: 預測一道彩虹
+  completion:
+  - internal
+- title: 挑戰：更多天氣
