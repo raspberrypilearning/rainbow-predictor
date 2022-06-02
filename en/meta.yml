@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: 'Introduction: '
-  completion: engaged
 - title: Drawing a rainbow
 - title: Reading the sensor data
+  completion:
+  - engaged
 - title: Predicting a rainbow
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: More Weather'

@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introducció
-  completion: engaged
 - title: Dibuixant un arc de Sant Martí
 - title: Llegint les dades del sensor
+  completion:
+  - engaged
 - title: Predient un arc de Sant Martí
-  completion: internal
+  completion:
+  - internal
 - title: 'Repte: Més Temps'

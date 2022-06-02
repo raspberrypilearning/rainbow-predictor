@@ -18,9 +18,11 @@ version: 3
 last_tested: 01/01/2017
 steps:
 - title: Introdução
-  completion: engaged
 - title: Desenhando um arco-íris
 - title: Lendo os dados do sensor
+  completion:
+  - engaged
 - title: Prevendo um arco-íris
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafio: Mais Clima'

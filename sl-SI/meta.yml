@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Uvod
-  completion: engaged
 - title: Risanje mavrice
 - title: Branje podatkov iz senzorja
+  completion:
+  - engaged
 - title: Predvidevanje mavrice
-  completion: internal
+  completion:
+  - internal
 - title: 'Izziv: Več vremena'

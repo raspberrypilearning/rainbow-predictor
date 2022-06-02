@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: المقدمة
-  completion: engaged
 - title: رسم قوس قزح
 - title: قراءة بيانات من الحساس
+  completion:
+  - engaged
 - title: تنبؤ قوس قزح
-  completion: internal
+  completion:
+  - internal
 - title: 'تحدي: المزيد من الطقس'

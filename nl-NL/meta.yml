@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Een regenboog tekenen
 - title: Uitlezen van de sensorgegevens
+  completion:
+  - engaged
 - title: Een regenboog voorspellen
-  completion: internal
+  completion:
+  - internal
 - title: 'Uitdaging: meer weer'

@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: परिचय
-  completion: engaged
 - title: इंद्रधनुष बनाना
 - title: सेंसर डेटा पढ़ना
+  completion:
+  - engaged
 - title: इंद्रधनुष का पूर्वानुमान लगाना
-  completion: internal
+  completion:
+  - internal
 - title: 'चुनौती: अन्य मौसम'

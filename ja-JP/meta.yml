@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: はじめに
-  completion: engaged
 - title: 虹（にじ）をえがく
 - title: センサーデータの読みこみ
+  completion:
+  - engaged
 - title: 虹（にじ）の予測
-  completion: internal
+  completion:
+  - internal
 - title: チャレンジ：天気の追加
