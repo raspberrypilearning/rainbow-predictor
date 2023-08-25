@@ -3,7 +3,7 @@
 في هذا المشروع ، ستستخدم حساسي درجة الحرارة والرطوبة في مشروع Sense HAT للتنبؤ عندما تكون هناك فرصة جيدة لاكتشاف قوس قزح. عند تحقق الشروط المناسبة، سيعرض قوس قزح على المصفوفة الضوئية Sense HAT LED Matrix.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
