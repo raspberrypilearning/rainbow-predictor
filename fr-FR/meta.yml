@@ -23,7 +23,11 @@ steps:
     title: Dessiner un arc-en-ciel
   - 
     title: Lecture des données du capteur
+    completion:
+      - engaged
   - 
     title: Prédire un arc-en-ciel
+    completion:
+      - internal
   - 
     title: 'Défi : Plus de Météo'
