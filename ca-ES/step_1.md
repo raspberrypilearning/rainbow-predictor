@@ -3,7 +3,7 @@
 En aquest projecte faràs servir els sensors de temperatura i humitat de la placa Sense HAT per predir quan hi ha una bona possibilitat de què aparegui un arc de Sant Martí. Quan es detectin les condicions adequades, apareixerà un arc de Sant Martí a la matriu de leds del Sense HAT.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
