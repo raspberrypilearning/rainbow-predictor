@@ -23,7 +23,11 @@ steps:
     title: Dibujando un arco iris
   - 
     title: Leyendo los datos del sensor
+    completion:
+      - engaged
   - 
     title: Prediciendo un arco iris
+    completion:
+      - internal
   - 
     title: 'Reto: Más climas'
