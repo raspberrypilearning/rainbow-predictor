@@ -3,7 +3,7 @@
 Bu projede, Sense HAT üzerindeki sıcaklık ve nem sensörlerini, gökkuşağının oluşabileceği uygun zamanı tahmin etmede kullanacaksın. Doğru koşullar tespit edildiğinde, Sense HAT LED Matrisinde gökkuşağı görüntüleyeceksin.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
