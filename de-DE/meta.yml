@@ -23,7 +23,11 @@ steps:
     title: Einen Regenbogen zeichnen
   - 
     title: Lese die Sensordaten
+    completion:
+      - engaged
   - 
     title: Vorhersage eines Regenbogens
+    completion:
+      - internal
   - 
     title: 'Herausforderung: Mehr Wetter'
