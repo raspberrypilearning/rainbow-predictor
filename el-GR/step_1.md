@@ -3,7 +3,7 @@
 Σε αυτό το έργο θα χρησιμοποιήσεις τους αισθητήρες θερμοκρασίας και υγρασίας στο Sense HAT για να προβλέψεις πότε υπάρχει καλή πιθανότητα να εντοπίσεις ένα ουράνιο τόξο. Όταν εντοπιστούν οι κατάλληλες συνθήκες, θα εμφανιστεί ένα ουράνιο τόξο στο LED Matrix του Sense Hat.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
