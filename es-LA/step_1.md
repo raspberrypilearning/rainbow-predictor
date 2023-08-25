@@ -3,7 +3,7 @@
 En este proyecto, vas a utilizar los sensores de temperatura y humedad del Sense HAT para predecir cuando hay una buena posibilidad de ver un arcoíris. Cuando se detecten las condiciones adecuadas, se mostrará un arcoíris en la matriz LED del Sense HAT.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
