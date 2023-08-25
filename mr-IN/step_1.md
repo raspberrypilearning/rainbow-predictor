@@ -3,7 +3,7 @@
 या प्रोजेक्ट मध्ये इंद्रधनुष्य दाखविण्याची चांगली संधी कधी येईल याचा अंदाज लावण्यासाठी आपण Sense HAT तापमान आणि आर्द्रता सेन्सर वापरू या. जेव्हा योग्य परिस्थिती आढळल्यास आपण Sense HAT LED Matrix प्रदर्शित कराल.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
