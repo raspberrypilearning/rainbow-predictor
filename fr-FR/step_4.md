@@ -1,6 +1,6 @@
 ## Prédire un arc-en-ciel
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+Les arcs-en-ciel se produisent lorsque le soleil brille à travers des gouttelettes d'eau à angle droit (généralement l'après-midi). S'il fait chaud et que l'humidité est élevée, cela vaut la peine de vérifier s'il y a un arc-en-ciel.
 
 + Maintenant, ne montrons l'arc-en-ciel que si les conditions sont correctes. Change ton code pour ressembler à ceci :
     
