@@ -23,7 +23,11 @@ steps:
     title: Рисование радуги
   - 
     title: Чтение данных датчика
+    completion:
+      - engaged
   - 
     title: Предсказывание радуги
+    completion:
+      - internal
   - 
     title: 'Задание: Больше погоды'
