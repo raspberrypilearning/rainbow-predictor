@@ -3,7 +3,7 @@
 In dit project gebruik je de temperatuur- en vochtigheidssensoren op de Sense HAT om te voorspellen wanneer er een goede kans is om een regenboog te zien. Wanneer de juiste voorwaarden worden gedetecteerd, toon je een regenboog op de Sense HAT LED matrix.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
