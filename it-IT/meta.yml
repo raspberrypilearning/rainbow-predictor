@@ -23,7 +23,11 @@ steps:
     title: Disegnare un arcobaleno
   - 
     title: Leggere i dati dai sensori
+    completion:
+      - engaged
   - 
     title: Prevedere un arcobaleno
+    completion:
+      - internal
   - 
     title: 'Sfida: più condizioni meteo'
