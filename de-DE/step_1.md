@@ -3,7 +3,7 @@
 In diesem Projekt wirst du die Temperatur- und Feuchtigkeitssensoren des Sense Hat verwenden, um vorherzusagen, wann eine gute Chance besteht, einen Regenbogen zu entdecken. Wenn die richtigen Bedingungen erkannt wurden, wird auf der Sense HAT LED Matrix ein Regenbogen angezeigt.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
