@@ -23,7 +23,11 @@ steps:
     title: Een regenboog tekenen
   - 
     title: Uitlezen van de sensorgegevens
+    completion:
+      - engaged
   - 
     title: Een regenboog voorspellen
+    completion:
+      - internal
   - 
     title: 'Uitdaging: meer weer'
