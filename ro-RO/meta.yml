@@ -23,7 +23,11 @@ steps:
     title: Desenarea unui curcubeu
   - 
     title: Citirea datelor senzorilor
+    completion:
+      - engaged
   - 
     title: Prezicerea unui curcubeu
+    completion:
+      - internal
   - 
     title: 'Provocare: Mai multă vreme'
