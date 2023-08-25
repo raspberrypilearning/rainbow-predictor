@@ -3,7 +3,7 @@
 在這個專案中，你將會使用在Sense HAT上的溫度及濕度的感應器來預測何時會有好的機會來發現彩虹。 當對的情況被偵測到，你將會在Sense HAT LED Matrix上顯示一道彩虹。
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
