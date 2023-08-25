@@ -23,7 +23,11 @@ steps:
     title: Rysowanie tęczy
   - 
     title: Odczytywanie danych z czujnika
+    completion:
+      - engaged
   - 
     title: Przewidywanie tęczy
+    completion:
+      - internal
   - 
     title: 'Wyzwanie: Więcej pogody'
