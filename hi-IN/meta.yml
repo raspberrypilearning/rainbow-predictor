@@ -23,7 +23,11 @@ steps:
     title: इंद्रधनुष बनाना
   - 
     title: सेंसर डेटा पढ़ना
+    completion:
+      - engaged
   - 
     title: इंद्रधनुष का पूर्वानुमान लगाना
+    completion:
+      - internal
   - 
     title: 'चुनौती: अन्य मौसम'
