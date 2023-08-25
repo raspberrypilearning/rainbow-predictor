@@ -3,7 +3,7 @@
 このプロジェクトでは、いつ虹（にじ）に出会えるかを予測するためにSense HAT上にある温度(おんど)センサーと湿度(しつど)センサーを使います。 適切な条件がそろったときにSense HAT LED Matrixに虹（にじ）を表示します。
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
