@@ -23,7 +23,11 @@ steps:
     title: इंद्रधनुष्य चे रखांकन
   - 
     title: सेन्सर डेटा वाचन
+    completion:
+      - engaged
   - 
     title: इंद्रधनुष्य सुचवनारे
+    completion:
+      - internal
   - 
     title: 'आव्हान: अधिक हवामान'
