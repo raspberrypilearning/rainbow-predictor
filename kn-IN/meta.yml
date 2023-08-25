@@ -23,7 +23,11 @@ steps:
     title: ಕಾಮನಬಿಲ್ಲು ಚಿತ್ರಿಸುವುದು
   - 
     title: ಸಂವೇದಕ[sensor] ಡೇಟಾವನ್ನು ಓದುವುದು
+    completion:
+      - engaged
   - 
     title: ಕಾಮನಬಿಲ್ಲು ಮುನ್ಸೂಚನೆ
+    completion:
+      - internal
   - 
     title: 'ಸವಾಲು: ಹೆಚ್ಚು ಹವಾಮಾನ'
