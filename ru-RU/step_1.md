@@ -3,7 +3,7 @@
 В этом проекте ты будешь использовать датчики температуры и влажности на Sense HAT для прогнозирования того, когда есть хороший шанс обнаружить радугу. Когда будут обнаружены правильные условия, ты отобразишь радугу на светодиодной матрице Sense HAT.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
