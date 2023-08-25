@@ -3,7 +3,7 @@
 이 프로젝트에서는 Sense HAT의 온도 및 습도 센서를 사용하여 무지개를 발견 할 가능성이 높은 시기를 예측합니다. 알맞은 조건이 감지되면 Sense HAT LED 매트릭스에 무지개가 표시됩니다.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
