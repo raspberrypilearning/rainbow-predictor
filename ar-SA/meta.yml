@@ -23,7 +23,11 @@ steps:
     title: رسم قوس قزح
   - 
     title: قراءة بيانات من الحساس
+    completion:
+      - engaged
   - 
     title: تنبؤ قوس قزح
+    completion:
+      - internal
   - 
     title: 'تحدي: المزيد من الطقس'
