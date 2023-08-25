@@ -23,7 +23,11 @@ steps:
     title: Малювання веселки
   - 
     title: Зчитування показників датчика
+    completion:
+      - engaged
   - 
     title: Прогнозування веселки
+    completion:
+      - internal
   - 
     title: 'Завдання: більше погоди'
