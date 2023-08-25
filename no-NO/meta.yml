@@ -23,7 +23,11 @@ steps:
     title: Drawing a rainbow
   - 
     title: Reading the sensor data
+    completion:
+      - engaged
   - 
     title: Predicting a rainbow
+    completion:
+      - internal
   - 
     title: 'Challenge: More Weather'
