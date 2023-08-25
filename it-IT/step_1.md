@@ -3,7 +3,7 @@
 In questo progetto utilizzerai i sensori di temperatura e umidità sul Sense HAT per prevedere quando c'è una buona probabilità di avvistare un arcobaleno. Quando verranno rilevate le giuste condizioni, verrà visualizzato un arcobaleno sulla matrice LED del Sense HAT.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
