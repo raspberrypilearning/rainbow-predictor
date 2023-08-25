@@ -3,7 +3,7 @@
 इस प्रोजेक्ट में आप Sense HAT पर तापमान और नमी सेंसर का उपयोग यह पूर्वानुमान लगाने के लिए करेंगे कि इंद्रधनुष को देखने का अच्छा मौका कब है। जब सही परिस्थितियों का पता चल जाता है तो आप Sense HAT LED मैट्रिक्स पर इंद्रधनुष प्रदर्शित करेंगे।
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
