@@ -3,7 +3,7 @@
 W tym projekcie użyjesz czujnika temperatury i wilgotności w module Sense HAT. Moduł HAT ( z ang."Hardware attached on top”) są to moduł dołączane na wierzchu układów- w tym przypadku mocowane do pinów GPIO Raspberry Pi. Wykorzystasz Sense HAT aby przewidzieć, kiedy istnieje duża szansa na dostrzeżenie tęczy. Po wykryciu odpowiednich warunków na matrycy LED Sense HAT wyświetli się tęcza.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
