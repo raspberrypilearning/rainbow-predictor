@@ -3,7 +3,7 @@
 Dans ce projet, tu utiliseras les capteurs de température et d'humidité du Sense HAT pour prédire quand il y a de bonnes chances de repérer un arc-en-ciel. Lorsque les bonnes conditions sont détectées, tu afficheras un arc-en-ciel sur la matrice LED Sense HAT.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
@@ -54,7 +54,7 @@ Vous pouvez aussi trouver une version complétée du projet dans la section « R
 * Les couleurs RVB ;
 * Affichage Sense HAT ;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
+Ce projet couvre les éléments suivants du [Programme de Créativité Numérique de Raspberry Pi](https://rpf.io/curriculum) :
 
 * [Combiner des constructions de programmation pour résoudre un problème.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -70,12 +70,12 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Ressources du projet
 
-* [Starter project](http://jumpto.cc/rainbow-go)
-* [Offline starter Python file](resources/rainbow-rainbow.py)
+* [Projet de démarrage](http://jumpto.cc/rainbow-go)
+* [Fichier Python de démarrage hors ligne](resources/rainbow-rainbow.py)
 
 ## Ressources pour le responsable de club
 
-* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
+* [Trinket Python en-ligne completé](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
