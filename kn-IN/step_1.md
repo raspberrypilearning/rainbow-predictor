@@ -3,7 +3,7 @@
 ಈ ಯೋಜನೆಯಲ್ಲಿ ನೀವು ಕಾಮನಬಿಲ್ಲು ಗುರುತಿಸಲು ಉತ್ತಮ ಅವಕಾಶವಿದ್ದಾಗ Sense HAT‌ನಲ್ಲಿ ತಾಪಮಾನ ಮತ್ತು ಆರ್ದ್ರತೆ ಸಂವೇದಕಗಳನ್ನು ಬಳಸುತ್ತೀರಿ. ಸರಿಯಾದ ಪರಿಸ್ಥಿತಿಗಳು ಪತ್ತೆಯಾದಾಗ ನೀವು Sense HAT LED Matrixನಲ್ಲಿ ಕಾಮನಬಿಲ್ಲು ಪ್ರದರ್ಶಿಸುತ್ತೀರಿ.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
