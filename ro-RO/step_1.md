@@ -3,7 +3,7 @@
 În acest proiect, vei folosi senzorii de temperatură și umiditate de pe Sense HAT pentru a prezice când există o șansă bună de a depista curcubeul. Când condițiile corecte sunt detectate, vei afișa un curcubeu pe matricea Sense HAT.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe> <img src="images/rainbow-final.png" />
 </div>
 
