@@ -23,7 +23,11 @@ steps:
     title: Gökkuşağının çizilmesi
   - 
     title: Sensör verilerinin okunması
+    completion:
+      - engaged
   - 
     title: Gökkuşağının tahmin edilmesi
+    completion:
+      - internal
   - 
     title: 'Meydan Okuma: Daha fazla hava durumu'
