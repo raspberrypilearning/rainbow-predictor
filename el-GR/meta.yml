@@ -23,7 +23,11 @@ steps:
     title: Σχεδίαση ουράνιου τόξου
   - 
     title: Ανάγνωση δεδομένων αισθητήρων
+    completion:
+      - engaged
   - 
     title: Πρόβλεψη ουράνιου τόξου
+    completion:
+      - internal
   - 
     title: 'Πρόκληση: Περισσότερα Καιρικά Φαινόμενα'
