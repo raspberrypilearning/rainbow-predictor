@@ -1,6 +1,6 @@
 ## Przewidywanie tęczy
 
-Tęcze pojawiają się, gdy słońce świeci się przez kropelki wody odpowiednim kątem (zwykle po południu.) Jeśli jest ciepło i wilgotność jest wysoka, warto sprawdzić, czy jest tęcza.
+Tęcza zdarza się, gdy słońce świeci przez krople wody pod właściwym kątem (zazwyczaj po południu). Jeśli jest ciepło i jest wysoka wilgotność warto sprawdzić, czy nie pojawiła się tęcza.
 
 + Teraz pokażmy tęczę tylko wtedy, gdy warunki są odpowiednie. Zmień kod, aby wyglądał następująco:
     
