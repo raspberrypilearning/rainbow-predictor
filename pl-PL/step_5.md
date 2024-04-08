@@ -2,7 +2,7 @@
 
 ## Wyzwanie: Więcej pogody
 
-Czy możesz wyświetlić obraz słońca, gdy temperatura wynosi powyżej 20, a wilgotność jest poniżej 80%.
+Czy możesz wyświetlić obraz słońca, gdy temperatura wynosi powyżej 20, a wilgotność jest poniżej 80%?
 
 Wskazówka: użyj `elif` aby sprawdzić inne rodzaje pogody. Dla każdego rodzaju pogody musisz uwzględnić warunek, aby sprawdzał rodzaj pogody, a następnie kod, aby ustawił wyświetlanie na Sense HAT.
 
@@ -12,7 +12,7 @@ Wskazówka: Możesz utworzyć proste słońce, ustawiając wszystkie piksele na 
 
 ![zrzut ekranu](images/rainbow-sun.png)
 
-Może zrobisz też obraz śniegu gdy wilgotność jest powyżej 80% i temperatura jest poniżej zera.
+Może zrobisz też obraz śniegu, gdy wilgotność jest powyżej 80% i temperatura jest poniżej zera?
 
 Wskazówka: Ustaw czerwony, zielony i niebieski na maksymalnie 255, aby utworzyć biały.
 
@@ -26,5 +26,6 @@ Ten projekt został przetłumaczony przez wolontariuszy:
 
 Emil Kielar
 Paweł Wilk
+Natalia Adamska
 
 Dzięki wolontariuszom możemy dać ludziom na całym świecie szansę nauki w ich własnym języku. Możesz pomóc nam dotrzeć do większej liczby osób, zgłaszając się na ochotnika do tłumaczenia - więcej informacji na stronie [rpf.io/translate](https://rpf.io/translate).
