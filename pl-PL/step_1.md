@@ -1,6 +1,6 @@
 ## Wprowadzenie:
 
-W tym projekcie użyjesz czujnika temperatury i wilgotności w module Sense HAT. Moduł HAT ( z ang."Hardware attached on top”) są to moduł dołączane na wierzchu układów- w tym przypadku mocowane do pinów GPIO Raspberry Pi. Wykorzystasz Sense HAT aby przewidzieć, kiedy istnieje duża szansa na dostrzeżenie tęczy. Po wykryciu odpowiednich warunków na matrycy LED Sense HAT wyświetli się tęcza.
+W tym projekcie użyjesz czujnika temperatury i wilgotności w matrycy Sense HAT, aby przewidzieć czy jest duża szansa na zaobserwowanie tęczy. Po wykryciu odpowiednich warunków na matrycy LED Sense HAT wyświetli się tęcza.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/eaea4cb76c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -37,7 +37,7 @@ Jest też Trinket zawierający ukończony projekt:
 
 ## Zasoby Offline
 
-Ten projekt można również [ukończyć offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) na komputerze Raspberry Pi z Sense HAT. Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Można znaleźć tam sekcję "Źródła projektu", która zawiera zasoby, potrzebne dzieciom do wykonania projektu w wersji offline. Upewnij się, że każde dziecko ma dostęp do tych zasobów. Ta sekcja zawiera następujące pliki:
+Ten projekt można również [ukończyć offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) na komputerze Raspberry Pi z Sense HAT. Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Można znaleźć tam sekcję "Źródła", która zawiera zasoby, potrzebne dzieciom do wykonania projektu w wersji offline. Upewnij się, że każde dziecko ma dostęp do tych zasobów. Ta sekcja zawiera następujące pliki:
 
 * rainbow/rainbow.py
 
@@ -54,7 +54,7 @@ Ukończoną wersję tego projektu można również znaleźć w sekcji "Zasoby dl
 * Kolory RGB;
 * Wyświetlacz Sense HAT;
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
+Projekt ten obejmuje następujące elementy [Cyfrowego programu nauczania Raspberry Pi](https://rpf.io/curriculum):
 
 * [Połącz konstrukcje programistyczne, aby rozwiązać problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -70,12 +70,12 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Zasoby projektu
 
-* [Starter project](http://jumpto.cc/rainbow-go)
-* [Offline starter Python file](resources/rainbow-rainbow.py)
+* [Projekt początkowy](http://jumpto.cc/rainbow-go)
+* [Startowy plik w Python - wersja offline](resources/rainbow-rainbow.py)
 
 ## Zasoby dla lidera klubu
 
-* [Online completed Trinket project](https://trinket.io/python/eaea4cb76c)
+* [Skończony online projekt Trinket](https://trinket.io/python/eaea4cb76c)
 * [rainbow-finished/rainbow.py](resources/rainbow-final-rainbow.py)
 
 \--- /collapse \---
