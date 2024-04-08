@@ -1,6 +1,6 @@
 ## Przewidywanie tęczy
 
-Rainbows happen when the sun shines through water droplets at the right angle (usually in the afternoon). If it's warm and the humidity is high then it's worth checking to see if there's a rainbow.
+Tęcza zdarza się, gdy słońce świeci przez krople wody pod właściwym kątem (zazwyczaj po południu). Jeśli jest ciepło i jest wysoka wilgotność warto sprawdzić, czy nie pojawiła się tęcza.
 
 + Teraz pokażmy tęczę tylko wtedy, gdy warunki są odpowiednie. Zmień kod, aby wyglądał następująco:
     
